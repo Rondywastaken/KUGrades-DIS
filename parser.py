@@ -54,7 +54,8 @@ def parse_link(link: str) -> tuple[str, dict]:
         data["title"] = soup.find("h2").text.strip()
         data["term"] = get_entry(soup, "Termin")
         data["ects"] = get_entry(soup, "ECTS")
-
+        
+        """
         # not all terms have other terms section. leaving empty if not
         try:
             # remove other terms (for some reason url with just B1 other terms shows itself but not for urls with B1-1,
@@ -67,6 +68,7 @@ def parse_link(link: str) -> tuple[str, dict]:
                     break
         except BaseException:
             data["other_terms"] = []
+        """
 
         no_data_str = "Fordelingen vises ikke da tre eller færre har været til denne eksamen."
         if soup.find_all("table")[1].find("td").text.strip() == no_data_str :
