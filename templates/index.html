@@ -3,9 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>KU-Grades</title>
+  <link rel="stylesheet" href="{{ url_for("static", filename="styles/style.css") }}">
 </head>
 <body>
-  <h1>Hello, World</h1>
+  <div id="content-container">
+    <h1>KU-Grades 2.0</h1>
+    <div id="search">
+      <form action="/" method="get">
+        <input  type="text" placeholder="Search...">
+        <button type="submit">Search</button>
+      </form>
+    </div>
+  </div>
 </body>
 </html>
