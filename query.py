@@ -23,3 +23,27 @@ def get_courses(search_course):
     result = cur.fetchall()
     cur.close()
     return result
+
+def get_latest_exam (course_id):
+    query = load_query("get_latest_exam.sql")
+    cur = connect_db()
+    cur.execute(query, (course_id,))
+    result = cur.fetchall()
+    cur.close()
+    return result
+
+def get_exam_by_term (course_id, term):
+    query = load_query("get_exam_by_term.sql")
+    cur = connect_db()
+    cur.execute(query, (course_id, term))
+    result = cur.fetchall()
+    cur.close()
+    return result
+
+def get_term_for_course (course_id):
+    query = load_query("get_term_for_course.sql")
+    cur = connect_db()
+    cur.execute(query, (course_id,))
+    result = cur.fetchall()
+    cur.close()
+    return result
