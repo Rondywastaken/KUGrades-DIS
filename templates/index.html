@@ -1,151 +1,84 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>KU Grades — Know before you enroll</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,700;12..96,800&family=Outfit:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
-</head>
-<body>
+{% extends "base.html" %}
+{% from "_macros.html" import search_box %}
 
-  <header class="site-header">
-    <a href="/" class="logo">
-      <img src="{{ url_for('static', filename='images/kulogo.png') }}" alt="University of Copenhagen">
-      <span class="logo-divider"></span>
-      <span class="logo-label">Grades</span>
+{% block title %}KU Grades — Know before you enroll{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <div class="hero-content">
+    <p class="eyebrow">Grade Explorer · DIKU</p>
+    <h1>The syllabus doesn't show<br /><span>the average.</span></h1>
+    <p class="hero-sub">
+      Search any UCPH course code to see the actual exam stats from past semesters.
+    </p>
+
+    {{ search_box('hero', 'Course name or code, e.g. Algorithms', q) }}
+
+    <div class="quick-tags">
+      <a href="/?q=Algorithms">Algorithms</a>
+      <a href="/?q=Databases">Databases</a>
+      <a href="/?q=Programming">Programming</a>
+      <a href="/?q=Machine+Learning">Machine Learning</a>
+      <a href="/?q=Statistics">Statistics</a>
+    </div>
+  </div>
+</section>
+
+{% if results %}
+<section class="search-results-section">
+  <div class="search-results-header">
+    {{ results|length }} course{{ 's' if results|length != 1 }} for &ldquo;{{ q }}&rdquo;
+  </div>
+  <div class="results-grid">
+    {% for course in results %}
+    <a href="/course/{{ course.id }}" class="result-card">
+      <div class="result-card-top">
+        <span class="result-code">{{ course.id }}</span>
+        <span class="result-ects">{{ course.ects }} ECTS</span>
+      </div>
+      <div class="result-name">{{ course.name }}</div>
+      <div class="result-institution">{{ course.institution }}</div>
+      {% if course.exam %}
+      <div class="result-stats">
+        <span class="result-stat">
+          <i class="fa-solid fa-chart-line"></i>
+          Avg <strong>{{ course.exam.avg if course.exam.avg is not none else '—' }}</strong>
+        </span>
+        <span class="result-stat">
+          <i class="fa-solid fa-percent"></i>
+          Pass <strong>{{ course.exam.pass_rate }}%</strong>
+        </span>
+        <span class="result-stat result-stat--term">{{ course.exam.term | term_label }}</span>
+      </div>
+      {% else %}
+      <div class="result-no-data">No exam data</div>
+      {% endif %}
     </a>
-    <nav>
-      <a href="#">Courses</a>
-      <a href="#">About</a>
-    </nav>
-  </header>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
 
-  <main>
-
-    <!-- Hero: two-column split -->
-    <section class="hero">
-
-      <div class="hero-content">
-        <p class="eyebrow">Grade Explorer · DIKU</p>
-        <h1>The syllabus doesn't show<br><span>the average.</span></h1>
-        <p class="hero-sub">Search any UCPH course code to see the actual exam stats from past semesters.</p>
-
-        <form class="search-form" method="get" action="/">
-          <div class="search-box">
-            <svg class="search-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8">
-              <circle cx="8.5" cy="8.5" r="5.5"/>
-              <path d="m13.5 13.5 3 3" stroke-linecap="round"/>
-            </svg>
-            <input
-              type="text"
-              name="q"
-              placeholder="Course name or code, e.g. Algorithms"
-              value="{{ request.args.get('q', '') }}"
-              autocomplete="off"
-            >
-          </div>
-        </form>
-
-        <div class="quick-tags">
-          <a href="/?q=Algorithms">Algorithms</a>
-          <a href="/?q=Databases">Databases</a>
-          <a href="/?q=Calculus">Calculus</a>
-          <a href="/?q=Machine+Learning">Machine Learning</a>
-          <a href="/?q=Statistics">Statistics</a>
-        </div>
-      </div>
-
-      <!-- Grade preview card — right column -->
-      <div class="hero-card">
-        <div class="preview-card">
-          <div class="preview-card-header">
-            <div class="course-code">NDAB21005U</div>
-            <div class="course-name">Algorithms and Data Structures</div>
-            <div class="course-meta">Computer Science · 5 terms · 2020–2024</div>
-          </div>
-          <div class="grade-bars">
-            <div class="grade-row">
-              <span class="grade-label">12</span>
-              <div class="grade-track"><div class="grade-fill" style="width: 31%"></div></div>
-              <span class="grade-pct">31%</span>
-            </div>
-            <div class="grade-row">
-              <span class="grade-label">10</span>
-              <div class="grade-track"><div class="grade-fill" style="width: 28%"></div></div>
-              <span class="grade-pct">28%</span>
-            </div>
-            <div class="grade-row">
-              <span class="grade-label">7</span>
-              <div class="grade-track"><div class="grade-fill" style="width: 19%; opacity: 0.7"></div></div>
-              <span class="grade-pct">19%</span>
-            </div>
-            <div class="grade-row">
-              <span class="grade-label">4</span>
-              <div class="grade-track"><div class="grade-fill" style="width: 11%; opacity: 0.5"></div></div>
-              <span class="grade-pct">11%</span>
-            </div>
-            <div class="grade-row">
-              <span class="grade-label">02</span>
-              <div class="grade-track"><div class="grade-fill" style="width: 7%; opacity: 0.35"></div></div>
-              <span class="grade-pct">7%</span>
-            </div>
-            <div class="grade-divider"></div>
-            <div class="grade-row">
-              <span class="grade-label">00</span>
-              <div class="grade-track"><div class="grade-fill fail" style="width: 3%"></div></div>
-              <span class="grade-pct">3%</span>
-            </div>
-            <div class="grade-row">
-              <span class="grade-label">-3</span>
-              <div class="grade-track"><div class="grade-fill fail" style="width: 1%"></div></div>
-              <span class="grade-pct">1%</span>
-            </div>
-          </div>
-          <div class="preview-card-footer">
-            <span class="preview-stat">Latest: <strong>9.1</strong> <span class="trend up">↑ 0.6</span></span>
-            <span class="preview-stat">All-time avg: <strong>8.5</strong></span>
-            <span class="preview-stat">Pass rate: <strong>93%</strong></span>
-            <div class="sparkbars" title="Term averages: 7.8 · 8.2 · 8.6 · 8.9 · 9.1">
-              <div class="sparkbar" style="height: 56%"></div>
-              <div class="sparkbar" style="height: 67%"></div>
-              <div class="sparkbar" style="height: 78%"></div>
-              <div class="sparkbar" style="height: 89%"></div>
-              <div class="sparkbar active" style="height: 100%"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </section>
-
-    <!-- Stats -->
-    <section class="stats">
-      <div class="stat-card">
-        <div class="stat-value">420</div>
-        <div class="stat-label">Courses</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-value">6,969</div>
-        <div class="stat-label">Exam Reports</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-value">67</div>
-        <div class="stat-label">Faculties</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-value">2025</div>
-        <div class="stat-label">Last Updated</div>
-      </div>
-    </section>
-
-  </main>
-
-  <footer>
-    Built by students at <a href="#">DIKU</a> · University of Copenhagen
-  </footer>
-
-</body>
-</html>
+<section class="stats">
+  <div class="stat-card">
+    <i class="fa-solid fa-graduation-cap stat-icon"></i>
+    <div class="stat-value">1,894</div>
+    <div class="stat-label">Courses</div>
+  </div>
+  <div class="stat-card">
+    <i class="fa-solid fa-file-lines stat-icon"></i>
+    <div class="stat-value">6,006</div>
+    <div class="stat-label">Exam Reports</div>
+  </div>
+  <div class="stat-card">
+    <i class="fa-solid fa-building-columns stat-icon"></i>
+    <div class="stat-value">10</div>
+    <div class="stat-label">Faculties</div>
+  </div>
+  <div class="stat-card">
+    <i class="fa-solid fa-rotate stat-icon"></i>
+    <div class="stat-value">2026</div>
+    <div class="stat-label">Last Updated</div>
+  </div>
+</section>
+{% endblock %}

@@ -3,6 +3,9 @@
 import psycopg2
 import json
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 institutions = {
     65718: "Biologisk Institut",
@@ -47,13 +50,17 @@ def insert_exam(cur, course_id, term, exam_type, attended, registered, passed, g
   )
 
 try:
-  conn = psycopg2.connect(
-    database="",
-    user="postgres",
-    password="",
-    host="",
-    port=""
-  )
+  database_url = os.environ.get("DATABASE_URL")
+  if database_url:
+    conn = psycopg2.connect(database_url)
+  else:
+    conn = psycopg2.connect(
+      database="kugrades",
+      user="jack",
+      password="",
+      host="localhost",
+      port="5432"
+    )
   cur = conn.cursor()
 
   for ins_id, ins_name in institutions.items():

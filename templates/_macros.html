@@ -1,0 +1,26 @@
+{% macro search_box(variant='hero', placeholder='Search courses…', value='') %}
+<form class="search-form{% if variant == 'header' %} search-form--header{% endif %}" method="get" action="/">
+  <div class="search search--{{ variant }}" data-course-search>
+    <i class="fa-solid fa-magnifying-glass search-icon"></i>
+    <input
+      type="text"
+      name="q"
+      data-search-input
+      placeholder="{{ placeholder }}"
+      value="{{ value }}"
+      autocomplete="off"
+    />
+    <ul class="search-dropdown hidden" data-search-dropdown></ul>
+  </div>
+</form>
+{% endmacro %}
+
+{% macro exam_stats(exam) %}
+<div class="exam-stats-row">
+  <span><i class="fa-solid fa-users"></i> Registered: <strong>{{ exam.registered }}</strong></span>
+  <span><i class="fa-solid fa-person-walking-arrow-right"></i> Attended: <strong>{{ exam.attended }}</strong></span>
+  <span><i class="fa-solid fa-check"></i> Passed: <strong>{{ exam.passed }}</strong></span>
+  <span><i class="fa-solid fa-chart-line"></i> Avg: <strong>{{ exam.avg if exam.avg is not none else '—' }}</strong></span>
+  <span><i class="fa-solid fa-percent"></i> Pass rate: <strong>{{ exam.pass_rate }}%</strong></span>
+</div>
+{% endmacro %}

@@ -1,0 +1,109 @@
+{% extends "base.html" %}
+{% from "_macros.html" import search_box, exam_stats %}
+
+{% block title %}{{ course.name }} — KU Grades{% endblock %}
+
+{% block header_search %}
+{{ search_box('header', 'Search courses…') }}
+{% endblock %}
+
+{% block content %}
+<div class="course-detail">
+  <a href="/" class="back-link">
+    <i class="fa-solid fa-arrow-left"></i> Back to search
+  </a>
+
+  <p class="eyebrow eyebrow--center">
+    {{ course.id }} &middot; {{ course.institution }} &middot; {{ course.ects }} ECTS
+  </p>
+  <h1 class="detail-title">{{ course.name }}</h1>
+
+  <div class="course-layout">
+    <div class="course-left">
+      <div class="term-tabs">
+        {% for term in terms %}
+        <button class="tab-btn {% if loop.first %}active{% endif %}" data-tab="{{ loop.index0 }}">
+          {{ term.term | term_label }}
+        </button>
+        {% endfor %}
+      </div>
+
+      {% for term in terms %}
+      <div class="tab-panel {% if not loop.first %}hidden{% endif %}" id="panel-{{ loop.index0 }}">
+        {% if term.exam %}
+        <div class="detail-chart-container">
+          <canvas id="chart-{{ loop.index0 }}"></canvas>
+        </div>
+        {{ exam_stats(term.exam) }}
+        {% if term.reexam %}
+        <div class="reexam-section">
+          <div class="reexam-divider">
+            <i class="fa-solid fa-rotate-right"></i> Re-exam
+          </div>
+          <div class="detail-chart-container detail-chart-container--sm">
+            <canvas id="reexam-chart-{{ loop.index0 }}"></canvas>
+          </div>
+          {{ exam_stats(term.reexam) }}
+        </div>
+        {% endif %}
+        {% else %}
+        <div class="no-exam-data">
+          <i class="fa-solid fa-circle-xmark no-exam-icon"></i>
+          No exam data available for this term.
+        </div>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="course-right">
+      <div class="summary-stats">
+        <div class="summary-stat">
+          <strong>
+            {{ stats.latest_avg if stats.latest_avg is not none else '—' }}
+            <span class="trend {{ stats.trend }}">
+              {% if stats.trend == 'up' %}<i class="fa-solid fa-arrow-trend-up"></i>
+              {% elif stats.trend == 'down' %}<i class="fa-solid fa-arrow-trend-down"></i>
+              {% else %}&rarr;{% endif %}
+            </span>
+          </strong>
+          Latest average
+        </div>
+        <div class="summary-stat">
+          <strong>{{ stats.all_time_avg if stats.all_time_avg is not none else '—' }}</strong>
+          All-time average
+        </div>
+        <div class="summary-stat">
+          <strong>{{ stats.pass_rate }}%</strong>
+          Latest pass rate
+        </div>
+        <div class="summary-stat">
+          <strong>{{ stats.term_count }}</strong>
+          Terms recorded
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="trend-card">
+    <div class="trend-card-header">
+      <i class="fa-solid fa-chart-line"></i> Average grade over time
+    </div>
+    <div class="trend-chart-container">
+      <canvas id="trendChart"></canvas>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="{{ url_for('static', filename='js/grade-chart.js') }}"></script>
+<script src="{{ url_for('static', filename='js/course-page.js') }}"></script>
+<script>
+  initCoursePage({
+    charts: {{ charts | tojson }},
+    trend: {{ trend_points | tojson }},
+  });
+</script>
+{% endblock %}
