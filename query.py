@@ -26,16 +26,14 @@ def get_courses(search_course):
 
 def get_latest_exam (course_id):
     query = load_query("get_latest_exam.sql")
-    finding = f"%{search_course}%"
     cur = connect_db()
-    cur.execute(query, (course_id))
+    cur.execute(query, (course_id,))
     result = cur.fetchall()
     cur.close()
     return result
 
 def get_exam_by_term (course_id, term):
     query = load_query("get_exam_by_term.sql")
-    finding = f"%{search_course}%"
     cur = connect_db()
     cur.execute(query, (course_id, term))
     result = cur.fetchall()
@@ -44,9 +42,8 @@ def get_exam_by_term (course_id, term):
 
 def get_term_for_course (course_id):
     query = load_query("get_term_for_course.sql")
-    finding = f"%{search_course}%"
     cur = connect_db()
-    cur.execute(query, (course_id))
+    cur.execute(query, (course_id,))
     result = cur.fetchall()
     cur.close()
     return result
