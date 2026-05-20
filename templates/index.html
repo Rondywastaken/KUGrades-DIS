@@ -7,27 +7,25 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,700;12..96,800&family=Outfit:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
 </head>
 <body>
 
   <header class="site-header">
     <a href="/" class="logo">
-      <img src="{{ url_for('static', filename='images/kulogo.png') }}" alt="University of Copenhagen">
-      <span class="logo-divider"></span>
-      <span class="logo-label">Grades</span>
+      <img src="{{ url_for('static', filename='images/kulogo.png') }}" alt="KU">
+      <span class="logo-name">KU Grades</span>
     </a>
     <nav>
-      <a href="#">Courses</a>
-      <a href="#">About</a>
+      <a href="#"><i class="fa-solid fa-book-open"></i> Courses</a>
+      <a href="#"><i class="fa-solid fa-circle-info"></i> About</a>
     </nav>
   </header>
 
   <main>
 
-    <!-- Hero: two-column split -->
     <section class="hero">
-
       <div class="hero-content">
         <p class="eyebrow">Grade Explorer · DIKU</p>
         <h1>The syllabus doesn't show<br><span>the average.</span></h1>
@@ -35,10 +33,7 @@
 
         <form class="search-form" method="get" action="/">
           <div class="search-box">
-            <svg class="search-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8">
-              <circle cx="8.5" cy="8.5" r="5.5"/>
-              <path d="m13.5 13.5 3 3" stroke-linecap="round"/>
-            </svg>
+            <i class="fa-solid fa-magnifying-glass search-icon"></i>
             <input
               type="text"
               name="q"
@@ -58,7 +53,6 @@
         </div>
       </div>
 
-      <!-- Grade preview card — right column -->
       <div class="hero-card">
         <div class="preview-card">
           <div class="preview-card-header">
@@ -66,43 +60,8 @@
             <div class="course-name">Algorithms and Data Structures</div>
             <div class="course-meta">Computer Science · 5 terms · 2020–2024</div>
           </div>
-          <div class="grade-bars">
-            <div class="grade-row">
-              <span class="grade-label">12</span>
-              <div class="grade-track"><div class="grade-fill" style="width: 31%"></div></div>
-              <span class="grade-pct">31%</span>
-            </div>
-            <div class="grade-row">
-              <span class="grade-label">10</span>
-              <div class="grade-track"><div class="grade-fill" style="width: 28%"></div></div>
-              <span class="grade-pct">28%</span>
-            </div>
-            <div class="grade-row">
-              <span class="grade-label">7</span>
-              <div class="grade-track"><div class="grade-fill" style="width: 19%; opacity: 0.7"></div></div>
-              <span class="grade-pct">19%</span>
-            </div>
-            <div class="grade-row">
-              <span class="grade-label">4</span>
-              <div class="grade-track"><div class="grade-fill" style="width: 11%; opacity: 0.5"></div></div>
-              <span class="grade-pct">11%</span>
-            </div>
-            <div class="grade-row">
-              <span class="grade-label">02</span>
-              <div class="grade-track"><div class="grade-fill" style="width: 7%; opacity: 0.35"></div></div>
-              <span class="grade-pct">7%</span>
-            </div>
-            <div class="grade-divider"></div>
-            <div class="grade-row">
-              <span class="grade-label">00</span>
-              <div class="grade-track"><div class="grade-fill fail" style="width: 3%"></div></div>
-              <span class="grade-pct">3%</span>
-            </div>
-            <div class="grade-row">
-              <span class="grade-label">-3</span>
-              <div class="grade-track"><div class="grade-fill fail" style="width: 1%"></div></div>
-              <span class="grade-pct">1%</span>
-            </div>
+          <div class="chart-container">
+            <canvas id="previewChart"></canvas>
           </div>
           <div class="preview-card-footer">
             <span class="preview-stat">Latest: <strong>9.1</strong> <span class="trend up">↑ 0.6</span></span>
@@ -118,24 +77,26 @@
           </div>
         </div>
       </div>
-
     </section>
 
-    <!-- Stats -->
     <section class="stats">
       <div class="stat-card">
+        <i class="fa-solid fa-graduation-cap stat-icon"></i>
         <div class="stat-value">420</div>
         <div class="stat-label">Courses</div>
       </div>
       <div class="stat-card">
+        <i class="fa-solid fa-file-lines stat-icon"></i>
         <div class="stat-value">6,969</div>
         <div class="stat-label">Exam Reports</div>
       </div>
       <div class="stat-card">
+        <i class="fa-solid fa-building-columns stat-icon"></i>
         <div class="stat-value">67</div>
         <div class="stat-label">Faculties</div>
       </div>
       <div class="stat-card">
+        <i class="fa-solid fa-rotate stat-icon"></i>
         <div class="stat-value">2025</div>
         <div class="stat-label">Last Updated</div>
       </div>
@@ -145,7 +106,50 @@
 
   <footer>
     Built by students at <a href="#">DIKU</a> · University of Copenhagen
+    &ensp;·&ensp;
+    Data sourced from public KU grade reports. Small cohorts may be excluded or rounded.
   </footer>
 
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="{{ url_for('static', filename='js/grade-chart.js') }}"></script>
+  <script>
+    new Chart(document.getElementById('previewChart').getContext('2d'), {
+      type: 'bar',
+      plugins: [thresholdPlugin],
+      data: {
+        labels: GRADE_KEYS,
+        datasets: [{
+          data: [31, 28, 19, 11, 7, 3, 1, 10],
+          backgroundColor: GRADE_COLORS,
+          borderRadius: 4,
+          borderSkipped: false,
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: { label: c => c.label === 'N/A' ? ` ${c.parsed.y}% unattended` : ` ${c.parsed.y}% of students` }
+          }
+        },
+        scales: {
+          y: {
+            max: 36,
+            grid: { color: '#f1efec' },
+            border: { display: false },
+            ticks: { callback: v => v + '%', font: { family: 'Outfit', size: 10 }, color: '#667085' }
+          },
+          x: {
+            grid: { display: false },
+            border: { display: false },
+            ticks: { font: { family: 'Outfit', size: 12, weight: '600' }, color: '#667085' }
+          }
+        },
+        animation: { duration: 900, easing: 'easeOutQuart' }
+      }
+    });
+  </script>
 </body>
 </html>
