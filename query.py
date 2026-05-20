@@ -1,14 +1,21 @@
 import psycopg2
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def connect_db():
-    conn = psycopg2.connect(
-        database="kugrades",
-        user="jack",
-        password="",
-        host="localhost",
-        port="5432"
-    )
+    database_url = os.environ.get("DATABASE_URL")
+    if database_url:
+        conn = psycopg2.connect(database_url)
+    else:
+        conn = psycopg2.connect(
+            database="kugrades",
+            user="jack",
+            password="",
+            host="localhost",
+            port="5432"
+        )
     return conn.cursor()
 
 def load_query(filename):
