@@ -1,254 +1,109 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ course.name }} — KU Grades</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,700;12..96,800&family=Outfit:wght@400;500&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-    />
-    <link
-      rel="stylesheet"
-      href="{{ url_for('static', filename='styles/style.css') }}"
-    />
-  </head>
-  <body>
-    <header class="site-header">
-      <a href="/" class="logo">
-        <img
-          src="{{ url_for('static', filename='images/kulogo.png') }}"
-          alt="KU"
-        />
-        <span class="logo-name">KU Grades</span>
-      </a>
-      <nav>
-        <a href="#"><i class="fa-solid fa-book-open"></i> Courses</a>
-        <a href="#"><i class="fa-solid fa-circle-info"></i> About</a>
-      </nav>
-    </header>
+{% extends "base.html" %}
+{% from "_macros.html" import search_box, exam_stats %}
 
-    <main>
-      <div class="course-detail">
-        <a href="/" class="back-link">
-          <i class="fa-solid fa-arrow-left"></i> Back to search
-        </a>
+{% block title %}{{ course.name }} — KU Grades{% endblock %}
 
-        <p class="detail-eyebrow">
-          {{ course.id }} &middot; {{ course.institution }} &middot; {{
-          course.ects }} ECTS
-        </p>
-        <h1 class="detail-title">{{ course.name }}</h1>
+{% block header_search %}
+{{ search_box('header', 'Search courses…') }}
+{% endblock %}
 
-        <div class="course-layout">
-          <div class="course-left">
-            <div class="term-tabs">
-              {% for term in terms %}
-              <button
-                class="tab-btn {% if loop.first %}active{% endif %}"
-                data-tab="{{ loop.index0 }}"
-              >
-                {{ term.term | term_label }}
-              </button>
-              {% endfor %}
-            </div>
+{% block content %}
+<div class="course-detail">
+  <a href="/" class="back-link">
+    <i class="fa-solid fa-arrow-left"></i> Back to search
+  </a>
 
-            {% for term in terms %}
-            <div
-              class="tab-panel {% if not loop.first %}hidden{% endif %}"
-              id="panel-{{ loop.index0 }}"
-            >
-              {% if term.exam %}
-              <div class="detail-chart-container">
-                <canvas id="chart-{{ loop.index0 }}"></canvas>
-              </div>
-              <div class="exam-stats-row">
-                <span
-                  ><i class="fa-solid fa-users"></i> Registered:
-                  <strong>{{ term.exam.registered }}</strong></span
-                >
-                <span
-                  ><i class="fa-solid fa-person-walking-arrow-right"></i>
-                  Attended: <strong>{{ term.exam.attended }}</strong></span
-                >
-                <span
-                  ><i class="fa-solid fa-check"></i> Passed:
-                  <strong>{{ term.exam.passed }}</strong></span
-                >
-                <span
-                  ><i class="fa-solid fa-chart-line"></i> Avg:
-                  <strong>{{ term.exam.avg }}</strong></span
-                >
-                <span
-                  ><i class="fa-solid fa-percent"></i> Pass rate:
-                  <strong>{{ term.exam.pass_rate }}%</strong></span
-                >
-              </div>
-              {% if term.reexam %}
-              <div class="reexam-section">
-                <div class="reexam-divider">
-                  <i class="fa-solid fa-rotate-right"></i> Re-exam
-                </div>
-                <div class="detail-chart-container detail-chart-container--sm">
-                  <canvas id="reexam-chart-{{ loop.index0 }}"></canvas>
-                </div>
-                <div class="exam-stats-row">
-                  <span
-                    ><i class="fa-solid fa-users"></i> Registered:
-                    <strong>{{ term.reexam.registered }}</strong></span
-                  >
-                  <span
-                    ><i class="fa-solid fa-person-walking-arrow-right"></i>
-                    Attended: <strong>{{ term.reexam.attended }}</strong></span
-                  >
-                  <span
-                    ><i class="fa-solid fa-check"></i> Passed:
-                    <strong>{{ term.reexam.passed }}</strong></span
-                  >
-                  <span
-                    ><i class="fa-solid fa-chart-line"></i> Avg:
-                    <strong>{{ term.reexam.avg }}</strong></span
-                  >
-                  <span
-                    ><i class="fa-solid fa-percent"></i> Pass rate:
-                    <strong>{{ term.reexam.pass_rate }}%</strong></span
-                  >
-                </div>
-              </div>
-              {% endif %} {% else %}
-              <div class="no-exam-data">
-                <i class="fa-solid fa-circle-xmark no-exam-icon"></i>
-                No exam data available for this term.
-              </div>
-              {% endif %}
-            </div>
-            {% endfor %}
+  <p class="eyebrow eyebrow--center">
+    {{ course.id }} &middot; {{ course.institution }} &middot; {{ course.ects }} ECTS
+  </p>
+  <h1 class="detail-title">{{ course.name }}</h1>
+
+  <div class="course-layout">
+    <div class="course-left">
+      <div class="term-tabs">
+        {% for term in terms %}
+        <button class="tab-btn {% if loop.first %}active{% endif %}" data-tab="{{ loop.index0 }}">
+          {{ term.term | term_label }}
+        </button>
+        {% endfor %}
+      </div>
+
+      {% for term in terms %}
+      <div class="tab-panel {% if not loop.first %}hidden{% endif %}" id="panel-{{ loop.index0 }}">
+        {% if term.exam %}
+        <div class="detail-chart-container">
+          <canvas id="chart-{{ loop.index0 }}"></canvas>
+        </div>
+        {{ exam_stats(term.exam) }}
+        {% if term.reexam %}
+        <div class="reexam-section">
+          <div class="reexam-divider">
+            <i class="fa-solid fa-rotate-right"></i> Re-exam
           </div>
-
-          <div class="course-right">
-            <div class="summary-stats">
-              <div class="summary-stat">
-                <strong>
-                  {{ stats.latest_avg }}
-                  <span class="trend {{ stats.trend }}">
-                    {% if stats.trend == 'up' %}<i
-                      class="fa-solid fa-arrow-trend-up"
-                    ></i>
-                    {% elif stats.trend == 'down' %}<i
-                      class="fa-solid fa-arrow-trend-down"
-                    ></i>
-                    {% else %}&rarr;{% endif %}
-                  </span>
-                </strong>
-                Latest average
-              </div>
-              <div class="summary-stat">
-                <strong>{{ stats.all_time_avg }}</strong>
-                All-time average
-              </div>
-              <div class="summary-stat">
-                <strong>{{ stats.pass_rate }}%</strong>
-                Latest pass rate
-              </div>
-              <div class="summary-stat">
-                <strong>{{ stats.term_count }}</strong>
-                Terms recorded
-              </div>
-            </div>
-
-            <div class="trend-card">
-              <div class="trend-card-header">
-                <i class="fa-solid fa-chart-line"></i> Average grade over time
-              </div>
-              <div class="trend-chart-container">
-                <canvas id="trendChart"></canvas>
-              </div>
-            </div>
+          <div class="detail-chart-container detail-chart-container--sm">
+            <canvas id="reexam-chart-{{ loop.index0 }}"></canvas>
           </div>
+          {{ exam_stats(term.reexam) }}
+        </div>
+        {% endif %}
+        {% else %}
+        <div class="no-exam-data">
+          <i class="fa-solid fa-circle-xmark no-exam-icon"></i>
+          No exam data available for this term.
+        </div>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="course-right">
+      <div class="summary-stats">
+        <div class="summary-stat">
+          <strong>
+            {{ stats.latest_avg if stats.latest_avg is not none else '—' }}
+            <span class="trend {{ stats.trend }}">
+              {% if stats.trend == 'up' %}<i class="fa-solid fa-arrow-trend-up"></i>
+              {% elif stats.trend == 'down' %}<i class="fa-solid fa-arrow-trend-down"></i>
+              {% else %}&rarr;{% endif %}
+            </span>
+          </strong>
+          Latest average
+        </div>
+        <div class="summary-stat">
+          <strong>{{ stats.all_time_avg if stats.all_time_avg is not none else '—' }}</strong>
+          All-time average
+        </div>
+        <div class="summary-stat">
+          <strong>{{ stats.pass_rate }}%</strong>
+          Latest pass rate
+        </div>
+        <div class="summary-stat">
+          <strong>{{ stats.term_count }}</strong>
+          Terms recorded
         </div>
       </div>
-    </main>
+    </div>
+  </div>
 
-    <footer>
-      Built by students at <a href="#">DIKU</a> · University of Copenhagen
-      &ensp;·&ensp; Data sourced from public KU grade reports. Small cohorts may
-      be excluded or rounded.
-    </footer>
+  <div class="trend-card">
+    <div class="trend-card-header">
+      <i class="fa-solid fa-chart-line"></i> Average grade over time
+    </div>
+    <div class="trend-chart-container">
+      <canvas id="trendChart"></canvas>
+    </div>
+  </div>
+</div>
+{% endblock %}
 
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="{{ url_for('static', filename='js/grade-chart.js') }}"></script>
-    <script>
-      {% for term in terms %}
-        {% if term.exam %}
-        makeChart('chart-{{ loop.index0 }}', {{ term.exam.grades | tojson }}, {{ term.exam.registered - term.exam.attended }});
-        {% endif %}
-        {% if term.reexam %}
-        makeChart('reexam-chart-{{ loop.index0 }}', {{ term.reexam.grades | tojson }}, {{ term.reexam.registered - term.reexam.attended }});
-        {% endif %}
-      {% endfor %}
-
-      (function() {
-        const trendCtx = document.getElementById('trendChart');
-        if (!trendCtx) return;
-        const pts = [
-          {% for term in terms | reverse %}{% if term.exam %}
-          { label: {{ term.term | tojson }}, avg: {{ term.exam.avg }} },
-          {% endif %}{% endfor %}
-        ];
-        new Chart(trendCtx, {
-          type: 'line',
-          data: {
-            labels: pts.map(d => d.label),
-            datasets: [{
-              data: pts.map(d => d.avg),
-              borderColor: 'rgba(144,26,30,0.75)',
-              backgroundColor: 'rgba(144,26,30,0.07)',
-              borderWidth: 2,
-              pointBackgroundColor: 'rgba(144,26,30,0.9)',
-              pointRadius: 4,
-              tension: 0.35,
-              fill: true,
-            }]
-          },
-          options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-              legend: { display: false },
-              tooltip: { callbacks: { label: c => ` Avg: ${c.parsed.y}` } }
-            },
-            scales: {
-              y: {
-                min: 0, max: 12,
-                grid: { color: '#f1efec' },
-                border: { display: false },
-                ticks: { font: { family: 'Outfit', size: 10 }, color: '#667085', stepSize: 4 }
-              },
-              x: {
-                grid: { display: false },
-                border: { display: false },
-                ticks: { font: { family: 'Outfit', size: 11 }, color: '#667085' }
-              }
-            },
-            animation: { duration: 600, easing: 'easeOutQuart' }
-          }
-        });
-      })();
-
-      document.querySelectorAll('.tab-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-          document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-          document.querySelectorAll('.tab-panel').forEach(p => p.classList.add('hidden'));
-          btn.classList.add('active');
-          document.getElementById('panel-' + btn.dataset.tab).classList.remove('hidden');
-        });
-      });
-    </script>
-  </body>
-</html>
+{% block scripts %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="{{ url_for('static', filename='js/grade-chart.js') }}"></script>
+<script src="{{ url_for('static', filename='js/course-page.js') }}"></script>
+<script>
+  initCoursePage({
+    charts: {{ charts | tojson }},
+    trend: {{ trend_points | tojson }},
+  });
+</script>
+{% endblock %}

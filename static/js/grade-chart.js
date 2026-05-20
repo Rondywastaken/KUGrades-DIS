@@ -90,3 +90,47 @@ function makeChart(canvasId, gradesObj, absent) {
     }
   });
 }
+
+function makeTrendChart(canvasId, points) {
+  const el = document.getElementById(canvasId);
+  if (!el || !points.length) return;
+  new Chart(el, {
+    type: 'line',
+    data: {
+      labels: points.map((d) => d.label),
+      datasets: [{
+        data: points.map((d) => d.avg),
+        borderColor: 'rgba(144,26,30,0.75)',
+        backgroundColor: 'rgba(144,26,30,0.07)',
+        borderWidth: 2,
+        pointBackgroundColor: 'rgba(144,26,30,0.9)',
+        pointRadius: 4,
+        tension: 0.35,
+        fill: true,
+      }],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { label: (c) => ` Avg: ${c.parsed.y}` } },
+      },
+      scales: {
+        y: {
+          min: 0,
+          max: 12,
+          grid: { color: '#f1efec' },
+          border: { display: false },
+          ticks: { font: { family: 'Outfit', size: 10 }, color: '#667085', stepSize: 4 },
+        },
+        x: {
+          grid: { display: false },
+          border: { display: false },
+          ticks: { font: { family: 'Outfit', size: 11 }, color: '#667085' },
+        },
+      },
+      animation: { duration: 600, easing: 'easeOutQuart' },
+    },
+  });
+}

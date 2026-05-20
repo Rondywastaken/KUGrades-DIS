@@ -64,16 +64,32 @@ nav a {
 
 nav a:hover { color: var(--text); }
 
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
 /* ── Hero ── */
 .hero {
-  max-width: 1080px;
-  margin: 0 auto;
-  padding: 5rem 2.5rem 4rem;
-  display: grid;
-  grid-template-columns: 1.05fr 0.95fr;
-  gap: 4rem;
+  display: flex;
+  flex-direction: column;
   align-items: center;
+  text-align: center;
+  width: 100%;
+  padding: 5rem 2.5rem 4rem;
 }
+
+.hero-content {
+  width: 100%;
+  max-width: 640px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.hero .search-form { width: 100%; }
+.hero .quick-tags { justify-content: center; }
 
 .eyebrow {
   font-size: 0.72rem;
@@ -82,6 +98,12 @@ nav a:hover { color: var(--text); }
   text-transform: uppercase;
   color: var(--ku-red);
   margin-bottom: 1.1rem;
+}
+
+.eyebrow--center {
+  letter-spacing: 0.08em;
+  margin-bottom: 0.25rem;
+  text-align: center;
 }
 
 .hero-content h1 {
@@ -100,42 +122,91 @@ nav a:hover { color: var(--text); }
   font-size: 1rem;
   line-height: 1.7;
   max-width: 400px;
-  margin-bottom: 2rem;
+  margin: 0 auto 2rem;
 }
 
 /* ── Search ── */
 .search-form { width: 100%; }
+.search-form--header { flex: 1; max-width: 360px; margin: 0 1.5rem; }
 
-.search-box {
+.search {
+  position: relative;
   display: flex;
   align-items: center;
+  gap: 0.5rem;
   background: var(--surface);
-  border: 1.5px solid var(--border);
+  border: 1px solid var(--border);
   border-radius: 8px;
-  padding: 0 1rem;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
-  transition: border-color 0.15s, box-shadow 0.15s;
+  transition: border-color 0.15s, box-shadow 0.15s, background 0.15s;
 }
 
-.search-box:focus-within {
+.search--hero {
+  border-width: 1.5px;
+  padding: 0 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.search--hero:focus-within {
   border-color: var(--ku-red);
-  box-shadow: 0 0 0 3px rgba(144,26,30,0.1);
+  box-shadow: 0 0 0 3px rgba(144, 26, 30, 0.1);
+}
+
+.search--header {
+  background: var(--surface-2);
+  padding: 0.4rem 0.75rem;
+}
+
+.search--header:focus-within {
+  border-color: var(--ku-red);
+  background: var(--surface);
 }
 
 .search-icon { font-size: 15px; color: var(--muted); flex-shrink: 0; }
 
-.search-box input {
+.search input {
   flex: 1;
   border: none;
   outline: none;
-  padding: 0.9rem 0.6rem;
-  font-family: 'Outfit', sans-serif;
-  font-size: 1rem;
-  color: var(--text);
   background: transparent;
+  font-family: 'Outfit', sans-serif;
+  color: var(--text);
+  width: 100%;
 }
 
-.search-box input::placeholder { color: var(--muted); }
+.search--hero input {
+  padding: 0.9rem 0.6rem;
+  font-size: 1rem;
+}
+
+.search--header input { font-size: 0.88rem; }
+
+.search input::placeholder { color: var(--muted); }
+
+.search-dropdown {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0; right: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.09);
+  list-style: none;
+  margin: 0; padding: 0.3rem 0;
+  z-index: 100;
+  overflow: hidden;
+}
+.search-dropdown.hidden { display: none; }
+.search-dropdown li {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.search-dropdown li:hover { background: var(--surface-2); }
+.dd-code { font-size: 0.72rem; color: var(--ku-red); font-weight: 700; flex-shrink: 0; min-width: 90px; }
+.dd-name { font-size: 0.88rem; color: var(--text); }
 
 /* ── Quick tags ── */
 .quick-tags {
@@ -161,65 +232,6 @@ nav a:hover { color: var(--text); }
   color: var(--ku-red);
 }
 
-/* ── Grade preview card ── */
-.hero-card { width: 100%; }
-
-.preview-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.07);
-}
-
-.preview-card-header {
-  padding: 1.25rem 1.5rem 1rem;
-  border-bottom: 1px solid var(--surface-2);
-}
-
-.course-code {
-  font-size: 0.72rem;
-  color: var(--ku-red);
-  font-weight: 600;
-  letter-spacing: 0.05em;
-  margin-bottom: 0.2rem;
-}
-
-.course-name {
-  font-family: 'Bricolage Grotesque', sans-serif;
-  font-size: 0.95rem;
-  font-weight: 700;
-  margin-bottom: 0.2rem;
-}
-
-.course-meta { font-size: 0.78rem; color: var(--muted); }
-
-.chart-container {
-  padding: 1rem 1.25rem 0.75rem;
-  height: 215px;
-}
-
-.preview-card-footer {
-  padding: 0.85rem 1.5rem;
-  background: var(--surface-2);
-  display: flex;
-  gap: 1.5rem;
-}
-
-.preview-stat { font-size: 0.8rem; color: var(--muted); }
-.preview-stat strong { color: var(--text); font-weight: 600; }
-
-.sparkbars {
-  display: flex;
-  align-items: flex-end;
-  gap: 3px;
-  height: 22px;
-  margin-left: auto;
-}
-
-.sparkbar { width: 5px; background: var(--border); border-radius: 2px; }
-.sparkbar.active { background: var(--ku-red); }
-
 .trend {
   font-size: 0.68rem;
   font-weight: 600;
@@ -235,6 +247,7 @@ nav a:hover { color: var(--text); }
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 1rem;
+  width: 100%;
   max-width: 1080px;
   margin: 0 auto 5rem;
   padding: 0 2.5rem;
@@ -320,15 +333,6 @@ footer a:hover { text-decoration: underline; }
 }
 .back-link:hover { color: var(--text); }
 
-.detail-eyebrow {
-  font-size: 0.72rem;
-  font-weight: 500;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--ku-red);
-  margin-bottom: 0.25rem;
-}
-
 .detail-title {
   font-family: 'Bricolage Grotesque', sans-serif;
   font-size: clamp(1.3rem, 2.2vw, 1.9rem);
@@ -336,13 +340,7 @@ footer a:hover { text-decoration: underline; }
   line-height: 1.1;
   letter-spacing: -0.02em;
   margin-bottom: 1.25rem;
-}
-
-.summary-stats {
-  display: flex;
-  gap: 0.75rem;
-  flex-wrap: wrap;
-  margin-bottom: 2rem;
+  text-align: center;
 }
 
 .summary-stat {
@@ -447,7 +445,7 @@ footer a:hover { text-decoration: underline; }
   border: 1px solid var(--border);
   border-radius: 10px;
   overflow: hidden;
-  margin-bottom: 1.75rem;
+  margin-top: 1.75rem;
 }
 
 .trend-card-header {
@@ -462,8 +460,8 @@ footer a:hover { text-decoration: underline; }
 }
 
 .trend-chart-container {
-  height: 120px;
-  padding: 0.75rem 1.25rem 0.6rem;
+  height: 260px;
+  padding: 1rem 1.5rem 1rem;
 }
 
 .no-exam-data {
@@ -484,22 +482,78 @@ footer a:hover { text-decoration: underline; }
   opacity: 0.4;
 }
 
+/* ── Search results ── */
+.search-results-section {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto 2.5rem;
+  padding: 0 2rem;
+}
+.search-results-header {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
+.result-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1rem 1.1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  text-decoration: none;
+  color: var(--text);
+  transition: box-shadow 0.15s, border-color 0.15s;
+}
+.result-card:hover {
+  border-color: var(--ku-red);
+  box-shadow: 0 2px 12px rgba(144,26,30,0.08);
+}
+.result-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.result-code { font-size: 0.75rem; color: var(--ku-red); font-weight: 700; }
+.result-ects { font-size: 0.72rem; color: var(--muted); }
+.result-name { font-size: 0.9rem; font-weight: 600; line-height: 1.3; }
+.result-institution { font-size: 0.75rem; color: var(--muted); }
+.result-stats {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 0.4rem;
+  flex-wrap: wrap;
+}
+.result-stat { font-size: 0.78rem; color: var(--muted); }
+.result-stat strong { color: var(--text); }
+.result-stat--term { margin-left: auto; font-size: 0.72rem; }
+.result-no-data { font-size: 0.75rem; color: var(--muted); margin-top: 0.4rem; }
+
 /* ── Responsive ── */
 @media (max-width: 900px) {
   .course-layout { grid-template-columns: 1fr; }
   .course-right { position: static; }
+  .results-grid { grid-template-columns: repeat(3, 1fr); }
 }
 
 @media (max-width: 768px) {
-  .hero {
-    grid-template-columns: 1fr;
-    gap: 2.5rem;
-    padding: 3rem 1.5rem 2.5rem;
-  }
+  .hero { padding: 3rem 1.5rem 2.5rem; }
   .stats {
     grid-template-columns: repeat(2, 1fr);
     padding: 0 1.5rem;
   }
+  .results-grid { grid-template-columns: repeat(2, 1fr); }
+  .search-results-section { padding: 0 1.5rem; }
   .site-header { padding: 0 1.5rem; }
   .course-detail { padding: 1.25rem 1.5rem 2rem; }
+}
+
+@media (max-width: 480px) {
+  .results-grid { grid-template-columns: 1fr; }
 }

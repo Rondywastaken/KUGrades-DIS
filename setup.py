@@ -48,11 +48,11 @@ def insert_exam(cur, course_id, term, exam_type, attended, registered, passed, g
 
 try:
   conn = psycopg2.connect(
-    database="",
-    user="postgres",
+    database="kugrades",
+    user="jack",
     password="",
-    host="",
-    port=""
+    host="localhost",
+    port="5432"
   )
   cur = conn.cursor()
 

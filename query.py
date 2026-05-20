@@ -3,11 +3,11 @@ import os
 
 def connect_db():
     conn = psycopg2.connect(
-        database="",
-        user="postgres",
+        database="kugrades",
+        user="jack",
         password="",
-        host="",
-        port=""
+        host="localhost",
+        port="5432"
     )
     return conn.cursor()
 
