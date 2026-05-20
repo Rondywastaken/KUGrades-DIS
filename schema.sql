@@ -35,14 +35,6 @@ CREATE TABLE exam (
     registered INTEGER,
     passed INTEGER,
     failed INTEGER,
-    PRIMARY KEY (course_id, term, exam_type),
-    FOREIGN KEY (course_id, term) REFERENCES course_term ON DELETE CASCADE
-);
-
-CREATE TABLE grades (
-    course_id CHAR(255),
-    term CHAR(50),
-    exam_type CHAR(4),
     grade_12 INTEGER,
     grade_10 INTEGER,
     grade_7 INTEGER,
@@ -51,7 +43,7 @@ CREATE TABLE grades (
     grade_00 INTEGER,
     grade_minus3 INTEGER,
     ej_mødt INTEGER,
-    ikke_bestået INTEGER, 
+    ikke_bestået INTEGER,
     PRIMARY KEY (course_id, term, exam_type),
-    FOREIGN KEY (course_id, term, exam_type) REFERENCES exam ON DELETE CASCADE
+    FOREIGN KEY (course_id, term) REFERENCES course_term ON DELETE CASCADE
 );
