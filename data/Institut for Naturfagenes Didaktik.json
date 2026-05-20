@@ -1,0 +1,3127 @@
+{
+  "NFKA09006E-Winter-2025-B2": {
+    "title": "Advanced Didactics of Mathematics",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 1,
+      "10": 2,
+      "7": 6,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NFKA09006E-Winter-2024-B2": {
+    "title": "Advanced Didactics of Mathematics",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 1,
+      "10": 2,
+      "7": 4,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NFKA09006E-Winter-2023-B2": {
+    "title": "Advanced Didactics of Mathematics",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NFKA09006E-Winter-2022-B2": {
+    "title": "Advanced Didactics of Mathematics",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 1,
+      "10": 0,
+      "7": 5,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NFKA09006E-Winter-2021-B2": {
+    "title": "Advanced Didactics of Mathematics",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDB12001E-Summer-2026-B3": {
+    "title": "Biologisk videnskabsteori",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "138",
+    "attended": "138",
+    "passed": "136",
+    "grades": {
+      "12": 13,
+      "10": 21,
+      "7": 50,
+      "4": 32,
+      "02": 20,
+      "00": 2,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDB12001E-Summer-2025-B3": {
+    "title": "Biologisk videnskabsteori",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "159",
+    "attended": "150",
+    "passed": "146",
+    "grades": {
+      "12": 9,
+      "10": 31,
+      "7": 49,
+      "4": 44,
+      "02": 13,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 9
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "5",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNDB12001E-Summer-2024-B3": {
+    "title": "Biologisk videnskabsteori",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "122",
+    "attended": "116",
+    "passed": "114",
+    "grades": {
+      "12": 8,
+      "10": 18,
+      "7": 38,
+      "4": 33,
+      "02": 17,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 6
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "6",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 4,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNDB12001E-Summer-2023-B3": {
+    "title": "Biologisk videnskabsteori",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "147",
+    "attended": "144",
+    "passed": "137",
+    "grades": {
+      "12": 11,
+      "10": 26,
+      "7": 36,
+      "4": 48,
+      "02": 16,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "7",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 1,
+      "02": 4,
+      "00": 1,
+      "-3": 0
+    }
+  },
+  "NNDB12001E-Summer-2022-B3": {
+    "title": "Biologisk videnskabsteori",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "134",
+    "attended": "127",
+    "passed": "122",
+    "grades": {
+      "12": 34,
+      "10": 36,
+      "7": 32,
+      "4": 11,
+      "02": 9,
+      "00": 4,
+      "-3": 1,
+      "Ej mødt": 7
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "8",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 2,
+      "4": 2,
+      "02": 3,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNDB12001E-Summer-2021-B3": {
+    "title": "Biologisk videnskabsteori",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "162",
+    "attended": "157",
+    "passed": "154",
+    "grades": {
+      "12": 19,
+      "10": 36,
+      "7": 61,
+      "4": 30,
+      "02": 8,
+      "00": 1,
+      "-3": 2,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "Histogram-NBIK11005E-Summer-2026": {
+    "title": "Biology Thesis 45 ECTS, Department of Science Education",
+    "term": "s26",
+    "ects": "45",
+    "exam": false
+  },
+  "NDAB17000E-Winter-2024-B2": {
+    "title": "Datalogiens historie",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "17",
+    "attended": "15",
+    "passed": "15",
+    "grades": {
+      "12": 5,
+      "10": 3,
+      "7": 5,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NDAB17000E-Winter-2022-B2": {
+    "title": "Datalogiens historie",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 2,
+      "10": 5,
+      "7": 4,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NDAB17000E-Winter-2021-B2": {
+    "title": "Datalogiens historie",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "12": 0,
+      "10": 2,
+      "7": 2,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNDB19000E-Summer-2025-B4": {
+    "title": "Datalogiens videnskabsteori",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "202",
+    "attended": "192",
+    "passed": "185",
+    "grades": {
+      "12": 8,
+      "10": 51,
+      "7": 61,
+      "4": 49,
+      "02": 16,
+      "00": 6,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ej mødt": 4,
+      "Ikke bestået": 6
+    },
+    "reexam": true,
+    "registered_reexam": "9",
+    "attended_reexam": "9",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 0,
+      "10": 5,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    }
+  },
+  "NNDB19000E-Summer-2024-B4": {
+    "title": "Datalogiens videnskabsteori",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "184",
+    "attended": "174",
+    "passed": "152",
+    "grades": {
+      "12": 2,
+      "10": 23,
+      "7": 43,
+      "4": 57,
+      "02": 27,
+      "00": 21,
+      "-3": 1,
+      "Ej mødt": 4,
+      "Ikke bestået": 6
+    },
+    "reexam": true,
+    "registered_reexam": "22",
+    "attended_reexam": "20",
+    "passed_reexam": "19",
+    "grades_reexam": {
+      "12": 0,
+      "10": 3,
+      "7": 6,
+      "4": 8,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNDB19000E-Summer-2023-B4": {
+    "title": "Datalogiens videnskabsteori",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "200",
+    "attended": "187",
+    "passed": "184",
+    "grades": {
+      "12": 1,
+      "10": 33,
+      "7": 69,
+      "4": 57,
+      "02": 24,
+      "00": 2,
+      "-3": 1,
+      "Ej mødt": 3,
+      "Ikke bestået": 10
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "5",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNDB19000E-Summer-2022-B4": {
+    "title": "Datalogiens videnskabsteori",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "198",
+    "attended": "181",
+    "passed": "180",
+    "grades": {
+      "12": 9,
+      "10": 69,
+      "7": 67,
+      "4": 32,
+      "02": 3,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 3,
+      "Ikke bestået": 14
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "7",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 3,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    }
+  },
+  "NNDB19000E-Summer-2021-B4": {
+    "title": "Datalogiens videnskabsteori",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "174",
+    "attended": "156",
+    "passed": "151",
+    "grades": {
+      "12": 9,
+      "10": 56,
+      "7": 66,
+      "4": 20,
+      "02": 0,
+      "00": 0,
+      "-3": 5,
+      "Ej mødt": 3,
+      "Ikke bestået": 15
+    },
+    "reexam": true,
+    "registered_reexam": "12",
+    "attended_reexam": "9",
+    "passed_reexam": "9",
+    "grades_reexam": {
+      "12": 1,
+      "10": 5,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    }
+  },
+  "NNDK20004E-Winter-2025-B1": {
+    "title": "De empirisk eksperimentelle videnskaber",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "13",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 6,
+      "10": 3,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNDK20004E-Winter-2024-B1": {
+    "title": "De empirisk eksperimentelle videnskaber",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "15",
+    "attended": "14",
+    "passed": "14",
+    "grades": {
+      "12": 7,
+      "10": 4,
+      "7": 1,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDK20004E-Winter-2023-B1": {
+    "title": "De empirisk eksperimentelle videnskaber",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 12,
+      "10": 0,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20004E-Winter-2022-B1": {
+    "title": "De empirisk eksperimentelle videnskaber",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "13",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 11,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20004E-Winter-2021-B1": {
+    "title": "De empirisk eksperimentelle videnskaber",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "7",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 6,
+      "10": 0,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDK20003E-Summer-2025-B3": {
+    "title": "De matematisk modellerende videnskaber",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "20",
+    "attended": "18",
+    "passed": "17",
+    "grades": {
+      "12": 12,
+      "10": 0,
+      "7": 4,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNDK20003E-Summer-2024-B3": {
+    "title": "De matematisk modellerende videnskaber",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "9",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 0,
+      "10": 6,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20003E-Summer-2023-B3": {
+    "title": "De matematisk modellerende videnskaber",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 2,
+      "10": 5,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20003E-Summer-2022-B3": {
+    "title": "De matematisk modellerende videnskaber",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "15",
+    "attended": "14",
+    "passed": "14",
+    "grades": {
+      "12": 7,
+      "10": 4,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNDK20003E-Summer-2021-B3": {
+    "title": "De matematisk modellerende videnskaber",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "20",
+    "attended": "19",
+    "passed": "19",
+    "grades": {
+      "12": 7,
+      "10": 7,
+      "7": 5,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNDK20002E-Winter-2025-B1": {
+    "title": "De teknologisk innovative videnskaber",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "10",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 8,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20002E-Winter-2024-B1": {
+    "title": "De teknologisk innovative videnskaber",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 10,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20002E-Winter-2023-B1": {
+    "title": "De teknologisk innovative videnskaber",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "13",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 9,
+      "10": 2,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20002E-Winter-2022-B1": {
+    "title": "De teknologisk innovative videnskaber",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 2,
+      "10": 0,
+      "7": 1,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20002E-Winter-2021-B1": {
+    "title": "De teknologisk innovative videnskaber",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "15",
+    "attended": "15",
+    "passed": "15",
+    "grades": {
+      "12": 7,
+      "10": 6,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "Histogram-NNDM23002E-Summer-2026": {
+    "title": "Deltagerforudsætninger og læringskultur",
+    "term": "s26",
+    "ects": "5",
+    "exam": true,
+    "registered": "23",
+    "attended": "22",
+    "passed": "22",
+    "grades": {
+      "12": 11,
+      "10": 4,
+      "7": 6,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNDM23002E-Summer-2024-B3": {
+    "title": "Deltagerforudsætninger og læringskultur",
+    "term": "s24/B3",
+    "ects": "5",
+    "exam": true,
+    "registered": "13",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 8,
+      "10": 4,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDM23001E-Summer-2024-B3": {
+    "title": "Didaktiske forskningsmetoder",
+    "term": "s24/B3",
+    "ects": "5",
+    "exam": true,
+    "registered": "14",
+    "attended": "14",
+    "passed": "14",
+    "grades": {
+      "Bestået": 14,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NNDM24002E-Winter-2024-B1": {
+    "title": "Evaluering og feedback",
+    "term": "v24/B1",
+    "ects": "10",
+    "exam": true,
+    "registered": "15",
+    "attended": "15",
+    "passed": "15",
+    "grades": {
+      "12": 9,
+      "10": 0,
+      "7": 6,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDB23004E-Winter-2026-B2": {
+    "title": "Geografiens videnskabsteori",
+    "term": "v26/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDB23004E-Winter-2025-B2": {
+    "title": "Geografiens videnskabsteori",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "70",
+    "attended": "65",
+    "passed": "61",
+    "grades": {
+      "12": 3,
+      "10": 6,
+      "7": 29,
+      "4": 19,
+      "02": 4,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "6",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 4,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNDB23004E-Winter-2024-B2": {
+    "title": "Geografiens videnskabsteori",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "69",
+    "attended": "65",
+    "passed": "62",
+    "grades": {
+      "12": 4,
+      "10": 18,
+      "7": 17,
+      "4": 21,
+      "02": 2,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NNDB23004E-Winter-2023-B2": {
+    "title": "Geografiens videnskabsteori",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "52",
+    "attended": "48",
+    "passed": "46",
+    "grades": {
+      "12": 1,
+      "10": 9,
+      "7": 15,
+      "4": 17,
+      "02": 4,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNDB19002E-Winter-2022-B2": {
+    "title": "Geografiens videnskabsteori",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "67",
+    "attended": "64",
+    "passed": "56",
+    "grades": {
+      "12": 12,
+      "10": 12,
+      "7": 11,
+      "4": 13,
+      "02": 8,
+      "00": 8,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "8",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 3,
+      "4": 1,
+      "02": 3,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNDB19002E-Winter-2021-B2": {
+    "title": "Geografiens videnskabsteori",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "79",
+    "attended": "76",
+    "passed": "76",
+    "grades": {
+      "12": 7,
+      "10": 22,
+      "7": 39,
+      "4": 8,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNDB19001E-Summer-2026-B3": {
+    "title": "Geologiens videnskabsteori",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "29",
+    "attended": "26",
+    "passed": "26",
+    "grades": {
+      "12": 10,
+      "10": 6,
+      "7": 5,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NNDB19001E-Summer-2025-B3": {
+    "title": "Geologiens videnskabsteori",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "25",
+    "attended": "24",
+    "passed": "24",
+    "grades": {
+      "12": 5,
+      "10": 7,
+      "7": 7,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDB19001E-Summer-2024-B3": {
+    "title": "Geologiens videnskabsteori",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "31",
+    "attended": "29",
+    "passed": "29",
+    "grades": {
+      "12": 8,
+      "10": 7,
+      "7": 7,
+      "4": 6,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNDB19001E-Summer-2023-B3": {
+    "title": "Geologiens videnskabsteori",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "23",
+    "passed": "23",
+    "grades": {
+      "12": 10,
+      "10": 5,
+      "7": 5,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDB19001E-Summer-2022-B3": {
+    "title": "Geologiens videnskabsteori",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "41",
+    "attended": "36",
+    "passed": "36",
+    "grades": {
+      "12": 9,
+      "10": 17,
+      "7": 7,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NNDB19001E-Summer-2021-B3": {
+    "title": "Geologiens videnskabsteori",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "16",
+    "passed": "16",
+    "grades": {
+      "12": 1,
+      "10": 6,
+      "7": 4,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NDIA10001E-Summer-2025-B4": {
+    "title": "Grundkursus i de naturvidenskabelige fags didaktik",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "36",
+    "passed": "36",
+    "grades": {
+      "12": 14,
+      "10": 8,
+      "7": 4,
+      "4": 7,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NDIA10001E-Summer-2024-B4": {
+    "title": "Grundkursus i de naturvidenskabelige fags didaktik",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "47",
+    "attended": "44",
+    "passed": "43",
+    "grades": {
+      "12": 7,
+      "10": 14,
+      "7": 13,
+      "4": 7,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NDIA10001E-Summer-2023-B4": {
+    "title": "Grundkursus i de naturvidenskabelige fags didaktik",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "46",
+    "attended": "41",
+    "passed": "38",
+    "grades": {
+      "12": 9,
+      "10": 15,
+      "7": 7,
+      "4": 6,
+      "02": 1,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 4,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 0,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NDIA10001E-Summer-2022-B4": {
+    "title": "Grundkursus i de naturvidenskabelige fags didaktik",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "51",
+    "attended": "48",
+    "passed": "46",
+    "grades": {
+      "12": 12,
+      "10": 15,
+      "7": 8,
+      "4": 8,
+      "02": 3,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NDIA10001E-Summer-2021-B4": {
+    "title": "Grundkursus i de naturvidenskabelige fags didaktik",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "79",
+    "attended": "74",
+    "passed": "74",
+    "grades": {
+      "12": 15,
+      "10": 25,
+      "7": 15,
+      "4": 16,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NNDB19006E-Summer-2025-B4": {
+    "title": "Idrætsfagets videnskabsteori",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "109",
+    "attended": "108",
+    "passed": "104",
+    "grades": {
+      "12": 7,
+      "10": 26,
+      "7": 51,
+      "4": 18,
+      "02": 2,
+      "00": 0,
+      "-3": 1,
+      "Ej bedømt": 3,
+      "Ej mødt": 1
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "5",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNDB19006E-Summer-2024-B4": {
+    "title": "Idrætsfagets videnskabsteori",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "101",
+    "attended": "101",
+    "passed": "100",
+    "grades": {
+      "12": 12,
+      "10": 26,
+      "7": 25,
+      "4": 20,
+      "02": 17,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NNDB19006E-Summer-2023-B4": {
+    "title": "Idrætsfagets videnskabsteori",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "100",
+    "attended": "100",
+    "passed": "100",
+    "grades": {
+      "12": 7,
+      "10": 26,
+      "7": 34,
+      "4": 26,
+      "02": 7,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNDB19006E-Summer-2022-B4": {
+    "title": "Idrætsfagets videnskabsteori",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "102",
+    "attended": "100",
+    "passed": "97",
+    "grades": {
+      "12": 10,
+      "10": 24,
+      "7": 32,
+      "4": 20,
+      "02": 11,
+      "00": 1,
+      "-3": 2,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNDB19006E-Summer-2021-B4": {
+    "title": "Idrætsfagets videnskabsteori",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "106",
+    "attended": "100",
+    "passed": "100",
+    "grades": {
+      "12": 2,
+      "10": 37,
+      "7": 42,
+      "4": 17,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 6
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 1,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNDB24001E-Winter-2025-B1": {
+    "title": "Introduktion til formidling af naturvidenskab og teknologi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "32",
+    "attended": "31",
+    "passed": "31",
+    "grades": {
+      "12": 12,
+      "10": 6,
+      "7": 10,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDB24001E-Winter-2024-B1": {
+    "title": "Introduktion til formidling af naturvidenskab og teknologi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "30",
+    "attended": "29",
+    "passed": "29",
+    "grades": {
+      "12": 9,
+      "10": 9,
+      "7": 7,
+      "4": 3,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDB19007E-Winter-2023-B1": {
+    "title": "Introduktion til naturvidenskabelig formidling",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 3,
+      "10": 5,
+      "7": 1,
+      "4": 3,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDB19007E-Winter-2022-B1": {
+    "title": "Introduktion til naturvidenskabelig formidling",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "43",
+    "attended": "43",
+    "passed": "43",
+    "grades": {
+      "12": 20,
+      "10": 10,
+      "7": 8,
+      "4": 3,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDB19007E-Winter-2021-B1": {
+    "title": "Introduktion til naturvidenskabelig formidling",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "50",
+    "attended": "45",
+    "passed": "45",
+    "grades": {
+      "12": 19,
+      "10": 10,
+      "7": 11,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNDM24003E-Summer-2025-B3": {
+    "title": "IT, læring og teknologiforståelse i et naturfagsdidaktisk perspektiv",
+    "term": "s25/B3",
+    "ects": "10",
+    "exam": true,
+    "registered": "15",
+    "attended": "15",
+    "passed": "15",
+    "grades": {
+      "12": 7,
+      "10": 8,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "Histogram-NNDM23100E-Summer-2026": {
+    "title": "Masterprojekt",
+    "term": "s26",
+    "ects": "20",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 7,
+      "10": 3,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "Histogram-NNDM23100E-Summer-2025": {
+    "title": "Masterprojekt",
+    "term": "s25",
+    "ects": "20",
+    "exam": false
+  },
+  "NNDK15000E-Winter-2021-B2": {
+    "title": "Naturfagsdidaktik for biologi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 6,
+      "10": 3,
+      "7": 3,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNDK15001E-Winter-2021-B2": {
+    "title": "Naturfagsdidaktik for fysik",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDM23000E-Winter-2025-B1": {
+    "title": "Naturfagsdidaktik og undersøgelsesbaseret naturfagsundervisning",
+    "term": "v25/B1",
+    "ects": "10",
+    "exam": true,
+    "registered": "23",
+    "attended": "23",
+    "passed": "23",
+    "grades": {
+      "12": 7,
+      "10": 9,
+      "7": 3,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "Histogram-NNDM23000E-Winter-2023": {
+    "title": "Naturfagsdidaktik og undersøgelsesbaseret naturfagsundervisning",
+    "term": "v23",
+    "ects": "10",
+    "exam": true,
+    "registered": "18",
+    "attended": "17",
+    "passed": "17",
+    "grades": {
+      "12": 11,
+      "10": 6,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDK17001E-Winter-2023-B2": {
+    "title": "Naturvidenskabelig formidling",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 4,
+      "10": 3,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK17001E-Winter-2022-B2": {
+    "title": "Naturvidenskabelig formidling",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "18",
+    "attended": "18",
+    "passed": "18",
+    "grades": {
+      "12": 8,
+      "10": 3,
+      "7": 5,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK17001E-Winter-2021-B2": {
+    "title": "Naturvidenskabelig formidling",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "17",
+    "attended": "15",
+    "passed": "15",
+    "grades": {
+      "12": 7,
+      "10": 5,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "Histogram-NNDK17801E-Summer-2024": {
+    "title": "Physics Thesis 45 ECTS, Department of Science Education",
+    "term": "s24",
+    "ects": "45",
+    "exam": false
+  },
+  "NNDB14502E-Summer-2026-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDB14502E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDB14502E-Summer-2023-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDB14502E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDB14502E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK14502E-Summer-2026-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK14502E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK14502E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK14502E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK14502E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK14502E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK14502E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK15502E-Summer-2026-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK15502E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK15502E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDB17504E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDB17504E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK14503E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK14503E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK22500E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 0,
+      "10": 3,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK22500E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 2,
+      "10": 0,
+      "7": 0,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK22500E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22500E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22500E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22500E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22500E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDB17502E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDB25500E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK24501E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "5",
+    "exam": false
+  },
+  "NNDK24501E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "5",
+    "exam": false
+  },
+  "NNDK25502E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK20504E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK25501E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK15504E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK15504E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK15504E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDB16502E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDB16502E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDB23500E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK15507E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK15507E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDB22500E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNDK15509E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22501E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "10",
+    "exam": false
+  },
+  "NNDK17500E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NNDK24000E-Winter-2025-B2": {
+    "title": "Science and Technology Communication",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "14",
+    "passed": "14",
+    "grades": {
+      "12": 4,
+      "10": 7,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK24000E-Winter-2024-B2": {
+    "title": "Science and Technology Communication",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "11",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 3,
+      "10": 6,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK23005E-Summer-2025-B5": {
+    "title": "Science and Technology Communication in Theory and Practice",
+    "term": "s25/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "16",
+    "attended": "14",
+    "passed": "14",
+    "grades": {
+      "Bestået": 14,
+      "Ikke bestået": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNDK23005E-Summer-2024-B5": {
+    "title": "Science and Technology Communication in Theory and Practice",
+    "term": "s24/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "Bestået": 12,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NNDK16002E-Summer-2023-B5": {
+    "title": "Science Communication in Theory and Practice",
+    "term": "s23/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "Bestået": 9,
+      "Ikke bestået": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDK16002E-Summer-2022-B5": {
+    "title": "Science Communication in Theory and Practice",
+    "term": "s22/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "19",
+    "passed": "18",
+    "grades": {
+      "Bestået": 18,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNDK16002E-Summer-2021-B5": {
+    "title": "Science Communication in Theory and Practice",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "Bestået": 20,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NNDK20005E-Winter-2025-B1": {
+    "title": "STEM-didaktik",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "10",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "Bestået": 8,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNDK20005E-Winter-2024-B1": {
+    "title": "STEM-didaktik",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "21",
+    "attended": "19",
+    "passed": "19",
+    "grades": {
+      "Bestået": 19,
+      "Ikke bestået": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNDK20005E-Winter-2023-B1": {
+    "title": "STEM-didaktik",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "11",
+    "attended": "11",
+    "passed": "9",
+    "grades": {
+      "Bestået": 9,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNDK20005E-Winter-2022-B1": {
+    "title": "STEM-didaktik",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "Bestået": 8,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NNDK20005E-Winter-2021-B1": {
+    "title": "STEM-didaktik",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "15",
+    "attended": "14",
+    "passed": "13",
+    "grades": {
+      "Bestået": 13,
+      "Ikke bestået": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDK20001E-Summer-2025-B3": {
+    "title": "STEM-faglig praksis- og kulturudvikling",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 3,
+      "10": 3,
+      "7": 4,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNDK20001E-Summer-2024-B3": {
+    "title": "STEM-faglig praksis- og kulturudvikling",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 7,
+      "10": 3,
+      "7": 0,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20001E-Summer-2023-B3": {
+    "title": "STEM-faglig praksis- og kulturudvikling",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "13",
+    "attended": "13",
+    "passed": "12",
+    "grades": {
+      "12": 7,
+      "10": 3,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20001E-Summer-2022-B3": {
+    "title": "STEM-faglig praksis- og kulturudvikling",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "5",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK20001E-Summer-2021-B3": {
+    "title": "STEM-faglig praksis- og kulturudvikling",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "15",
+    "attended": "15",
+    "passed": "15",
+    "grades": {
+      "12": 3,
+      "10": 6,
+      "7": 3,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK19000E-Summer-2022-B5": {
+    "title": "Topics in Philosophy of Mathematical Practice",
+    "term": "s22/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "Bestået": 5,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NNDK19000E-Summer-2021-B5": {
+    "title": "Topics in Philosophy of Mathematical Practice",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "Bestået": 5,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNDB21000E-Summer-2026-B3": {
+    "title": "Videnskabsteori for datalogi-økonomi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "59",
+    "attended": "52",
+    "passed": "52",
+    "grades": {
+      "12": 8,
+      "10": 18,
+      "7": 15,
+      "4": 11,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 6
+    },
+    "reexam": false
+  },
+  "NNDB21000E-Summer-2025-B3": {
+    "title": "Videnskabsteori for datalogi-økonomi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "41",
+    "attended": "38",
+    "passed": "37",
+    "grades": {
+      "12": 5,
+      "10": 11,
+      "7": 12,
+      "4": 6,
+      "02": 3,
+      "00": 0,
+      "-3": 1,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NNDB21000E-Summer-2024-B3": {
+    "title": "Videnskabsteori for datalogi-økonomi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "40",
+    "attended": "39",
+    "passed": "39",
+    "grades": {
+      "12": 2,
+      "10": 10,
+      "7": 18,
+      "4": 8,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNDB21000E-Summer-2023-B3": {
+    "title": "Videnskabsteori for datalogi-økonomi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "47",
+    "attended": "47",
+    "passed": "46",
+    "grades": {
+      "12": 1,
+      "10": 7,
+      "7": 13,
+      "4": 21,
+      "02": 4,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDB21000E-Summer-2022-B3": {
+    "title": "Videnskabsteori for datalogi-økonomi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "12": 4,
+      "10": 4,
+      "7": 6,
+      "4": 3,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDB19008E-Summer-2024-B4": {
+    "title": "Videnskabsteori for informatikfaget",
+    "term": "s24/B4",
+    "ects": "5",
+    "exam": false
+  },
+  "NNDB19008E-Summer-2022-B5": {
+    "title": "Videnskabsteori for informatikfaget",
+    "term": "s22/B5",
+    "ects": "5",
+    "exam": true,
+    "registered": "13",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 0,
+      "10": 5,
+      "7": 6,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNDB19008E-Summer-2021-B5": {
+    "title": "Videnskabsteori for informatikfaget",
+    "term": "s21/B5",
+    "ects": "5",
+    "exam": true,
+    "registered": "26",
+    "attended": "23",
+    "passed": "22",
+    "grades": {
+      "12": 1,
+      "10": 9,
+      "7": 10,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NNDB12002E-Summer-2026-B3": {
+    "title": "Videnskabsteori for matematiske fag",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "186",
+    "attended": "173",
+    "passed": "173",
+    "grades": {
+      "12": 30,
+      "10": 69,
+      "7": 55,
+      "4": 15,
+      "02": 4,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 13
+    },
+    "reexam": false
+  },
+  "NNDB12002E-Summer-2025-B3": {
+    "title": "Videnskabsteori for matematiske fag",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "187",
+    "attended": "179",
+    "passed": "175",
+    "grades": {
+      "12": 47,
+      "10": 66,
+      "7": 43,
+      "4": 14,
+      "02": 5,
+      "00": 3,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ikke bestået": 8
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "5",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ikke bestået": 1
+    }
+  },
+  "NNDB12002E-Summer-2024-B3": {
+    "title": "Videnskabsteori for matematiske fag",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "171",
+    "attended": "161",
+    "passed": "155",
+    "grades": {
+      "12": 19,
+      "10": 51,
+      "7": 56,
+      "4": 18,
+      "02": 11,
+      "00": 6,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 8
+    },
+    "reexam": true,
+    "registered_reexam": "11",
+    "attended_reexam": "8",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 1,
+      "10": 2,
+      "7": 1,
+      "4": 0,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 1
+    }
+  },
+  "NNDB12002E-Summer-2023-B3": {
+    "title": "Videnskabsteori for matematiske fag",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "124",
+    "attended": "115",
+    "passed": "110",
+    "grades": {
+      "12": 16,
+      "10": 23,
+      "7": 38,
+      "4": 18,
+      "02": 15,
+      "00": 5,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 8
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    }
+  },
+  "NNDB12002E-Summer-2022-B3": {
+    "title": "Videnskabsteori for matematiske fag",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "190",
+    "attended": "179",
+    "passed": "178",
+    "grades": {
+      "12": 17,
+      "10": 65,
+      "7": 61,
+      "4": 25,
+      "02": 10,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3,
+      "Ikke bestået": 8
+    },
+    "reexam": false
+  },
+  "NNDB12002E-Summer-2021-B3": {
+    "title": "Videnskabsteori for matematiske fag",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "188",
+    "attended": "177",
+    "passed": "170",
+    "grades": {
+      "12": 46,
+      "10": 46,
+      "7": 43,
+      "4": 26,
+      "02": 9,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 4,
+      "Ikke bestået": 7
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 0,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNDB19005E-Winter-2025-B1": {
+    "title": "Videnskabsteori og etik for de kemiske fag",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "24",
+    "attended": "22",
+    "passed": "21",
+    "grades": {
+      "12": 9,
+      "10": 6,
+      "7": 6,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNDB19005E-Summer-2025-B4": {
+    "title": "Videnskabsteori og etik for de kemiske fag",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "117",
+    "attended": "111",
+    "passed": "108",
+    "grades": {
+      "12": 30,
+      "10": 29,
+      "7": 35,
+      "4": 9,
+      "02": 5,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 5,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "6",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 3,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNDB19005E-Winter-2024-B1": {
+    "title": "Videnskabsteori og etik for de kemiske fag",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "41",
+    "attended": "36",
+    "passed": "36",
+    "grades": {
+      "12": 10,
+      "10": 10,
+      "7": 10,
+      "4": 4,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NNDB19005E-Summer-2024-B4": {
+    "title": "Videnskabsteori og etik for de kemiske fag",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "104",
+    "attended": "99",
+    "passed": "98",
+    "grades": {
+      "12": 20,
+      "10": 23,
+      "7": 33,
+      "4": 16,
+      "02": 6,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNDB19005E-Winter-2023-B1": {
+    "title": "Videnskabsteori og etik for de kemiske fag",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "34",
+    "attended": "33",
+    "passed": "31",
+    "grades": {
+      "12": 5,
+      "10": 6,
+      "7": 11,
+      "4": 7,
+      "02": 2,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDB19005E-Summer-2023-B4": {
+    "title": "Videnskabsteori og etik for de kemiske fag",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "98",
+    "attended": "94",
+    "passed": "91",
+    "grades": {
+      "12": 22,
+      "10": 22,
+      "7": 20,
+      "4": 20,
+      "02": 7,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 1,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    }
+  },
+  "NNDB19005E-Winter-2022-B1": {
+    "title": "Videnskabsteori og etik for de kemiske fag",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "30",
+    "attended": "26",
+    "passed": "25",
+    "grades": {
+      "12": 4,
+      "10": 10,
+      "7": 6,
+      "4": 4,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NNDB19005E-Summer-2022-B4": {
+    "title": "Videnskabsteori og etik for de kemiske fag",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "89",
+    "attended": "80",
+    "passed": "79",
+    "grades": {
+      "12": 16,
+      "10": 29,
+      "7": 21,
+      "4": 10,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 9
+    },
+    "reexam": true,
+    "registered_reexam": "9",
+    "attended_reexam": "9",
+    "passed_reexam": "9",
+    "grades_reexam": {
+      "12": 2,
+      "10": 3,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNDB19005E-Winter-2021-B1": {
+    "title": "Videnskabsteori og etik for de kemiske fag",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "38",
+    "passed": "36",
+    "grades": {
+      "12": 10,
+      "10": 13,
+      "7": 8,
+      "4": 5,
+      "02": 0,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNDB19005E-Summer-2021-B4": {
+    "title": "Videnskabsteori og etik for de kemiske fag",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "112",
+    "attended": "109",
+    "passed": "106",
+    "grades": {
+      "12": 11,
+      "10": 34,
+      "7": 39,
+      "4": 15,
+      "02": 7,
+      "00": 1,
+      "-3": 2,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NNDB19003E-Summer-2025-B4": {
+    "title": "Videnskabsteori og etik for fysikere",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "93",
+    "attended": "91",
+    "passed": "91",
+    "grades": {
+      "12": 10,
+      "10": 22,
+      "7": 34,
+      "4": 17,
+      "02": 8,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNDB19003E-Summer-2024-B4": {
+    "title": "Videnskabsteori og etik for fysikere",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "93",
+    "attended": "86",
+    "passed": "85",
+    "grades": {
+      "12": 5,
+      "10": 27,
+      "7": 26,
+      "4": 24,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ikke bestået": 7
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "6",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNDB19003E-Summer-2023-B4": {
+    "title": "Videnskabsteori og etik for fysikere",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "65",
+    "attended": "63",
+    "passed": "62",
+    "grades": {
+      "12": 4,
+      "10": 18,
+      "7": 20,
+      "4": 15,
+      "02": 5,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNDB19003E-Summer-2022-B3": {
+    "title": "Videnskabsteori og etik for fysikere",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "93",
+    "attended": "81",
+    "passed": "81",
+    "grades": {
+      "12": 6,
+      "10": 20,
+      "7": 38,
+      "4": 15,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 11
+    },
+    "reexam": false
+  },
+  "NNDB19003E-Summer-2021-B3": {
+    "title": "Videnskabsteori og etik for fysikere",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "75",
+    "attended": "63",
+    "passed": "62",
+    "grades": {
+      "12": 6,
+      "10": 18,
+      "7": 24,
+      "4": 10,
+      "02": 4,
+      "00": 1,
+      "-3": 0,
+      "Ikke bestået": 12
+    },
+    "reexam": false
+  },
+  "NNDK22001E-Winter-2025-B2": {
+    "title": "Videregående fagdidaktik i naturvidenskabelige fag",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 4,
+      "10": 6,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK22001E-Winter-2024-B2": {
+    "title": "Videregående fagdidaktik i naturvidenskabelige fag",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "12": 5,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNDK22001E-Winter-2023-B2": {
+    "title": "Videregående fagdidaktik i naturvidenskabelige fag",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 4,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK22001E-Winter-2022-B2": {
+    "title": "Videregående fagdidaktik i naturvidenskabelige fag",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 3,
+      "10": 2,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNDK17600E-Winter-2024-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i biologi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK17600E-Winter-2022-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i biologi",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK17600E-Summer-2022-B4": {
+    "title": "Virksomhedsprojekt på kandidatniveau i biologi",
+    "term": "s22/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22601E-Winter-2022-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i geografi og geoinformatik",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK24600E-Winter-2023-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i kemi",
+    "term": "v23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK14600E-Summer-2021-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i matematik",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK24601E-Summer-2024-B4": {
+    "title": "Virksomhedsprojekt på kandidatniveau i miljøvidenskab",
+    "term": "s24/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK23600E-Winter-2022-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i naturforvaltning",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22600E-Winter-2025-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i STEM-undervisning",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22600E-Winter-2024-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i STEM-undervisning",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22600E-Summer-2023-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i STEM-undervisning",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22600E-Winter-2022-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i STEM-undervisning",
+    "term": "v22/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNDK22600E-Winter-2021-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i STEM-undervisning",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": false
+  }
+}

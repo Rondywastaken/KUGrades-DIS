@@ -1,0 +1,7979 @@
+{
+  "NKEK22000E-Summer-2025-B4": {
+    "title": "Advanced Fluorescence Spectroscopy and Microscopy",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "29",
+    "attended": "26",
+    "passed": "22",
+    "grades": {
+      "12": 10,
+      "10": 5,
+      "7": 4,
+      "4": 0,
+      "02": 3,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEK22000E-Summer-2024-B4": {
+    "title": "Advanced Fluorescence Spectroscopy and Microscopy",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "17",
+    "passed": "16",
+    "grades": {
+      "12": 4,
+      "10": 8,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NKEK22000E-Summer-2023-B4": {
+    "title": "Advanced Fluorescence Spectroscopy and Microscopy",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "19",
+    "passed": "15",
+    "grades": {
+      "12": 8,
+      "10": 2,
+      "7": 3,
+      "4": 2,
+      "02": 0,
+      "00": 3,
+      "-3": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB13013E-Summer-2026-B3": {
+    "title": "Advanced Inorganic Chemistry",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "24",
+    "attended": "24",
+    "passed": "23",
+    "grades": {
+      "12": 9,
+      "10": 6,
+      "7": 5,
+      "4": 2,
+      "02": 1,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13013E-Winter-2024-B1": {
+    "title": "Advanced Inorganic Chemistry",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "8",
+    "passed": "7",
+    "grades": {
+      "12": 6,
+      "10": 0,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB13013E-Winter-2023-B1": {
+    "title": "Advanced Inorganic Chemistry",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "17",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 6,
+      "10": 1,
+      "7": 1,
+      "4": 1,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 6
+    },
+    "reexam": false
+  },
+  "NKEB13013E-Summer-2023-B3": {
+    "title": "Advanced Inorganic Chemistry",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "16",
+    "attended": "13",
+    "passed": "12",
+    "grades": {
+      "12": 5,
+      "10": 2,
+      "7": 1,
+      "4": 2,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEB13013E-Summer-2022-B3": {
+    "title": "Advanced Inorganic Chemistry",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "19",
+    "passed": "17",
+    "grades": {
+      "12": 9,
+      "10": 4,
+      "7": 3,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB13013E-Summer-2021-B3": {
+    "title": "Advanced Inorganic Chemistry",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "18",
+    "passed": "17",
+    "grades": {
+      "12": 7,
+      "10": 6,
+      "7": 2,
+      "4": 1,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEK21001E-Summer-2022-B3": {
+    "title": "Advanced Molecular Spectroscopy",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "17",
+    "attended": "15",
+    "passed": "14",
+    "grades": {
+      "12": 4,
+      "10": 4,
+      "7": 3,
+      "4": 2,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK13018E-Winter-2021-B1": {
+    "title": "Advanced Photochemistry",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "11",
+    "attended": "9",
+    "passed": "8",
+    "grades": {
+      "12": 2,
+      "10": 0,
+      "7": 3,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK10004E-Summer-2021-B3": {
+    "title": "Advanced Physical Chemistry",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "10",
+    "attended": "9",
+    "passed": "7",
+    "grades": {
+      "12": 3,
+      "10": 1,
+      "7": 1,
+      "4": 1,
+      "02": 1,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "2",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 0,
+      "4": 2,
+      "02": 0,
+      "00": 2,
+      "-3": 0
+    }
+  },
+  "NKEA05037E-Summer-2025-B4": {
+    "title": "Advanced Quantum Chemistry",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "18",
+    "passed": "18",
+    "grades": {
+      "12": 12,
+      "10": 3,
+      "7": 1,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEA05037E-Summer-2024-B4": {
+    "title": "Advanced Quantum Chemistry",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "18",
+    "passed": "18",
+    "grades": {
+      "12": 13,
+      "10": 2,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEA05037E-Summer-2023-B4": {
+    "title": "Advanced Quantum Chemistry",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 7,
+      "10": 2,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEA05037E-Summer-2022-B4": {
+    "title": "Advanced Quantum Chemistry",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "17",
+    "passed": "17",
+    "grades": {
+      "12": 10,
+      "10": 3,
+      "7": 3,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NKEA05037E-Summer-2021-B4": {
+    "title": "Advanced Quantum Chemistry",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "16",
+    "attended": "14",
+    "passed": "14",
+    "grades": {
+      "12": 8,
+      "10": 5,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK11003E-Summer-2025-B5": {
+    "title": "Advanced Synthetic Techniques",
+    "term": "s25/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "24",
+    "attended": "24",
+    "passed": "24",
+    "grades": {
+      "Bestået": 24,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEK11003E-Summer-2024-B5": {
+    "title": "Advanced Synthetic Techniques",
+    "term": "s24/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "23",
+    "passed": "22",
+    "grades": {
+      "Bestået": 22,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEK11003E-Summer-2023-B5": {
+    "title": "Advanced Synthetic Techniques",
+    "term": "s23/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "Bestået": 9,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEK11003E-Summer-2022-B5": {
+    "title": "Advanced Synthetic Techniques",
+    "term": "s22/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "Bestået": 8,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEK11003E-Summer-2021-B5": {
+    "title": "Advanced Synthetic Techniques",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "Bestået": 6,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEK22001E-Summer-2026-B3": {
+    "title": "Advanced Vibrational Spectroscopy",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "11",
+    "attended": "10",
+    "passed": "9",
+    "grades": {
+      "12": 5,
+      "10": 1,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEK22001E-Summer-2025-B3": {
+    "title": "Advanced Vibrational Spectroscopy",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "18",
+    "attended": "14",
+    "passed": "12",
+    "grades": {
+      "12": 8,
+      "10": 1,
+      "7": 1,
+      "4": 2,
+      "02": 0,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NKEK22001E-Summer-2024-B3": {
+    "title": "Advanced Vibrational Spectroscopy",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "11",
+    "passed": "10",
+    "grades": {
+      "12": 6,
+      "10": 1,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK22001E-Summer-2023-B3": {
+    "title": "Advanced Vibrational Spectroscopy",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "15",
+    "attended": "13",
+    "passed": "12",
+    "grades": {
+      "12": 6,
+      "10": 2,
+      "7": 2,
+      "4": 1,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK23500E-Summer-2023-B4": {
+    "title": "Afløsningsopgave",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEA09012E-Winter-2025-B2": {
+    "title": "Air Pollution and Health",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "12": 6,
+      "10": 6,
+      "7": 6,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEA09012E-Winter-2024-B2": {
+    "title": "Air Pollution and Health",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "18",
+    "passed": "18",
+    "grades": {
+      "12": 7,
+      "10": 4,
+      "7": 3,
+      "4": 1,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEA09012E-Winter-2023-B2": {
+    "title": "Air Pollution and Health",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "14",
+    "passed": "14",
+    "grades": {
+      "12": 6,
+      "10": 6,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEA09012E-Winter-2022-B2": {
+    "title": "Air Pollution and Health",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "12": 9,
+      "10": 5,
+      "7": 4,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEA09012E-Winter-2021-B2": {
+    "title": "Air Pollution and Health",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "32",
+    "passed": "32",
+    "grades": {
+      "12": 7,
+      "10": 16,
+      "7": 7,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 2,
+      "10": 0,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NKEB10006E-Winter-2025-B1": {
+    "title": "Almen kemi",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "73",
+    "attended": "71",
+    "passed": "66",
+    "grades": {
+      "12": 14,
+      "10": 24,
+      "7": 19,
+      "4": 6,
+      "02": 3,
+      "00": 5,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 1,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NKEB10006E-Winter-2024-B1": {
+    "title": "Almen kemi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "74",
+    "attended": "73",
+    "passed": "70",
+    "grades": {
+      "12": 17,
+      "10": 15,
+      "7": 26,
+      "4": 10,
+      "02": 2,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB10006E-Winter-2023-B1": {
+    "title": "Almen kemi",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "76",
+    "attended": "76",
+    "passed": "68",
+    "grades": {
+      "12": 9,
+      "10": 17,
+      "7": 24,
+      "4": 14,
+      "02": 4,
+      "00": 8,
+      "-3": 0
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "6",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 2,
+      "02": 1,
+      "00": 2,
+      "-3": 0
+    }
+  },
+  "NKEB10006E-Winter-2022-B1": {
+    "title": "Almen kemi",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "72",
+    "attended": "71",
+    "passed": "62",
+    "grades": {
+      "12": 13,
+      "10": 21,
+      "7": 14,
+      "4": 8,
+      "02": 6,
+      "00": 9,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "5",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NKEB10006E-Winter-2021-B1": {
+    "title": "Almen kemi",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "68",
+    "attended": "68",
+    "passed": "64",
+    "grades": {
+      "12": 7,
+      "10": 15,
+      "7": 28,
+      "4": 13,
+      "02": 1,
+      "00": 4,
+      "-3": 0
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "5",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 0,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "LKEB10108E-Winter-2025-B2": {
+    "title": "Almen kemi for biovidenskab",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "110",
+    "attended": "101",
+    "passed": "74",
+    "grades": {
+      "12": 5,
+      "10": 13,
+      "7": 16,
+      "4": 14,
+      "02": 26,
+      "00": 22,
+      "-3": 5,
+      "Ej mødt": 7,
+      "Ikke bestået": 2
+    },
+    "reexam": true,
+    "registered_reexam": "22",
+    "attended_reexam": "20",
+    "passed_reexam": "16",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 4,
+      "4": 5,
+      "02": 5,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "LKEB10108E-Winter-2024-B2": {
+    "title": "Almen kemi for biovidenskab",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "128",
+    "attended": "118",
+    "passed": "84",
+    "grades": {
+      "12": 5,
+      "10": 12,
+      "7": 24,
+      "4": 14,
+      "02": 29,
+      "00": 31,
+      "-3": 3,
+      "Ej mødt": 6,
+      "Ikke bestået": 4
+    },
+    "reexam": true,
+    "registered_reexam": "39",
+    "attended_reexam": "32",
+    "passed_reexam": "20",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 4,
+      "4": 5,
+      "02": 11,
+      "00": 12,
+      "-3": 0,
+      "Ej mødt": 7
+    }
+  },
+  "LKEB10108E-Winter-2023-B2": {
+    "title": "Almen kemi for biovidenskab",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "141",
+    "attended": "124",
+    "passed": "93",
+    "grades": {
+      "12": 10,
+      "10": 13,
+      "7": 27,
+      "4": 17,
+      "02": 26,
+      "00": 27,
+      "-3": 4,
+      "Ej mødt": 8,
+      "Ikke bestået": 9
+    },
+    "reexam": true,
+    "registered_reexam": "29",
+    "attended_reexam": "26",
+    "passed_reexam": "13",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 3,
+      "02": 8,
+      "00": 12,
+      "-3": 1,
+      "Ej mødt": 3
+    }
+  },
+  "LKEB10108E-Winter-2022-B2": {
+    "title": "Almen kemi for biovidenskab",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "139",
+    "attended": "112",
+    "passed": "87",
+    "grades": {
+      "12": 5,
+      "10": 22,
+      "7": 27,
+      "4": 10,
+      "02": 23,
+      "00": 20,
+      "-3": 5,
+      "Ej mødt": 16,
+      "Ikke bestået": 11
+    },
+    "reexam": true,
+    "registered_reexam": "20",
+    "attended_reexam": "14",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 2,
+      "02": 5,
+      "00": 5,
+      "-3": 1,
+      "Ej mødt": 6
+    }
+  },
+  "LKEB10108E-Winter-2021-B2": {
+    "title": "Almen kemi for biovidenskab",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "165",
+    "attended": "158",
+    "passed": "121",
+    "grades": {
+      "12": 17,
+      "10": 23,
+      "7": 39,
+      "4": 20,
+      "02": 22,
+      "00": 28,
+      "-3": 9,
+      "Ej mødt": 3,
+      "Ikke bestået": 4
+    },
+    "reexam": true,
+    "registered_reexam": "25",
+    "attended_reexam": "22",
+    "passed_reexam": "10",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 5,
+      "4": 2,
+      "02": 2,
+      "00": 9,
+      "-3": 3,
+      "Ej mødt": 3
+    }
+  },
+  "NKEB11004E-Summer-2026-B3": {
+    "title": "Almen og uorganisk kemi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "98",
+    "attended": "92",
+    "passed": "85",
+    "grades": {
+      "12": 18,
+      "10": 26,
+      "7": 23,
+      "4": 8,
+      "02": 10,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 5
+    },
+    "reexam": false
+  },
+  "NKEB11004E-Summer-2025-B3": {
+    "title": "Almen og uorganisk kemi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "106",
+    "attended": "101",
+    "passed": "86",
+    "grades": {
+      "12": 25,
+      "10": 27,
+      "7": 14,
+      "4": 12,
+      "02": 8,
+      "00": 14,
+      "-3": 1,
+      "Ej mødt": 1,
+      "Ikke bestået": 4
+    },
+    "reexam": true,
+    "registered_reexam": "12",
+    "attended_reexam": "12",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 3,
+      "4": 2,
+      "02": 2,
+      "00": 2,
+      "-3": 1,
+      "Ej bedømt": 1
+    }
+  },
+  "NKEB11004E-Summer-2024-B3": {
+    "title": "Almen og uorganisk kemi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "110",
+    "attended": "96",
+    "passed": "67",
+    "grades": {
+      "12": 9,
+      "10": 8,
+      "7": 26,
+      "4": 17,
+      "02": 7,
+      "00": 24,
+      "-3": 5,
+      "Ej mødt": 3,
+      "Ikke bestået": 11
+    },
+    "reexam": true,
+    "registered_reexam": "28",
+    "attended_reexam": "24",
+    "passed_reexam": "17",
+    "grades_reexam": {
+      "12": 0,
+      "10": 3,
+      "7": 2,
+      "4": 7,
+      "02": 5,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 4
+    }
+  },
+  "NKEB11004E-Summer-2023-B3": {
+    "title": "Almen og uorganisk kemi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "118",
+    "attended": "103",
+    "passed": "83",
+    "grades": {
+      "12": 22,
+      "10": 25,
+      "7": 19,
+      "4": 9,
+      "02": 8,
+      "00": 18,
+      "-3": 2,
+      "Ej mødt": 6,
+      "Ikke bestået": 9
+    },
+    "reexam": true,
+    "registered_reexam": "18",
+    "attended_reexam": "18",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 3,
+      "4": 0,
+      "02": 5,
+      "00": 8,
+      "-3": 2
+    }
+  },
+  "NKEB11004E-Summer-2022-B3": {
+    "title": "Almen og uorganisk kemi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "139",
+    "attended": "110",
+    "passed": "71",
+    "grades": {
+      "12": 6,
+      "10": 6,
+      "7": 20,
+      "4": 18,
+      "02": 21,
+      "00": 31,
+      "-3": 8,
+      "Ej mødt": 8,
+      "Ikke bestået": 21
+    },
+    "reexam": true,
+    "registered_reexam": "33",
+    "attended_reexam": "29",
+    "passed_reexam": "16",
+    "grades_reexam": {
+      "12": 0,
+      "10": 3,
+      "7": 5,
+      "4": 5,
+      "02": 3,
+      "00": 10,
+      "-3": 3,
+      "Ej mødt": 3,
+      "Ikke bestået": 1
+    }
+  },
+  "NKEB11004E-Summer-2021-B3": {
+    "title": "Almen og uorganisk kemi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "157",
+    "attended": "137",
+    "passed": "106",
+    "grades": {
+      "12": 18,
+      "10": 24,
+      "7": 30,
+      "4": 18,
+      "02": 16,
+      "00": 29,
+      "-3": 2,
+      "Ej mødt": 4,
+      "Ikke bestået": 16
+    },
+    "reexam": true,
+    "registered_reexam": "27",
+    "attended_reexam": "26",
+    "passed_reexam": "13",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 8,
+      "02": 4,
+      "00": 7,
+      "-3": 6,
+      "Ej mødt": 1
+    }
+  },
+  "NKEB13004E-Summer-2026-B3": {
+    "title": "Anvendt matematik for kemikere",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "60",
+    "attended": "57",
+    "passed": "55",
+    "grades": {
+      "12": 11,
+      "10": 23,
+      "7": 15,
+      "4": 4,
+      "02": 2,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEB13004E-Summer-2025-B3": {
+    "title": "Anvendt matematik for kemikere",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "65",
+    "attended": "59",
+    "passed": "58",
+    "grades": {
+      "12": 13,
+      "10": 24,
+      "7": 15,
+      "4": 4,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ikke bestået": 6
+    },
+    "reexam": false
+  },
+  "NKEB13004E-Summer-2024-B3": {
+    "title": "Anvendt matematik for kemikere",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "54",
+    "attended": "48",
+    "passed": "48",
+    "grades": {
+      "12": 17,
+      "10": 15,
+      "7": 12,
+      "4": 2,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 6
+    },
+    "reexam": false
+  },
+  "NKEB13004E-Summer-2023-B3": {
+    "title": "Anvendt matematik for kemikere",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "34",
+    "attended": "32",
+    "passed": "32",
+    "grades": {
+      "12": 14,
+      "10": 6,
+      "7": 9,
+      "4": 1,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB13004E-Summer-2022-B3": {
+    "title": "Anvendt matematik for kemikere",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "36",
+    "passed": "33",
+    "grades": {
+      "12": 8,
+      "10": 16,
+      "7": 5,
+      "4": 2,
+      "02": 2,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB13004E-Summer-2021-B3": {
+    "title": "Anvendt matematik for kemikere",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "32",
+    "passed": "31",
+    "grades": {
+      "12": 16,
+      "10": 6,
+      "7": 3,
+      "4": 1,
+      "02": 5,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 6
+    },
+    "reexam": false
+  },
+  "NKEB13006E-Summer-2025-B4": {
+    "title": "Anvendt spektroskopi",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "97",
+    "attended": "81",
+    "passed": "74",
+    "grades": {
+      "12": 5,
+      "10": 15,
+      "7": 20,
+      "4": 21,
+      "02": 13,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 16
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 0,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    }
+  },
+  "NKEB13006E-Winter-2024-B1": {
+    "title": "Anvendt spektroskopi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13006E-Summer-2024-B4": {
+    "title": "Anvendt spektroskopi",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "71",
+    "attended": "62",
+    "passed": "58",
+    "grades": {
+      "12": 5,
+      "10": 10,
+      "7": 15,
+      "4": 20,
+      "02": 8,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 9
+    },
+    "reexam": false
+  },
+  "NKEB13006E-Summer-2023-B4": {
+    "title": "Anvendt spektroskopi",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "86",
+    "attended": "71",
+    "passed": "62",
+    "grades": {
+      "12": 7,
+      "10": 5,
+      "7": 17,
+      "4": 22,
+      "02": 11,
+      "00": 5,
+      "-3": 4,
+      "Ej mødt": 15
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "7",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 2,
+      "10": 0,
+      "7": 2,
+      "4": 1,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NKEB13006E-Summer-2022-B4": {
+    "title": "Anvendt spektroskopi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "92",
+    "attended": "80",
+    "passed": "75",
+    "grades": {
+      "12": 11,
+      "10": 20,
+      "7": 21,
+      "4": 13,
+      "02": 10,
+      "00": 4,
+      "-3": 1,
+      "Ej mødt": 12
+    },
+    "reexam": false
+  },
+  "NKEB13006E-Summer-2021-B4": {
+    "title": "Anvendt spektroskopi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "84",
+    "attended": "70",
+    "passed": "58",
+    "grades": {
+      "12": 6,
+      "10": 17,
+      "7": 20,
+      "4": 11,
+      "02": 4,
+      "00": 10,
+      "-3": 2,
+      "Ej mødt": 14
+    },
+    "reexam": true,
+    "registered_reexam": "10",
+    "attended_reexam": "5",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 0,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 5
+    }
+  },
+  "NKEK11002E-Winter-2024-B1": {
+    "title": "Atmospheric Environmental Chemistry",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK11002E-Winter-2023-B1": {
+    "title": "Atmospheric Environmental Chemistry",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 6,
+      "10": 2,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEK11002E-Summer-2023-B4": {
+    "title": "Atmospheric Environmental Chemistry",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK11002E-Winter-2022-B1": {
+    "title": "Atmospheric Environmental Chemistry",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK11002E-Winter-2021-B1": {
+    "title": "Atmospheric Environmental Chemistry",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB21002E-Summer-2026-B3": {
+    "title": "Bioorganisk kemi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "34",
+    "attended": "32",
+    "passed": "29",
+    "grades": {
+      "12": 4,
+      "10": 4,
+      "7": 13,
+      "4": 5,
+      "02": 3,
+      "00": 2,
+      "-3": 1,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB21002E-Summer-2025-B3": {
+    "title": "Bioorganisk kemi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "48",
+    "attended": "40",
+    "passed": "34",
+    "grades": {
+      "12": 4,
+      "10": 11,
+      "7": 11,
+      "4": 5,
+      "02": 3,
+      "00": 5,
+      "-3": 1,
+      "Ikke bestået": 8
+    },
+    "reexam": false
+  },
+  "NKEB21002E-Summer-2024-B3": {
+    "title": "Bioorganisk kemi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "28",
+    "passed": "21",
+    "grades": {
+      "12": 5,
+      "10": 5,
+      "7": 6,
+      "4": 1,
+      "02": 4,
+      "00": 5,
+      "-3": 2,
+      "Ej mødt": 3,
+      "Ikke bestået": 7
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "1",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 0,
+      "4": 0,
+      "02": 1,
+      "00": 3,
+      "-3": 0
+    }
+  },
+  "NKEB21002E-Summer-2023-B3": {
+    "title": "Bioorganisk kemi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "47",
+    "attended": "36",
+    "passed": "33",
+    "grades": {
+      "12": 3,
+      "10": 10,
+      "7": 7,
+      "4": 10,
+      "02": 3,
+      "00": 2,
+      "-3": 1,
+      "Ej mødt": 2,
+      "Ikke bestået": 9
+    },
+    "reexam": false
+  },
+  "NKEB21002E-Winter-2022-B1": {
+    "title": "Bioorganisk kemi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "37",
+    "attended": "33",
+    "passed": "30",
+    "grades": {
+      "12": 2,
+      "10": 7,
+      "7": 13,
+      "4": 3,
+      "02": 5,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NKEB21002E-Winter-2021-B1": {
+    "title": "Bioorganisk kemi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "40",
+    "attended": "35",
+    "passed": "31",
+    "grades": {
+      "12": 5,
+      "10": 9,
+      "7": 10,
+      "4": 4,
+      "02": 3,
+      "00": 2,
+      "-3": 2,
+      "Ej mødt": 1,
+      "Ikke bestået": 4
+    },
+    "reexam": false
+  },
+  "NKEB24001E-Summer-2026-B3": {
+    "title": "Chemistry in the Green Energy Transition",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 4,
+      "10": 4,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB24001E-Summer-2025-B3": {
+    "title": "Chemistry in the Green Energy Transition",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 4,
+      "10": 5,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEA07016E-Winter-2025-B1": {
+    "title": "Computational Chemistry",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "11",
+    "attended": "11",
+    "passed": "7",
+    "grades": {
+      "12": 4,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej bedømt": 4
+    },
+    "reexam": false
+  },
+  "NKEA07016E-Winter-2024-B1": {
+    "title": "Computational Chemistry",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "19",
+    "attended": "18",
+    "passed": "18",
+    "grades": {
+      "12": 15,
+      "10": 2,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEA07016E-Winter-2023-B1": {
+    "title": "Computational Chemistry",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "20",
+    "attended": "16",
+    "passed": "16",
+    "grades": {
+      "12": 12,
+      "10": 3,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NKEA07016E-Winter-2022-B1": {
+    "title": "Computational Chemistry",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "15",
+    "attended": "10",
+    "passed": "8",
+    "grades": {
+      "12": 4,
+      "10": 4,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 2,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NKEA07016E-Winter-2021-B1": {
+    "title": "Computational Chemistry",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "24",
+    "attended": "19",
+    "passed": "18",
+    "grades": {
+      "12": 11,
+      "10": 4,
+      "7": 2,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NKEB13008E-Winter-2025-B2": {
+    "title": "Crystallography - BSc",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 4,
+      "10": 4,
+      "7": 1,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB13008E-Winter-2024-B2": {
+    "title": "Crystallography - BSc",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "17",
+    "attended": "17",
+    "passed": "15",
+    "grades": {
+      "12": 2,
+      "10": 4,
+      "7": 7,
+      "4": 2,
+      "02": 0,
+      "00": 2,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13008E-Winter-2023-B2": {
+    "title": "Crystallography - BSc",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 5,
+      "10": 3,
+      "7": 2,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB13008E-Winter-2022-B2": {
+    "title": "Crystallography - BSc",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 3,
+      "10": 4,
+      "7": 2,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB13008E-Winter-2021-B2": {
+    "title": "Crystallography - BSc",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "22",
+    "attended": "21",
+    "passed": "20",
+    "grades": {
+      "12": 5,
+      "10": 7,
+      "7": 4,
+      "4": 4,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEA06015E-Winter-2025-B2": {
+    "title": "Crystallography - MSc",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 2,
+      "10": 4,
+      "7": 4,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEA06015E-Winter-2024-B2": {
+    "title": "Crystallography - MSc",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 1,
+      "10": 1,
+      "7": 4,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEA06015E-Winter-2023-B2": {
+    "title": "Crystallography - MSc",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 3,
+      "10": 3,
+      "7": 1,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEA06015E-Winter-2022-B2": {
+    "title": "Crystallography - MSc",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 0,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEA06015E-Winter-2021-B2": {
+    "title": "Crystallography - MSc",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 0,
+      "10": 4,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NKEK15004E-Summer-2025-B3": {
+    "title": "Descriptive Inorganic Chemistry",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "7",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 1,
+      "10": 2,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK15004E-Summer-2024-B3": {
+    "title": "Descriptive Inorganic Chemistry",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "6",
+    "grades": {
+      "12": 2,
+      "10": 3,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK15004E-Summer-2023-B3": {
+    "title": "Descriptive Inorganic Chemistry",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 3,
+      "10": 1,
+      "7": 4,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK15004E-Summer-2022-B3": {
+    "title": "Descriptive Inorganic Chemistry",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 4,
+      "10": 3,
+      "7": 0,
+      "4": 3,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEK15004E-Summer-2021-B3": {
+    "title": "Descriptive Inorganic Chemistry",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "5",
+    "attended": "4",
+    "passed": "3",
+    "grades": {
+      "12": 0,
+      "10": 2,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB14006E-Winter-2025-B2": {
+    "title": "Eksperimentel fysisk kemi",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "43",
+    "attended": "42",
+    "passed": "42",
+    "grades": {
+      "12": 14,
+      "10": 12,
+      "7": 9,
+      "4": 4,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB14006E-Winter-2024-B2": {
+    "title": "Eksperimentel fysisk kemi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "30",
+    "attended": "28",
+    "passed": "28",
+    "grades": {
+      "12": 6,
+      "10": 8,
+      "7": 11,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB14006E-Winter-2023-B2": {
+    "title": "Eksperimentel fysisk kemi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "34",
+    "attended": "33",
+    "passed": "33",
+    "grades": {
+      "12": 12,
+      "10": 11,
+      "7": 10,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB14006E-Winter-2022-B2": {
+    "title": "Eksperimentel fysisk kemi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "49",
+    "attended": "47",
+    "passed": "46",
+    "grades": {
+      "12": 17,
+      "10": 21,
+      "7": 4,
+      "4": 4,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB14006E-Winter-2021-B2": {
+    "title": "Eksperimentel fysisk kemi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "35",
+    "passed": "31",
+    "grades": {
+      "12": 11,
+      "10": 10,
+      "7": 5,
+      "4": 4,
+      "02": 1,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB10001E-Winter-2023-B1": {
+    "title": "Eksperimentelt kursus i almen kemi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "Bestået": 4,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "Histogram-NKEK16801E-Summer-2025": {
+    "title": "Environmental Science Thesis 45 ECTS, Department of Chemistry",
+    "term": "s25",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NKEK16801E-Winter-2024": {
+    "title": "Environmental Science Thesis 45 ECTS, Department of Chemistry",
+    "term": "v24",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NKEK16801E-Summer-2024": {
+    "title": "Environmental Science Thesis 45 ECTS, Department of Chemistry",
+    "term": "s24",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NKEK16801E-Summer-2022": {
+    "title": "Environmental Science Thesis 45 ECTS, Department of Chemistry",
+    "term": "s22",
+    "ects": "45",
+    "exam": false
+  },
+  "NKEB10005E-Summer-2023-B3": {
+    "title": "Forskningspraktik i kemi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "11",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "Bestået": 11,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEB10005E-Summer-2023-B5": {
+    "title": "Forskningspraktik i kemi",
+    "term": "s23/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB10005E-Winter-2022-B1": {
+    "title": "Forskningspraktik i kemi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB10005E-Winter-2022-B2": {
+    "title": "Forskningspraktik i kemi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "Bestået": 5,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEB10005E-Summer-2022-B3": {
+    "title": "Forskningspraktik i kemi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB10005E-Summer-2022-B4": {
+    "title": "Forskningspraktik i kemi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB10005E-Summer-2022-B5": {
+    "title": "Forskningspraktik i kemi",
+    "term": "s22/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB10005E-Winter-2021-B1": {
+    "title": "Forskningspraktik i kemi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "Bestået": 6,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEB10005E-Winter-2021-B2": {
+    "title": "Forskningspraktik i kemi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "Bestået": 8,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEB10005E-Summer-2021-B3": {
+    "title": "Forskningspraktik i kemi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB10005E-Summer-2021-B4": {
+    "title": "Forskningspraktik i kemi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB10005E-Summer-2021-B5": {
+    "title": "Forskningspraktik i kemi",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEA04057E-Winter-2025-B2": {
+    "title": "Fotokemi og fotofysik",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "15",
+    "attended": "14",
+    "passed": "13",
+    "grades": {
+      "12": 4,
+      "10": 3,
+      "7": 5,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEA04057E-Winter-2024-B2": {
+    "title": "Fotokemi og fotofysik",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "13",
+    "passed": "11",
+    "grades": {
+      "12": 5,
+      "10": 1,
+      "7": 3,
+      "4": 1,
+      "02": 1,
+      "00": 2,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEA04057E-Winter-2023-B2": {
+    "title": "Fotokemi og fotofysik",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "16",
+    "passed": "16",
+    "grades": {
+      "12": 5,
+      "10": 3,
+      "7": 7,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEA04057E-Winter-2022-B2": {
+    "title": "Fotokemi og fotofysik",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "32",
+    "attended": "25",
+    "passed": "24",
+    "grades": {
+      "12": 7,
+      "10": 5,
+      "7": 6,
+      "4": 4,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 7
+    },
+    "reexam": false
+  },
+  "NKEA04057E-Winter-2021-B2": {
+    "title": "Fotokemi og fotofysik",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "9",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 2,
+      "4": 2,
+      "02": 2,
+      "00": 2,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NKEA04057E-Summer-2021-B4": {
+    "title": "Fotokemi og fotofysik",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "29",
+    "attended": "28",
+    "passed": "26",
+    "grades": {
+      "12": 8,
+      "10": 6,
+      "7": 6,
+      "4": 3,
+      "02": 3,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB14013E-Winter-2025-B1": {
+    "title": "Fysisk kemi for biokemikere",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "124",
+    "attended": "119",
+    "passed": "113",
+    "grades": {
+      "12": 27,
+      "10": 37,
+      "7": 25,
+      "4": 12,
+      "02": 12,
+      "00": 6,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 3,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NKEB14013E-Winter-2024-B1": {
+    "title": "Fysisk kemi for biokemikere",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "100",
+    "attended": "98",
+    "passed": "94",
+    "grades": {
+      "12": 5,
+      "10": 21,
+      "7": 30,
+      "4": 27,
+      "02": 11,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB14013E-Winter-2023-B1": {
+    "title": "Fysisk kemi for biokemikere",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "101",
+    "attended": "97",
+    "passed": "94",
+    "grades": {
+      "12": 12,
+      "10": 29,
+      "7": 32,
+      "4": 14,
+      "02": 7,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NKEB14013E-Winter-2022-B1": {
+    "title": "Fysisk kemi for biokemikere",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "67",
+    "attended": "65",
+    "passed": "61",
+    "grades": {
+      "12": 5,
+      "10": 17,
+      "7": 18,
+      "4": 14,
+      "02": 7,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB14013E-Winter-2021-B1": {
+    "title": "Fysisk kemi for biokemikere",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "64",
+    "attended": "62",
+    "passed": "61",
+    "grades": {
+      "12": 16,
+      "10": 21,
+      "7": 15,
+      "4": 7,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB20001E-Winter-2022-B2": {
+    "title": "Fysisk kemi for medicinalkemi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB20001E-Summer-2022-B3": {
+    "title": "Fysisk kemi for medicinalkemi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "46",
+    "attended": "40",
+    "passed": "30",
+    "grades": {
+      "12": 1,
+      "10": 5,
+      "7": 10,
+      "4": 9,
+      "02": 5,
+      "00": 10,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 4
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "6",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 1,
+      "02": 1,
+      "00": 2,
+      "-3": 0
+    }
+  },
+  "NKEB20001E-Summer-2021-B3": {
+    "title": "Fysisk kemi for medicinalkemi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "33",
+    "passed": "27",
+    "grades": {
+      "12": 2,
+      "10": 3,
+      "7": 8,
+      "4": 8,
+      "02": 6,
+      "00": 1,
+      "-3": 5,
+      "Ej mødt": 1,
+      "Ikke bestået": 5
+    },
+    "reexam": false
+  },
+  "NKEB23003E-Winter-2025-B1": {
+    "title": "Grundlæggende nanokemi",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "24",
+    "attended": "24",
+    "passed": "22",
+    "grades": {
+      "12": 3,
+      "10": 7,
+      "7": 8,
+      "4": 1,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej bedømt": 2
+    },
+    "reexam": false
+  },
+  "NKEB23003E-Winter-2024-B1": {
+    "title": "Grundlæggende nanokemi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "18",
+    "attended": "18",
+    "passed": "17",
+    "grades": {
+      "12": 4,
+      "10": 7,
+      "7": 4,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NKEB23003E-Winter-2024-B2": {
+    "title": "Grundlæggende nanokemi",
+    "term": "v24/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB23003E-Winter-2023-B1": {
+    "title": "Grundlæggende nanokemi",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "25",
+    "attended": "22",
+    "passed": "20",
+    "grades": {
+      "12": 3,
+      "10": 4,
+      "7": 10,
+      "4": 3,
+      "02": 0,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NKEB21000E-Winter-2025-B1": {
+    "title": "Grundlæggende organisk kemi",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "171",
+    "attended": "162",
+    "passed": "120",
+    "grades": {
+      "12": 12,
+      "10": 23,
+      "7": 24,
+      "4": 36,
+      "02": 25,
+      "00": 28,
+      "-3": 14,
+      "Ej mødt": 9
+    },
+    "reexam": true,
+    "registered_reexam": "41",
+    "attended_reexam": "39",
+    "passed_reexam": "20",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 3,
+      "4": 8,
+      "02": 8,
+      "00": 15,
+      "-3": 4,
+      "Ej mødt": 2
+    }
+  },
+  "NKEB21000E-Winter-2025-B2": {
+    "title": "Grundlæggende organisk kemi",
+    "term": "v25/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB21000E-Winter-2024-B1": {
+    "title": "Grundlæggende organisk kemi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "209",
+    "attended": "191",
+    "passed": "176",
+    "grades": {
+      "12": 31,
+      "10": 47,
+      "7": 34,
+      "4": 46,
+      "02": 18,
+      "00": 14,
+      "-3": 1,
+      "Ej mødt": 14,
+      "Ikke bestået": 4
+    },
+    "reexam": true,
+    "registered_reexam": "17",
+    "attended_reexam": "15",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 0,
+      "4": 0,
+      "02": 4,
+      "00": 9,
+      "-3": 2,
+      "Ej mødt": 2
+    }
+  },
+  "NKEB21000E-Winter-2023-B1": {
+    "title": "Grundlæggende organisk kemi",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "189",
+    "attended": "154",
+    "passed": "93",
+    "grades": {
+      "12": 10,
+      "10": 19,
+      "7": 21,
+      "4": 27,
+      "02": 16,
+      "00": 39,
+      "-3": 22,
+      "Ej mødt": 16,
+      "Ikke bestået": 19
+    },
+    "reexam": true,
+    "registered_reexam": "59",
+    "attended_reexam": "54",
+    "passed_reexam": "33",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 8,
+      "4": 13,
+      "02": 11,
+      "00": 12,
+      "-3": 9,
+      "Ej mødt": 5
+    }
+  },
+  "NKEB21000E-Winter-2022-B1": {
+    "title": "Grundlæggende organisk kemi",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "206",
+    "attended": "177",
+    "passed": "123",
+    "grades": {
+      "12": 22,
+      "10": 23,
+      "7": 32,
+      "4": 24,
+      "02": 22,
+      "00": 33,
+      "-3": 21,
+      "Ej mødt": 16,
+      "Ikke bestået": 13
+    },
+    "reexam": true,
+    "registered_reexam": "49",
+    "attended_reexam": "44",
+    "passed_reexam": "19",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 5,
+      "4": 3,
+      "02": 11,
+      "00": 17,
+      "-3": 8,
+      "Ej mødt": 5
+    }
+  },
+  "NKEB21000E-Winter-2021-B1": {
+    "title": "Grundlæggende organisk kemi",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "243",
+    "attended": "221",
+    "passed": "159",
+    "grades": {
+      "12": 25,
+      "10": 41,
+      "7": 27,
+      "4": 36,
+      "02": 30,
+      "00": 40,
+      "-3": 22,
+      "Ej mødt": 15,
+      "Ikke bestået": 7
+    },
+    "reexam": true,
+    "registered_reexam": "41",
+    "attended_reexam": "31",
+    "passed_reexam": "11",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 2,
+      "4": 1,
+      "02": 6,
+      "00": 11,
+      "-3": 9,
+      "Ej mødt": 10
+    }
+  },
+  "NKEK22005E-Summer-2026-B3": {
+    "title": "Heterocyclic Chemistry",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 6,
+      "10": 0,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK22005E-Summer-2025-B3": {
+    "title": "Heterocyclic Chemistry",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "9",
+    "passed": "8",
+    "grades": {
+      "12": 6,
+      "10": 1,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK22005E-Summer-2024-B3": {
+    "title": "Heterocyclic Chemistry",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 6,
+      "10": 1,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEK22005E-Summer-2023-B3": {
+    "title": "Heterocyclic Chemistry",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "25",
+    "attended": "23",
+    "passed": "21",
+    "grades": {
+      "12": 8,
+      "10": 6,
+      "7": 4,
+      "4": 1,
+      "02": 2,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEA08006E-Summer-2022-B3": {
+    "title": "Heterocyclic Chemistry",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "24",
+    "attended": "24",
+    "passed": "24",
+    "grades": {
+      "Bestået": 24,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEA08006E-Summer-2021-B3": {
+    "title": "Heterocyclic Chemistry",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "41",
+    "attended": "40",
+    "passed": "38",
+    "grades": {
+      "Bestået": 38,
+      "Ikke bestået": 2,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB20003E-Summer-2026-B3": {
+    "title": "Heterocyklisk kemi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "33",
+    "passed": "30",
+    "grades": {
+      "12": 8,
+      "10": 6,
+      "7": 11,
+      "4": 2,
+      "02": 3,
+      "00": 2,
+      "-3": 1,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEB20003E-Summer-2025-B3": {
+    "title": "Heterocyklisk kemi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "33",
+    "attended": "32",
+    "passed": "28",
+    "grades": {
+      "12": 17,
+      "10": 4,
+      "7": 5,
+      "4": 0,
+      "02": 2,
+      "00": 1,
+      "-3": 3,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB20003E-Summer-2024-B3": {
+    "title": "Heterocyklisk kemi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "33",
+    "passed": "30",
+    "grades": {
+      "12": 12,
+      "10": 9,
+      "7": 8,
+      "4": 1,
+      "02": 0,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NKEB20003E-Summer-2023-B3": {
+    "title": "Heterocyklisk kemi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "53",
+    "attended": "49",
+    "passed": "43",
+    "grades": {
+      "12": 24,
+      "10": 8,
+      "7": 7,
+      "4": 2,
+      "02": 2,
+      "00": 4,
+      "-3": 2,
+      "Ej mødt": 4
+    },
+    "reexam": true,
+    "registered_reexam": "10",
+    "attended_reexam": "5",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 5
+    }
+  },
+  "NKEB20003E-Summer-2022-B3": {
+    "title": "Heterocyklisk kemi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "29",
+    "passed": "22",
+    "grades": {
+      "12": 11,
+      "10": 2,
+      "7": 6,
+      "4": 1,
+      "02": 2,
+      "00": 4,
+      "-3": 3,
+      "Ej mødt": 9
+    },
+    "reexam": false
+  },
+  "Histogram-NKEAIS035E-Summer-2026": {
+    "title": "Individual Study",
+    "term": "s26",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEAIS000E-Summer-2025-B4": {
+    "title": "Individual Study",
+    "term": "s25/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEAIS000E-Winter-2024-B2": {
+    "title": "Individual Study",
+    "term": "v24/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEAIS000E-Summer-2024-B4": {
+    "title": "Individual Study",
+    "term": "s24/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEAIS000E-Winter-2023-B2": {
+    "title": "Individual Study",
+    "term": "v23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEAIS000E-Summer-2023-B3": {
+    "title": "Individual Study",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEAIS000E-Winter-2022-B1": {
+    "title": "Individual Study",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEAIS008E-Summer-2025-B4": {
+    "title": "Individual Study",
+    "term": "s25/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEAIS033E-Summer-2025-B4": {
+    "title": "Individual Study",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEAIS033E-Winter-2024-B2": {
+    "title": "Individual Study",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB20005E-Summer-2026-B3": {
+    "title": "Indledende medicinalkemi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "33",
+    "passed": "29",
+    "grades": {
+      "12": 6,
+      "10": 13,
+      "7": 5,
+      "4": 3,
+      "02": 2,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEB20005E-Summer-2025-B3": {
+    "title": "Indledende medicinalkemi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "49",
+    "attended": "41",
+    "passed": "34",
+    "grades": {
+      "12": 3,
+      "10": 6,
+      "7": 11,
+      "4": 8,
+      "02": 6,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 8
+    },
+    "reexam": false
+  },
+  "NKEB20005E-Summer-2024-B3": {
+    "title": "Indledende medicinalkemi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "50",
+    "attended": "39",
+    "passed": "34",
+    "grades": {
+      "12": 5,
+      "10": 15,
+      "7": 11,
+      "4": 2,
+      "02": 1,
+      "00": 4,
+      "-3": 1,
+      "Ej mødt": 11
+    },
+    "reexam": false
+  },
+  "NKEB20005E-Summer-2023-B3": {
+    "title": "Indledende medicinalkemi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "54",
+    "attended": "46",
+    "passed": "38",
+    "grades": {
+      "12": 5,
+      "10": 8,
+      "7": 13,
+      "4": 9,
+      "02": 3,
+      "00": 8,
+      "-3": 0,
+      "Ej mødt": 8
+    },
+    "reexam": false
+  },
+  "NKEB20005E-Summer-2022-B3": {
+    "title": "Indledende medicinalkemi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "62",
+    "attended": "55",
+    "passed": "47",
+    "grades": {
+      "12": 4,
+      "10": 12,
+      "7": 18,
+      "4": 10,
+      "02": 3,
+      "00": 7,
+      "-3": 1,
+      "Ej mødt": 7
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 0,
+      "4": 0,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NKEB20005E-Summer-2021-B3": {
+    "title": "Indledende medicinalkemi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "48",
+    "attended": "43",
+    "passed": "28",
+    "grades": {
+      "12": 7,
+      "10": 6,
+      "7": 7,
+      "4": 6,
+      "02": 2,
+      "00": 7,
+      "-3": 8,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 1,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NKEB25001E-Summer-2026-B3": {
+    "title": "Inorganic Chemical Synthesis",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "37",
+    "attended": "37",
+    "passed": "37",
+    "grades": {
+      "Bestået": 37,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEK22003E-Summer-2025-B3": {
+    "title": "Introduction to Physical Organic Chemistry",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "35",
+    "passed": "35",
+    "grades": {
+      "12": 6,
+      "10": 3,
+      "7": 10,
+      "4": 13,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NKEK22003E-Summer-2024-B3": {
+    "title": "Introduction to Physical Organic Chemistry",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "24",
+    "attended": "20",
+    "passed": "19",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 10,
+      "4": 5,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NKEB14016E-Winter-2023-B1": {
+    "title": "Introduktion til miljøkemi og kemi i naturen",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "6",
+    "grades": {
+      "12": 4,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB14016E-Winter-2022-B1": {
+    "title": "Introduktion til miljøkemi og kemi i naturen",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "7",
+    "grades": {
+      "12": 4,
+      "10": 2,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB14016E-Winter-2021-B1": {
+    "title": "Introduktion til miljøkemi og kemi i naturen",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 4,
+      "10": 3,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB16005E-Summer-2025-B3": {
+    "title": "Katalyse og bæredygtig kemi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "11",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 3,
+      "10": 1,
+      "7": 2,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB16005E-Summer-2024-B3": {
+    "title": "Katalyse og bæredygtig kemi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 3,
+      "10": 3,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NKEB16005E-Summer-2023-B3": {
+    "title": "Katalyse og bæredygtig kemi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "10",
+    "passed": "9",
+    "grades": {
+      "12": 4,
+      "10": 0,
+      "7": 3,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB16005E-Winter-2021-B2": {
+    "title": "Katalyse og bæredygtig kemi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 2,
+      "10": 0,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NKEA04065E-Summer-2026-B3": {
+    "title": "Kemi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "166",
+    "attended": "158",
+    "passed": "135",
+    "grades": {
+      "12": 19,
+      "10": 31,
+      "7": 49,
+      "4": 30,
+      "02": 6,
+      "00": 21,
+      "-3": 0,
+      "Ej bedømt": 2,
+      "Ej mødt": 1,
+      "Ikke bestået": 7
+    },
+    "reexam": false
+  },
+  "NKEA04065E-Summer-2025-B3": {
+    "title": "Kemi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "198",
+    "attended": "181",
+    "passed": "124",
+    "grades": {
+      "12": 5,
+      "10": 11,
+      "7": 32,
+      "4": 48,
+      "02": 28,
+      "00": 57,
+      "-3": 0,
+      "Ej mødt": 8,
+      "Ikke bestået": 9
+    },
+    "reexam": true,
+    "registered_reexam": "51",
+    "attended_reexam": "46",
+    "passed_reexam": "37",
+    "grades_reexam": {
+      "12": 1,
+      "10": 2,
+      "7": 12,
+      "4": 15,
+      "02": 7,
+      "00": 8,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ej mødt": 4,
+      "Ikke bestået": 1
+    }
+  },
+  "NKEA04065E-Summer-2024-B3": {
+    "title": "Kemi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "226",
+    "attended": "204",
+    "passed": "146",
+    "grades": {
+      "12": 11,
+      "10": 13,
+      "7": 54,
+      "4": 44,
+      "02": 24,
+      "00": 53,
+      "-3": 5,
+      "Ej mødt": 13,
+      "Ikke bestået": 9
+    },
+    "reexam": true,
+    "registered_reexam": "49",
+    "attended_reexam": "40",
+    "passed_reexam": "15",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 6,
+      "02": 8,
+      "00": 23,
+      "-3": 2,
+      "Ej mødt": 9
+    }
+  },
+  "NKEA04065E-Summer-2023-B3": {
+    "title": "Kemi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "212",
+    "attended": "192",
+    "passed": "136",
+    "grades": {
+      "12": 12,
+      "10": 23,
+      "7": 44,
+      "4": 41,
+      "02": 16,
+      "00": 55,
+      "-3": 1,
+      "Ej mødt": 5,
+      "Ikke bestået": 15
+    },
+    "reexam": true,
+    "registered_reexam": "43",
+    "attended_reexam": "43",
+    "passed_reexam": "24",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 5,
+      "4": 8,
+      "02": 9,
+      "00": 19,
+      "-3": 0
+    }
+  },
+  "NKEA04065E-Summer-2022-B3": {
+    "title": "Kemi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "224",
+    "attended": "207",
+    "passed": "163",
+    "grades": {
+      "12": 14,
+      "10": 42,
+      "7": 40,
+      "4": 48,
+      "02": 19,
+      "00": 44,
+      "-3": 0,
+      "Ej mødt": 9,
+      "Ikke bestået": 8
+    },
+    "reexam": true,
+    "registered_reexam": "26",
+    "attended_reexam": "22",
+    "passed_reexam": "11",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 4,
+      "02": 6,
+      "00": 11,
+      "-3": 0,
+      "Ej mødt": 4
+    }
+  },
+  "NKEA04065E-Summer-2021-B3": {
+    "title": "Kemi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "238",
+    "attended": "219",
+    "passed": "168",
+    "grades": {
+      "12": 10,
+      "10": 28,
+      "7": 62,
+      "4": 47,
+      "02": 21,
+      "00": 44,
+      "-3": 7,
+      "Ej mødt": 5,
+      "Ikke bestået": 14
+    },
+    "reexam": true,
+    "registered_reexam": "38",
+    "attended_reexam": "37",
+    "passed_reexam": "20",
+    "grades_reexam": {
+      "12": 0,
+      "10": 3,
+      "7": 3,
+      "4": 8,
+      "02": 6,
+      "00": 15,
+      "-3": 2,
+      "Ej mødt": 1
+    }
+  },
+  "NKEA04034E-Summer-2025-B4": {
+    "title": "Kemisk binding",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "92",
+    "attended": "75",
+    "passed": "62",
+    "grades": {
+      "12": 31,
+      "10": 15,
+      "7": 7,
+      "4": 5,
+      "02": 4,
+      "00": 10,
+      "-3": 3,
+      "Ej mødt": 17
+    },
+    "reexam": true,
+    "registered_reexam": "16",
+    "attended_reexam": "13",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 3,
+      "10": 3,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 4,
+      "-3": 1,
+      "Ej mødt": 3
+    }
+  },
+  "NKEA04034E-Summer-2024-B4": {
+    "title": "Kemisk binding",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "62",
+    "attended": "49",
+    "passed": "45",
+    "grades": {
+      "12": 26,
+      "10": 6,
+      "7": 7,
+      "4": 3,
+      "02": 3,
+      "00": 3,
+      "-3": 1,
+      "Ej mødt": 13
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "5",
+    "passed_reexam": "2",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NKEA04034E-Summer-2023-B4": {
+    "title": "Kemisk binding",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "80",
+    "attended": "64",
+    "passed": "57",
+    "grades": {
+      "12": 24,
+      "10": 10,
+      "7": 12,
+      "4": 7,
+      "02": 4,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 16
+    },
+    "reexam": true,
+    "registered_reexam": "10",
+    "attended_reexam": "8",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 2,
+      "4": 1,
+      "02": 1,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NKEA04034E-Summer-2022-B4": {
+    "title": "Kemisk binding",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "85",
+    "attended": "73",
+    "passed": "66",
+    "grades": {
+      "12": 33,
+      "10": 13,
+      "7": 8,
+      "4": 7,
+      "02": 5,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 12
+    },
+    "reexam": true,
+    "registered_reexam": "9",
+    "attended_reexam": "5",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 2,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 4
+    }
+  },
+  "NKEA04034E-Summer-2021-B4": {
+    "title": "Kemisk binding",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "84",
+    "attended": "70",
+    "passed": "65",
+    "grades": {
+      "12": 18,
+      "10": 25,
+      "7": 11,
+      "4": 8,
+      "02": 3,
+      "00": 2,
+      "-3": 3,
+      "Ej mødt": 14
+    },
+    "reexam": false
+  },
+  "NKEA60002E-Winter-2025-B1": {
+    "title": "Kemiske undervisningsforsøg",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 7,
+      "10": 2,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEA60002E-Summer-2024-B3": {
+    "title": "Kemiske undervisningsforsøg",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "11",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 6,
+      "10": 3,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEA60002E-Summer-2023-B3": {
+    "title": "Kemiske undervisningsforsøg",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 7,
+      "10": 3,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEA60002E-Summer-2022-B3": {
+    "title": "Kemiske undervisningsforsøg",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 1,
+      "10": 2,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEA60002E-Summer-2022-B4": {
+    "title": "Kemiske undervisningsforsøg",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 1,
+      "10": 6,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEA60002E-Summer-2021-B3": {
+    "title": "Kemiske undervisningsforsøg",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "15",
+    "attended": "15",
+    "passed": "15",
+    "grades": {
+      "12": 9,
+      "10": 4,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEA05042E-Summer-2026-B3": {
+    "title": "Kvantekemi og teoretisk spektroskopi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "50",
+    "attended": "48",
+    "passed": "47",
+    "grades": {
+      "12": 21,
+      "10": 9,
+      "7": 13,
+      "4": 2,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEA05042E-Summer-2025-B3": {
+    "title": "Kvantekemi og teoretisk spektroskopi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "35",
+    "passed": "35",
+    "grades": {
+      "12": 19,
+      "10": 8,
+      "7": 6,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEA05042E-Summer-2024-B3": {
+    "title": "Kvantekemi og teoretisk spektroskopi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "33",
+    "passed": "32",
+    "grades": {
+      "12": 17,
+      "10": 7,
+      "7": 5,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 1,
+      "4": 0,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NKEA05042E-Summer-2023-B3": {
+    "title": "Kvantekemi og teoretisk spektroskopi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "33",
+    "attended": "30",
+    "passed": "30",
+    "grades": {
+      "12": 14,
+      "10": 7,
+      "7": 7,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEA05042E-Summer-2022-B3": {
+    "title": "Kvantekemi og teoretisk spektroskopi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "52",
+    "attended": "47",
+    "passed": "45",
+    "grades": {
+      "12": 22,
+      "10": 13,
+      "7": 7,
+      "4": 2,
+      "02": 1,
+      "00": 1,
+      "-3": 1,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NKEA05042E-Summer-2021-B3": {
+    "title": "Kvantekemi og teoretisk spektroskopi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "37",
+    "attended": "35",
+    "passed": "34",
+    "grades": {
+      "12": 19,
+      "10": 8,
+      "7": 5,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB22002E-Summer-2026-B3": {
+    "title": "Machine Learning and Molecules",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "Bestået": 4,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB22002E-Winter-2025-B2": {
+    "title": "Machine Learning and Molecules",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "6",
+    "passed": "5",
+    "grades": {
+      "Bestået": 5,
+      "Ikke bestået": 2,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB22002E-Summer-2025-B3": {
+    "title": "Machine Learning and Molecules",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "11",
+    "attended": "7",
+    "passed": "6",
+    "grades": {
+      "Bestået": 6,
+      "Ikke bestået": 4
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "Bestået": 4,
+      "Ikke bestået": 0
+    }
+  },
+  "NKEB22002E-Summer-2025-B4": {
+    "title": "Machine Learning and Molecules",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "6",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "Bestået": 5,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB22002E-Winter-2024-B2": {
+    "title": "Machine Learning and Molecules",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "Bestået": 4,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEB22002E-Summer-2024-B3": {
+    "title": "Machine Learning and Molecules",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB22002E-Summer-2024-B4": {
+    "title": "Machine Learning and Molecules",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "6",
+    "attended": "5",
+    "passed": "4",
+    "grades": {
+      "Bestået": 4,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB22002E-Winter-2023-B2": {
+    "title": "Machine Learning and Molecules",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "10",
+    "passed": "9",
+    "grades": {
+      "Bestået": 9,
+      "Ikke bestået": 4
+    },
+    "reexam": false
+  },
+  "NKEB22002E-Summer-2023-B3": {
+    "title": "Machine Learning and Molecules",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "10",
+    "passed": "9",
+    "grades": {
+      "Bestået": 9,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB22002E-Summer-2023-B4": {
+    "title": "Machine Learning and Molecules",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "16",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "Bestået": 11,
+      "Ikke bestået": 4,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB22002E-Winter-2022-B1": {
+    "title": "Machine Learning and Molecules",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "Bestået": 6,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NKEB22002E-Winter-2022-B2": {
+    "title": "Machine Learning and Molecules",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "Bestået": 6,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NKEB14014E-Summer-2022-B4": {
+    "title": "Makromolekyler, cofaktorer og metalioner og deres kemi i biologiske systemer",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB14014E-Summer-2021-B4": {
+    "title": "Makromolekyler, cofaktorer og metalioner og deres kemi i biologiske systemer",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB23002E-Winter-2025-B2": {
+    "title": "Materials Chemistry",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "57",
+    "attended": "49",
+    "passed": "43",
+    "grades": {
+      "12": 9,
+      "10": 9,
+      "7": 8,
+      "4": 10,
+      "02": 7,
+      "00": 5,
+      "-3": 1,
+      "Ej mødt": 8
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "5",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 0,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 2
+    }
+  },
+  "NKEB23002E-Winter-2024-B2": {
+    "title": "Materials Chemistry",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "35",
+    "attended": "27",
+    "passed": "27",
+    "grades": {
+      "12": 7,
+      "10": 6,
+      "7": 8,
+      "4": 3,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 8
+    },
+    "reexam": false
+  },
+  "NKEB23002E-Winter-2023-B2": {
+    "title": "Materials Chemistry",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "48",
+    "attended": "39",
+    "passed": "38",
+    "grades": {
+      "12": 14,
+      "10": 6,
+      "7": 8,
+      "4": 6,
+      "02": 4,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 9
+    },
+    "reexam": false
+  },
+  "NKEB13015E-Summer-2023-B5": {
+    "title": "Materials Chemistry",
+    "term": "s23/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13015E-Winter-2022-B1": {
+    "title": "Materials Chemistry",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "30",
+    "attended": "27",
+    "passed": "25",
+    "grades": {
+      "12": 5,
+      "10": 4,
+      "7": 9,
+      "4": 5,
+      "02": 2,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEB13015E-Winter-2021-B1": {
+    "title": "Materials Chemistry",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "11",
+    "passed": "10",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 3,
+      "4": 2,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEK25005E-Winter-2025-B1": {
+    "title": "Methods and Modelling in Inorganic Chemistry",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "13",
+    "attended": "12",
+    "passed": "10",
+    "grades": {
+      "12": 8,
+      "10": 0,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEK15003E-Winter-2024-B1": {
+    "title": "Methods and Modelling in Inorganic Chemistry",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "Bestået": 7,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEK15003E-Winter-2023-B1": {
+    "title": "Methods and Modelling in Inorganic Chemistry",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "Bestået": 8,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEK15003E-Winter-2022-B1": {
+    "title": "Methods and Modelling in Inorganic Chemistry",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "10",
+    "grades": {
+      "Bestået": 10,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NKEK15003E-Winter-2021-B1": {
+    "title": "Methods and Modelling in Inorganic Chemistry",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "11",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "Bestået": 10,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEK25000E-Winter-2025-B1": {
+    "title": "Molecular Chemical Kinetics",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 4,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB13016E-Winter-2024-B2": {
+    "title": "Molecular Dynamics and Chemical Kinetics",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 3,
+      "10": 1,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13016E-Winter-2022-B2": {
+    "title": "Molecular Dynamics and Chemical Kinetics",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "27",
+    "passed": "27",
+    "grades": {
+      "12": 16,
+      "10": 7,
+      "7": 4,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13016E-Winter-2021-B2": {
+    "title": "Molecular Dynamics and Chemical Kinetics",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "33",
+    "attended": "26",
+    "passed": "26",
+    "grades": {
+      "12": 14,
+      "10": 6,
+      "7": 5,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 6,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEK13019E-Summer-2022-B4": {
+    "title": "Molecular Electronics Theory",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13019E-Summer-2021-B4": {
+    "title": "Molecular Electronics Theory",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "Bestået": 6,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEB20000E-Summer-2025-B3": {
+    "title": "Molekylær statistik",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB20000E-Summer-2024-B4": {
+    "title": "Molekylær statistik",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "20",
+    "passed": "18",
+    "grades": {
+      "Bestået": 18,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NKEB20000E-Summer-2023-B4": {
+    "title": "Molekylær statistik",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "42",
+    "attended": "38",
+    "passed": "34",
+    "grades": {
+      "Bestået": 34,
+      "Ikke bestået": 2,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB20000E-Summer-2022-B4": {
+    "title": "Molekylær statistik",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "40",
+    "attended": "36",
+    "passed": "32",
+    "grades": {
+      "Bestået": 32,
+      "Ikke bestået": 4,
+      "Ej mødt": 4
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "Bestået": 3,
+      "Ikke bestået": 1,
+      "Ej mødt": 2
+    }
+  },
+  "NKEB20000E-Summer-2021-B4": {
+    "title": "Molekylær statistik",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "41",
+    "attended": "39",
+    "passed": "33",
+    "grades": {
+      "Bestået": 33,
+      "Ikke bestået": 1,
+      "Ej mødt": 1
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "2",
+    "grades_reexam": {
+      "Bestået": 2,
+      "Ikke bestået": 2,
+      "Ej mødt": 1
+    }
+  },
+  "NKEAIS050E-Summer-2024-B4": {
+    "title": "MSc Research Project",
+    "term": "s24/B4",
+    "ects": "45",
+    "exam": false
+  },
+  "NKEB14001E-Winter-2022-B1": {
+    "title": "Nano 1 - introduktion til nanovidenskab",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "17",
+    "attended": "17",
+    "passed": "17",
+    "grades": {
+      "Bestået": 17,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEB14001E-Winter-2021-B1": {
+    "title": "Nano 1 - introduktion til nanovidenskab",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "32",
+    "attended": "32",
+    "passed": "30",
+    "grades": {
+      "Bestået": 30,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NKEB11002E-Winter-2025-B2": {
+    "title": "Nanobio 1",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "16",
+    "attended": "14",
+    "passed": "14",
+    "grades": {
+      "12": 1,
+      "10": 4,
+      "7": 3,
+      "4": 3,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB11002E-Winter-2024-B2": {
+    "title": "Nanobio 1",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "12": 5,
+      "10": 5,
+      "7": 3,
+      "4": 5,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB11002E-Winter-2023-B1": {
+    "title": "Nanobio 1",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 6,
+      "10": 4,
+      "7": 1,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB11002E-Winter-2022-B1": {
+    "title": "Nanobio 1",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "21",
+    "passed": "18",
+    "grades": {
+      "12": 1,
+      "10": 5,
+      "7": 6,
+      "4": 4,
+      "02": 2,
+      "00": 3,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB11002E-Winter-2021-B1": {
+    "title": "Nanobio 1",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "30",
+    "attended": "26",
+    "passed": "22",
+    "grades": {
+      "12": 5,
+      "10": 3,
+      "7": 3,
+      "4": 4,
+      "02": 7,
+      "00": 2,
+      "-3": 2,
+      "Ikke bestået": 4
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NKEB11002E-Summer-2021-B4": {
+    "title": "Nanobio 1",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB21003E-Summer-2023-B3": {
+    "title": "Nanobio 3",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "12": 3,
+      "10": 3,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB21003E-Summer-2022-B3": {
+    "title": "Nanobio 3",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "24",
+    "attended": "21",
+    "passed": "21",
+    "grades": {
+      "12": 7,
+      "10": 11,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEB15000E-Summer-2021-B3": {
+    "title": "Nanobio 3",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "26",
+    "attended": "26",
+    "passed": "25",
+    "grades": {
+      "12": 6,
+      "10": 8,
+      "7": 5,
+      "4": 5,
+      "02": 1,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "Histogram-NKEK10003E-Summer-2022": {
+    "title": "Nanoscience Thesis 45 ECTS, Department of Chemistry",
+    "term": "s22",
+    "ects": "45",
+    "exam": false
+  },
+  "NKEB19000E-Winter-2024-B1": {
+    "title": "Naturressourcers organiske kemi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "28",
+    "attended": "26",
+    "passed": "25",
+    "grades": {
+      "12": 2,
+      "10": 8,
+      "7": 11,
+      "4": 2,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB19000E-Winter-2023-B1": {
+    "title": "Naturressourcers organiske kemi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "16",
+    "attended": "15",
+    "passed": "15",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 6,
+      "4": 1,
+      "02": 4,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB19000E-Winter-2022-B1": {
+    "title": "Naturressourcers organiske kemi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "14",
+    "passed": "11",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 4,
+      "4": 2,
+      "02": 1,
+      "00": 3,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB19000E-Winter-2021-B1": {
+    "title": "Naturressourcers organiske kemi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "30",
+    "attended": "28",
+    "passed": "25",
+    "grades": {
+      "12": 2,
+      "10": 7,
+      "7": 8,
+      "4": 5,
+      "02": 3,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEK13006E-Summer-2025-B3": {
+    "title": "Organic Chemistry",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "20",
+    "attended": "15",
+    "passed": "14",
+    "grades": {
+      "12": 4,
+      "10": 5,
+      "7": 4,
+      "4": 0,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NKEK13006E-Summer-2024-B3": {
+    "title": "Organic Chemistry",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "18",
+    "attended": "15",
+    "passed": "14",
+    "grades": {
+      "12": 3,
+      "10": 5,
+      "7": 2,
+      "4": 3,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEK13006E-Summer-2023-B3": {
+    "title": "Organic Chemistry",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 2,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEK13006E-Winter-2022-B1": {
+    "title": "Organic Chemistry",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13006E-Summer-2022-B3": {
+    "title": "Organic Chemistry",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "19",
+    "attended": "17",
+    "passed": "15",
+    "grades": {
+      "12": 4,
+      "10": 4,
+      "7": 3,
+      "4": 2,
+      "02": 2,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK13006E-Summer-2021-B3": {
+    "title": "Organic Chemistry",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "24",
+    "attended": "23",
+    "passed": "22",
+    "grades": {
+      "12": 2,
+      "10": 6,
+      "7": 5,
+      "4": 6,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "LKEB10109E-Summer-2026-B3": {
+    "title": "Organisk kemi for biovidenskab",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "130",
+    "attended": "116",
+    "passed": "105",
+    "grades": {
+      "12": 25,
+      "10": 23,
+      "7": 18,
+      "4": 21,
+      "02": 18,
+      "00": 10,
+      "-3": 1,
+      "Ej mødt": 14
+    },
+    "reexam": false
+  },
+  "LKEB10109E-Summer-2025-B3": {
+    "title": "Organisk kemi for biovidenskab",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "140",
+    "attended": "126",
+    "passed": "105",
+    "grades": {
+      "12": 14,
+      "10": 23,
+      "7": 18,
+      "4": 21,
+      "02": 29,
+      "00": 14,
+      "-3": 7,
+      "Ej mødt": 14
+    },
+    "reexam": true,
+    "registered_reexam": "20",
+    "attended_reexam": "15",
+    "passed_reexam": "13",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 2,
+      "4": 4,
+      "02": 6,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 5
+    }
+  },
+  "LKEB10109E-Summer-2024-B3": {
+    "title": "Organisk kemi for biovidenskab",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "163",
+    "attended": "145",
+    "passed": "112",
+    "grades": {
+      "12": 10,
+      "10": 19,
+      "7": 35,
+      "4": 26,
+      "02": 22,
+      "00": 31,
+      "-3": 2,
+      "Ej mødt": 7,
+      "Ikke bestået": 11
+    },
+    "reexam": true,
+    "registered_reexam": "34",
+    "attended_reexam": "32",
+    "passed_reexam": "27",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 13,
+      "4": 9,
+      "02": 3,
+      "00": 4,
+      "-3": 1,
+      "Ej mødt": 2
+    }
+  },
+  "LKEB10109E-Summer-2023-B3": {
+    "title": "Organisk kemi for biovidenskab",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "137",
+    "attended": "117",
+    "passed": "79",
+    "grades": {
+      "12": 12,
+      "10": 15,
+      "7": 19,
+      "4": 20,
+      "02": 13,
+      "00": 36,
+      "-3": 2,
+      "Ej mødt": 12,
+      "Ikke bestået": 8
+    },
+    "reexam": true,
+    "registered_reexam": "35",
+    "attended_reexam": "29",
+    "passed_reexam": "18",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 4,
+      "4": 6,
+      "02": 6,
+      "00": 10,
+      "-3": 1,
+      "Ej mødt": 6
+    }
+  },
+  "LKEB10109E-Summer-2022-B3": {
+    "title": "Organisk kemi for biovidenskab",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "158",
+    "attended": "141",
+    "passed": "113",
+    "grades": {
+      "12": 11,
+      "10": 31,
+      "7": 37,
+      "4": 18,
+      "02": 16,
+      "00": 24,
+      "-3": 4,
+      "Ej mødt": 11,
+      "Ikke bestået": 6
+    },
+    "reexam": true,
+    "registered_reexam": "24",
+    "attended_reexam": "20",
+    "passed_reexam": "13",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 1,
+      "4": 3,
+      "02": 8,
+      "00": 6,
+      "-3": 1,
+      "Ej mødt": 4
+    }
+  },
+  "LKEB10109E-Summer-2021-B3": {
+    "title": "Organisk kemi for biovidenskab",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "156",
+    "attended": "148",
+    "passed": "110",
+    "grades": {
+      "12": 10,
+      "10": 35,
+      "7": 30,
+      "4": 22,
+      "02": 13,
+      "00": 28,
+      "-3": 10,
+      "Ej mødt": 3,
+      "Ikke bestået": 5
+    },
+    "reexam": true,
+    "registered_reexam": "32",
+    "attended_reexam": "30",
+    "passed_reexam": "21",
+    "grades_reexam": {
+      "12": 0,
+      "10": 4,
+      "7": 6,
+      "4": 6,
+      "02": 5,
+      "00": 7,
+      "-3": 2,
+      "Ej mødt": 2
+    }
+  },
+  "NKEB10007E-Summer-2025-B4": {
+    "title": "Organisk kemisk syntese",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "49",
+    "attended": "48",
+    "passed": "48",
+    "grades": {
+      "Bestået": 48,
+      "Ikke bestået": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB10007E-Summer-2024-B4": {
+    "title": "Organisk kemisk syntese",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "59",
+    "attended": "58",
+    "passed": "58",
+    "grades": {
+      "Bestået": 58,
+      "Ikke bestået": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB10007E-Summer-2023-B4": {
+    "title": "Organisk kemisk syntese",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "46",
+    "attended": "46",
+    "passed": "46",
+    "grades": {
+      "Bestået": 46,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEB10007E-Summer-2022-B4": {
+    "title": "Organisk kemisk syntese",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "32",
+    "passed": "32",
+    "grades": {
+      "Bestået": 32,
+      "Ikke bestået": 0,
+      "Ej mødt": 7
+    },
+    "reexam": false
+  },
+  "NKEB10007E-Summer-2021-B4": {
+    "title": "Organisk kemisk syntese",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "9",
+    "passed": "8",
+    "grades": {
+      "Bestået": 8,
+      "Ikke bestået": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "Histogram-NKEK21800E-Winter-2022": {
+    "title": "Physics Thesis 45 ECTS, Department of Chemistry",
+    "term": "v22",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NKEK21800E-Summer-2022": {
+    "title": "Physics Thesis 45 ECTS, Department of Chemistry",
+    "term": "s22",
+    "ects": "45",
+    "exam": false
+  },
+  "NKEB14503E-Summer-2026-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB14503E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB14503E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB14503E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB14503E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 1,
+      "10": 1,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB14503E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB14503E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB14503E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB14503E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB14503E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13503E-Summer-2026-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13503E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13503E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13503E-Summer-2025-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13503E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13503E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13503E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 1,
+      "10": 2,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK13503E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13503E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13503E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13504E-Summer-2026-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13504E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13504E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Summer-2026-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Winter-2025-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 4,
+      "10": 2,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK13523E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK13523E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 3,
+      "10": 3,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK13523E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "12": 6,
+      "10": 0,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK13523E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 4,
+      "10": 1,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK13523E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13523E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Winter-2025-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Summer-2025-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 3,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13509E-Summer-2024-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 4,
+      "10": 3,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13509E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 5,
+      "10": 1,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13509E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Summer-2023-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 2,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13509E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13509E-Summer-2021-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13510E-Winter-2025-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13510E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13510E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13533E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13533E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK24502E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13507E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NKEB13507E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NKEB25500E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13505E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13505E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13505E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13505E-Summer-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13505E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13505E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13508E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13508E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13508E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13521E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NKEK13521E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NKEK13522E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "5",
+    "exam": false
+  },
+  "NKEK13522E-Summer-2021-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B5",
+    "ects": "5",
+    "exam": false
+  },
+  "NKEK13524E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13524E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13524E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 4,
+      "10": 0,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK13524E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13524E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13524E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 2,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK13524E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13524E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13525E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13525E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13525E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13525E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Bestået": 1,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEK13525E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13525E-Summer-2024-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B5",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13525E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13525E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13525E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13525E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13525E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK13525E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK16502E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK16502E-Summer-2022-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK22500E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "10",
+    "exam": false
+  },
+  "NKEK22500E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "10",
+    "exam": false
+  },
+  "NKEK19502E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13509E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13509E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13513E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK18500E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK24504E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB14504E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB14504E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13504E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK21500E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "12,5",
+    "exam": false
+  },
+  "NKEK21500E-Summer-2021-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B5",
+    "ects": "12,5",
+    "exam": false
+  },
+  "NKEB22501E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "10",
+    "exam": false
+  },
+  "NKEB22500E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13502E-Summer-2022-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B5",
+    "ects": "5",
+    "exam": false
+  },
+  "NKEK13502E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "5",
+    "exam": false
+  },
+  "NKEB13508E-Summer-2021-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B5",
+    "ects": "5",
+    "exam": false
+  },
+  "NKEB14505E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK15500E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "10",
+    "exam": false
+  },
+  "NKEB13511E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 3,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13511E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "6",
+    "grades": {
+      "12": 4,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 2,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13511E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "11",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 2,
+      "10": 7,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13511E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 4,
+      "10": 0,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13511E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13511E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13521E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEB13510E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13510E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13510E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13510E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13510E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13510E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13520E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB13519E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEK13009E-Summer-2022-B4": {
+    "title": "Protein Structure and Function",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 1,
+      "10": 2,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEK13009E-Summer-2021-B4": {
+    "title": "Protein Structure and Function",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "6",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK22004E-Summer-2025-B5": {
+    "title": "Protein Structure and Function in Biomedicine and Sustainable Biotechnology",
+    "term": "s25/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "26",
+    "passed": "26",
+    "grades": {
+      "12": 7,
+      "10": 10,
+      "7": 6,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEK22004E-Summer-2024-B5": {
+    "title": "Protein Structure and Function in Biomedicine and Sustainable Biotechnology",
+    "term": "s24/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "21",
+    "passed": "21",
+    "grades": {
+      "12": 4,
+      "10": 7,
+      "7": 7,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEK22004E-Summer-2023-B5": {
+    "title": "Protein Structure and Function in Biomedicine and Sustainable Biotechnology",
+    "term": "s23/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "11",
+    "attended": "10",
+    "passed": "9",
+    "grades": {
+      "12": 1,
+      "10": 6,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB23000E-Winter-2025-B1": {
+    "title": "Python for nanoscience",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "37",
+    "passed": "37",
+    "grades": {
+      "Bestået": 37,
+      "Ikke bestået": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB23000E-Winter-2024-B1": {
+    "title": "Python for nanoscience",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "44",
+    "attended": "38",
+    "passed": "38",
+    "grades": {
+      "Bestået": 38,
+      "Ikke bestået": 6
+    },
+    "reexam": false
+  },
+  "NKEB23000E-Winter-2023-B1": {
+    "title": "Python for nanoscience",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "30",
+    "passed": "30",
+    "grades": {
+      "Bestået": 30,
+      "Ikke bestået": 5,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEK13020E-Summer-2022-B3": {
+    "title": "Quantum Chemistry of Molecules Electromagnetic Properties",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "Bestået": 8,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEK13020E-Summer-2021-B3": {
+    "title": "Quantum Chemistry of Molecules Electromagnetic Properties",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "Bestået": 9,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NKEK13007E-Winter-2025-B1": {
+    "title": "Reactions and Synthesis in Medicinal Chemistry",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "62",
+    "attended": "49",
+    "passed": "45",
+    "grades": {
+      "12": 8,
+      "10": 19,
+      "7": 10,
+      "4": 5,
+      "02": 3,
+      "00": 1,
+      "-3": 3,
+      "Ej mødt": 13
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "7",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 3,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 1
+    }
+  },
+  "NKEK13007E-Winter-2024-B1": {
+    "title": "Reactions and Synthesis in Medicinal Chemistry",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "65",
+    "attended": "56",
+    "passed": "49",
+    "grades": {
+      "12": 13,
+      "10": 16,
+      "7": 9,
+      "4": 8,
+      "02": 3,
+      "00": 3,
+      "-3": 4,
+      "Ej mødt": 9
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "7",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 1,
+      "4": 2,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NKEK13007E-Winter-2023-B1": {
+    "title": "Reactions and Synthesis in Medicinal Chemistry",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "40",
+    "attended": "32",
+    "passed": "31",
+    "grades": {
+      "12": 14,
+      "10": 11,
+      "7": 4,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 8
+    },
+    "reexam": false
+  },
+  "NKEK13007E-Winter-2022-B1": {
+    "title": "Reactions and Synthesis in Medicinal Chemistry",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "28",
+    "attended": "28",
+    "passed": "14",
+    "grades": {
+      "12": 3,
+      "10": 0,
+      "7": 3,
+      "4": 4,
+      "02": 4,
+      "00": 3,
+      "-3": 11
+    },
+    "reexam": true,
+    "registered_reexam": "12",
+    "attended_reexam": "12",
+    "passed_reexam": "12",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 2,
+      "4": 5,
+      "02": 4,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NKEK13007E-Winter-2021-B1": {
+    "title": "Reactions and Synthesis in Medicinal Chemistry",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "40",
+    "attended": "34",
+    "passed": "33",
+    "grades": {
+      "12": 14,
+      "10": 6,
+      "7": 10,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 6
+    },
+    "reexam": false
+  },
+  "NKEA09010E-Winter-2025-B1": {
+    "title": "Scientific Writing, Planning and Presentation",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "54",
+    "attended": "53",
+    "passed": "51",
+    "grades": {
+      "12": 11,
+      "10": 16,
+      "7": 12,
+      "4": 11,
+      "02": 1,
+      "00": 1,
+      "-3": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEA09010E-Winter-2024-B1": {
+    "title": "Scientific Writing, Planning and Presentation",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "60",
+    "attended": "60",
+    "passed": "54",
+    "grades": {
+      "12": 14,
+      "10": 23,
+      "7": 12,
+      "4": 4,
+      "02": 1,
+      "00": 3,
+      "-3": 3
+    },
+    "reexam": false
+  },
+  "NKEA09010E-Winter-2023-B1": {
+    "title": "Scientific Writing, Planning and Presentation",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "53",
+    "attended": "53",
+    "passed": "49",
+    "grades": {
+      "12": 11,
+      "10": 17,
+      "7": 15,
+      "4": 3,
+      "02": 3,
+      "00": 0,
+      "-3": 4
+    },
+    "reexam": false
+  },
+  "NKEA09010E-Winter-2022-B1": {
+    "title": "Scientific Writing, Planning and Presentation",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "50",
+    "attended": "49",
+    "passed": "49",
+    "grades": {
+      "12": 9,
+      "10": 15,
+      "7": 20,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEA09010E-Winter-2021-B1": {
+    "title": "Scientific Writing, Planning and Presentation",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "42",
+    "attended": "42",
+    "passed": "39",
+    "grades": {
+      "12": 12,
+      "10": 14,
+      "7": 8,
+      "4": 5,
+      "02": 0,
+      "00": 2,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NKEK12008E-Winter-2025-B1": {
+    "title": "Structural Tools in Nanoscience",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "32",
+    "passed": "30",
+    "grades": {
+      "12": 8,
+      "10": 6,
+      "7": 6,
+      "4": 5,
+      "02": 5,
+      "00": 1,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ej mødt": 4
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 0,
+      "4": 0,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NKEK12008E-Winter-2024-B1": {
+    "title": "Structural Tools in Nanoscience",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "34",
+    "attended": "32",
+    "passed": "28",
+    "grades": {
+      "12": 7,
+      "10": 10,
+      "7": 5,
+      "4": 3,
+      "02": 3,
+      "00": 2,
+      "-3": 2,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK12008E-Winter-2023-B1": {
+    "title": "Structural Tools in Nanoscience",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "28",
+    "attended": "25",
+    "passed": "24",
+    "grades": {
+      "12": 8,
+      "10": 5,
+      "7": 3,
+      "4": 5,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NKEK12008E-Winter-2022-B1": {
+    "title": "Structural Tools in Nanoscience",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "23",
+    "passed": "22",
+    "grades": {
+      "12": 6,
+      "10": 2,
+      "7": 8,
+      "4": 4,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "2",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 1
+    }
+  },
+  "NKEK12008E-Summer-2022-B4": {
+    "title": "Structural Tools in Nanoscience",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "6",
+    "passed": "5",
+    "grades": {
+      "12": 0,
+      "10": 1,
+      "7": 3,
+      "4": 0,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEK12008E-Summer-2021-B4": {
+    "title": "Structural Tools in Nanoscience",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "10",
+    "attended": "8",
+    "passed": "6",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 1,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB13017E-Winter-2025-B2": {
+    "title": "Supramolecular and Macromolecular Chemistry",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "19",
+    "passed": "19",
+    "grades": {
+      "12": 2,
+      "10": 6,
+      "7": 4,
+      "4": 5,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13017E-Winter-2024-B2": {
+    "title": "Supramolecular and Macromolecular Chemistry",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "23",
+    "passed": "23",
+    "grades": {
+      "12": 4,
+      "10": 4,
+      "7": 9,
+      "4": 6,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13017E-Winter-2023-B2": {
+    "title": "Supramolecular and Macromolecular Chemistry",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "19",
+    "passed": "19",
+    "grades": {
+      "12": 4,
+      "10": 5,
+      "7": 4,
+      "4": 4,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB13017E-Winter-2022-B2": {
+    "title": "Supramolecular and Macromolecular Chemistry",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "18",
+    "attended": "18",
+    "passed": "16",
+    "grades": {
+      "12": 4,
+      "10": 3,
+      "7": 3,
+      "4": 4,
+      "02": 2,
+      "00": 0,
+      "-3": 2
+    },
+    "reexam": false
+  },
+  "NKEB13017E-Winter-2021-B2": {
+    "title": "Supramolecular and Macromolecular Chemistry",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 2,
+      "10": 0,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB25004E-Winter-2025-B1": {
+    "title": "Sustainable Chemistry",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "12": 11,
+      "10": 3,
+      "7": 6,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB24002E-Winter-2024-B1": {
+    "title": "Sustainable Chemistry",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "21",
+    "passed": "20",
+    "grades": {
+      "12": 5,
+      "10": 8,
+      "7": 4,
+      "4": 2,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB19001E-Winter-2025-B1": {
+    "title": "Termodynamik og kinetik",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "62",
+    "attended": "61",
+    "passed": "54",
+    "grades": {
+      "12": 8,
+      "10": 11,
+      "7": 23,
+      "4": 9,
+      "02": 3,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NKEB19001E-Winter-2024-B1": {
+    "title": "Termodynamik og kinetik",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "46",
+    "attended": "42",
+    "passed": "37",
+    "grades": {
+      "12": 10,
+      "10": 15,
+      "7": 5,
+      "4": 4,
+      "02": 3,
+      "00": 5,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NKEB19001E-Winter-2023-B1": {
+    "title": "Termodynamik og kinetik",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "53",
+    "attended": "47",
+    "passed": "43",
+    "grades": {
+      "12": 16,
+      "10": 15,
+      "7": 6,
+      "4": 5,
+      "02": 1,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 6
+    },
+    "reexam": false
+  },
+  "NKEB19001E-Winter-2022-B1": {
+    "title": "Termodynamik og kinetik",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "64",
+    "attended": "58",
+    "passed": "49",
+    "grades": {
+      "12": 12,
+      "10": 9,
+      "7": 18,
+      "4": 7,
+      "02": 3,
+      "00": 7,
+      "-3": 2,
+      "Ej mødt": 6
+    },
+    "reexam": true,
+    "registered_reexam": "11",
+    "attended_reexam": "7",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 2,
+      "4": 2,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 4
+    }
+  },
+  "NKEB19001E-Summer-2022-B4": {
+    "title": "Termodynamik og kinetik",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB19001E-Winter-2021-B1": {
+    "title": "Termodynamik og kinetik",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "67",
+    "attended": "60",
+    "passed": "53",
+    "grades": {
+      "12": 11,
+      "10": 13,
+      "7": 12,
+      "4": 9,
+      "02": 8,
+      "00": 6,
+      "-3": 1,
+      "Ej mødt": 7
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "5",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 3,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    }
+  },
+  "NKEK14015E-Winter-2021-B1": {
+    "title": "The Chemistry of Metal Ions in Biological Systems",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "4",
+    "grades": {
+      "12": 0,
+      "10": 1,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NKEA07005E-Winter-2022-B1": {
+    "title": "Unifying Concepts in Nanoscience: Size Effects and Self-assembly",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEA07005E-Winter-2021-B1": {
+    "title": "Unifying Concepts in Nanoscience: Size Effects and Self-assembly",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "31",
+    "attended": "29",
+    "passed": "25",
+    "grades": {
+      "12": 11,
+      "10": 4,
+      "7": 4,
+      "4": 6,
+      "02": 0,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "5",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 3,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NKEB13003E-Winter-2025-B1": {
+    "title": "Uorganisk kemi 1",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "73",
+    "attended": "71",
+    "passed": "68",
+    "grades": {
+      "12": 28,
+      "10": 17,
+      "7": 14,
+      "4": 4,
+      "02": 5,
+      "00": 1,
+      "-3": 2,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB13003E-Winter-2024-B1": {
+    "title": "Uorganisk kemi 1",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "97",
+    "attended": "90",
+    "passed": "79",
+    "grades": {
+      "12": 29,
+      "10": 21,
+      "7": 16,
+      "4": 10,
+      "02": 3,
+      "00": 10,
+      "-3": 1,
+      "Ej mødt": 2,
+      "Ikke bestået": 5
+    },
+    "reexam": true,
+    "registered_reexam": "10",
+    "attended_reexam": "8",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 1,
+      "02": 2,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NKEB13003E-Winter-2023-B1": {
+    "title": "Uorganisk kemi 1",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "79",
+    "attended": "75",
+    "passed": "63",
+    "grades": {
+      "12": 26,
+      "10": 14,
+      "7": 15,
+      "4": 7,
+      "02": 1,
+      "00": 10,
+      "-3": 2,
+      "Ikke bestået": 4
+    },
+    "reexam": true,
+    "registered_reexam": "9",
+    "attended_reexam": "6",
+    "passed_reexam": "2",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 0,
+      "02": 1,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 3
+    }
+  },
+  "NKEB13003E-Winter-2022-B1": {
+    "title": "Uorganisk kemi 1",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "86",
+    "attended": "79",
+    "passed": "67",
+    "grades": {
+      "12": 23,
+      "10": 23,
+      "7": 10,
+      "4": 7,
+      "02": 4,
+      "00": 10,
+      "-3": 2,
+      "Ej mødt": 1,
+      "Ikke bestået": 6
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "5",
+    "passed_reexam": "1",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 0,
+      "4": 0,
+      "02": 1,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NKEB13003E-Winter-2021-B1": {
+    "title": "Uorganisk kemi 1",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "96",
+    "attended": "92",
+    "passed": "77",
+    "grades": {
+      "12": 25,
+      "10": 22,
+      "7": 16,
+      "4": 7,
+      "02": 7,
+      "00": 11,
+      "-3": 4,
+      "Ej mødt": 1,
+      "Ikke bestået": 3
+    },
+    "reexam": true,
+    "registered_reexam": "18",
+    "attended_reexam": "17",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 0,
+      "02": 2,
+      "00": 13,
+      "-3": 1,
+      "Ej mødt": 1
+    }
+  },
+  "NKEB13005E-Summer-2026-B3": {
+    "title": "Uorganisk kemi 2",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "35",
+    "passed": "32",
+    "grades": {
+      "12": 8,
+      "10": 9,
+      "7": 6,
+      "4": 5,
+      "02": 4,
+      "00": 3,
+      "-3": 0,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NKEB13005E-Summer-2025-B3": {
+    "title": "Uorganisk kemi 2",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "49",
+    "attended": "46",
+    "passed": "43",
+    "grades": {
+      "12": 16,
+      "10": 14,
+      "7": 8,
+      "4": 4,
+      "02": 1,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB13005E-Summer-2024-B3": {
+    "title": "Uorganisk kemi 2",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "32",
+    "attended": "30",
+    "passed": "30",
+    "grades": {
+      "12": 10,
+      "10": 11,
+      "7": 9,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NKEB13005E-Summer-2023-B3": {
+    "title": "Uorganisk kemi 2",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "33",
+    "passed": "28",
+    "grades": {
+      "12": 8,
+      "10": 7,
+      "7": 5,
+      "4": 5,
+      "02": 3,
+      "00": 5,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "5",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 0,
+      "4": 1,
+      "02": 1,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NKEB13005E-Summer-2022-B3": {
+    "title": "Uorganisk kemi 2",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "46",
+    "attended": "44",
+    "passed": "38",
+    "grades": {
+      "12": 5,
+      "10": 8,
+      "7": 15,
+      "4": 6,
+      "02": 4,
+      "00": 5,
+      "-3": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NKEB13005E-Summer-2021-B3": {
+    "title": "Uorganisk kemi 2",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "44",
+    "attended": "38",
+    "passed": "35",
+    "grades": {
+      "12": 18,
+      "10": 6,
+      "7": 4,
+      "4": 4,
+      "02": 3,
+      "00": 1,
+      "-3": 2,
+      "Ej mødt": 2,
+      "Ikke bestået": 4
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "6",
+    "passed_reexam": "2",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 4,
+      "-3": 0
+    }
+  },
+  "NKEB10003E-Summer-2025-B3": {
+    "title": "Uorganisk kemisk syntese",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "26",
+    "attended": "25",
+    "passed": "25",
+    "grades": {
+      "12": 9,
+      "10": 14,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB10003E-Summer-2024-B3": {
+    "title": "Uorganisk kemisk syntese",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "33",
+    "attended": "31",
+    "passed": "31",
+    "grades": {
+      "12": 11,
+      "10": 13,
+      "7": 6,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB10003E-Winter-2022-B1": {
+    "title": "Uorganisk kemisk syntese",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "12": 9,
+      "10": 8,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB10003E-Winter-2021-B1": {
+    "title": "Uorganisk kemisk syntese",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "23",
+    "passed": "23",
+    "grades": {
+      "12": 7,
+      "10": 10,
+      "7": 6,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEA05040E-Winter-2025-B1": {
+    "title": "Videregående organisk kemi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "78",
+    "attended": "75",
+    "passed": "64",
+    "grades": {
+      "12": 14,
+      "10": 14,
+      "7": 11,
+      "4": 8,
+      "02": 17,
+      "00": 10,
+      "-3": 1,
+      "Ej mødt": 3
+    },
+    "reexam": true,
+    "registered_reexam": "13",
+    "attended_reexam": "13",
+    "passed_reexam": "12",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 5,
+      "4": 1,
+      "02": 6,
+      "00": 1,
+      "-3": 0
+    }
+  },
+  "NKEA05040E-Winter-2024-B1": {
+    "title": "Videregående organisk kemi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "59",
+    "attended": "54",
+    "passed": "42",
+    "grades": {
+      "12": 11,
+      "10": 10,
+      "7": 10,
+      "4": 5,
+      "02": 6,
+      "00": 9,
+      "-3": 3,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "11",
+    "attended_reexam": "9",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 4,
+      "-3": 1,
+      "Ej mødt": 2
+    }
+  },
+  "NKEA05040E-Winter-2023-B1": {
+    "title": "Videregående organisk kemi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "74",
+    "attended": "62",
+    "passed": "53",
+    "grades": {
+      "12": 16,
+      "10": 10,
+      "7": 13,
+      "4": 6,
+      "02": 8,
+      "00": 6,
+      "-3": 3,
+      "Ej mødt": 12
+    },
+    "reexam": true,
+    "registered_reexam": "16",
+    "attended_reexam": "9",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 0,
+      "4": 1,
+      "02": 4,
+      "00": 2,
+      "-3": 2,
+      "Ej mødt": 7
+    }
+  },
+  "NKEA05040E-Winter-2022-B1": {
+    "title": "Videregående organisk kemi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "63",
+    "attended": "55",
+    "passed": "44",
+    "grades": {
+      "12": 10,
+      "10": 9,
+      "7": 9,
+      "4": 10,
+      "02": 6,
+      "00": 6,
+      "-3": 5,
+      "Ej mødt": 8
+    },
+    "reexam": true,
+    "registered_reexam": "9",
+    "attended_reexam": "8",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 2,
+      "02": 1,
+      "00": 3,
+      "-3": 1,
+      "Ej mødt": 1
+    }
+  },
+  "NKEA05040E-Winter-2021-B1": {
+    "title": "Videregående organisk kemi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "61",
+    "attended": "55",
+    "passed": "38",
+    "grades": {
+      "12": 10,
+      "10": 11,
+      "7": 10,
+      "4": 4,
+      "02": 3,
+      "00": 7,
+      "-3": 10,
+      "Ej mødt": 6
+    },
+    "reexam": true,
+    "registered_reexam": "12",
+    "attended_reexam": "9",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 3,
+      "02": 2,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 3
+    }
+  },
+  "NKEA05040E-Summer-2021-B4": {
+    "title": "Videregående organisk kemi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NKEB10008E-Summer-2023-B4": {
+    "title": "Videregående organisk kemisk syntese",
+    "term": "s23/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "13",
+    "attended": "12",
+    "passed": "11",
+    "grades": {
+      "12": 3,
+      "10": 5,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB10008E-Summer-2022-B4": {
+    "title": "Videregående organisk kemisk syntese",
+    "term": "s22/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 3,
+      "10": 6,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB10008E-Summer-2021-B4": {
+    "title": "Videregående organisk kemisk syntese",
+    "term": "s21/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "13",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 1,
+      "4": 4,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NKEB23001E-Summer-2025-B4": {
+    "title": "Videregående organisk syntese",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "15",
+    "attended": "14",
+    "passed": "14",
+    "grades": {
+      "12": 2,
+      "10": 6,
+      "7": 5,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NKEB23001E-Summer-2024-B4": {
+    "title": "Videregående organisk syntese",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "17",
+    "attended": "17",
+    "passed": "17",
+    "grades": {
+      "12": 2,
+      "10": 8,
+      "7": 5,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NKEB10004E-Winter-2021-B1": {
+    "title": "Videregående uorganisk kemisk syntese",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK14615E-Summer-2025-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i biologi",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK14612E-Winter-2022-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i kemi",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK14612E-Summer-2021-B4": {
+    "title": "Virksomhedsprojekt på kandidatniveau i kemi",
+    "term": "s21/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK25600E-Winter-2024-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i kvanteinformationsvidenskab",
+    "term": "v24/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK14603E-Summer-2024-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i miljøvidenskab",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NKEK14600E-Summer-2022-B4": {
+    "title": "Virksomhedsprojekt på kandidatniveau i nanoscience",
+    "term": "s22/B4",
+    "ects": "15",
+    "exam": false
+  }
+}

@@ -1,0 +1,8919 @@
+{
+  "NNEK23001E-Winter-2025-B1": {
+    "title": "Advanced Nutrition Physiology and Metabolism",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "71",
+    "attended": "68",
+    "passed": "61",
+    "grades": {
+      "12": 0,
+      "10": 12,
+      "7": 26,
+      "4": 16,
+      "02": 7,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": true,
+    "registered_reexam": "9",
+    "attended_reexam": "8",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 0,
+      "4": 0,
+      "02": 4,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEK23001E-Winter-2025-B2": {
+    "title": "Advanced Nutrition Physiology and Metabolism",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK23001E-Winter-2024-B1": {
+    "title": "Advanced Nutrition Physiology and Metabolism",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "78",
+    "attended": "68",
+    "passed": "59",
+    "grades": {
+      "12": 1,
+      "10": 13,
+      "7": 24,
+      "4": 17,
+      "02": 4,
+      "00": 9,
+      "-3": 0,
+      "Ej mødt": 8,
+      "Ikke bestået": 2
+    },
+    "reexam": true,
+    "registered_reexam": "10",
+    "attended_reexam": "8",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 2,
+      "10": 1,
+      "7": 1,
+      "4": 3,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNEK23001E-Winter-2023-B1": {
+    "title": "Advanced Nutrition Physiology and Metabolism",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "70",
+    "attended": "65",
+    "passed": "60",
+    "grades": {
+      "12": 2,
+      "10": 14,
+      "7": 13,
+      "4": 16,
+      "02": 15,
+      "00": 5,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNEK22004E-Summer-2024-B3": {
+    "title": "Aerob og anaerob træning - kredsløb og ilttransport",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "11",
+    "passed": "10",
+    "grades": {
+      "12": 1,
+      "10": 4,
+      "7": 4,
+      "4": 0,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK22004E-Summer-2023-B3": {
+    "title": "Aerob og anaerob træning - kredsløb og ilttransport",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "31",
+    "attended": "30",
+    "passed": "29",
+    "grades": {
+      "12": 6,
+      "10": 7,
+      "7": 12,
+      "4": 4,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK22006E-Winter-2023-B2": {
+    "title": "Aerob og anaerob træning - metabolisme",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "26",
+    "passed": "26",
+    "grades": {
+      "12": 11,
+      "10": 10,
+      "7": 4,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK22006E-Winter-2022-B2": {
+    "title": "Aerob og anaerob træning - metabolisme",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "37",
+    "passed": "37",
+    "grades": {
+      "12": 20,
+      "10": 6,
+      "7": 4,
+      "4": 5,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NIDA06016E-Summer-2022-B4": {
+    "title": "Aerob træning - kredsløb og ilttransport",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "32",
+    "attended": "32",
+    "passed": "32",
+    "grades": {
+      "12": 15,
+      "10": 9,
+      "7": 8,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB19000E-Winter-2025-B2": {
+    "title": "Arbejdsfysiologi 1 - kredsløb og energiomsætning",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "113",
+    "attended": "107",
+    "passed": "103",
+    "grades": {
+      "12": 2,
+      "10": 17,
+      "7": 35,
+      "4": 33,
+      "02": 16,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 6
+    },
+    "reexam": false
+  },
+  "NNEB19000E-Winter-2024-B2": {
+    "title": "Arbejdsfysiologi 1 - kredsløb og energiomsætning",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "122",
+    "attended": "114",
+    "passed": "100",
+    "grades": {
+      "12": 2,
+      "10": 14,
+      "7": 33,
+      "4": 35,
+      "02": 16,
+      "00": 14,
+      "-3": 0,
+      "Ej mødt": 8
+    },
+    "reexam": true,
+    "registered_reexam": "12",
+    "attended_reexam": "12",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 0,
+      "4": 1,
+      "02": 3,
+      "00": 6,
+      "-3": 0,
+      "Ej bedømt": 1
+    }
+  },
+  "NNEB19000E-Winter-2023-B2": {
+    "title": "Arbejdsfysiologi 1 - kredsløb og energiomsætning",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "104",
+    "attended": "94",
+    "passed": "83",
+    "grades": {
+      "12": 3,
+      "10": 17,
+      "7": 28,
+      "4": 28,
+      "02": 7,
+      "00": 11,
+      "-3": 0,
+      "Ej mødt": 10
+    },
+    "reexam": true,
+    "registered_reexam": "12",
+    "attended_reexam": "11",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 3,
+      "02": 1,
+      "00": 5,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB19000E-Winter-2022-B2": {
+    "title": "Arbejdsfysiologi 1 - kredsløb og energiomsætning",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "111",
+    "attended": "102",
+    "passed": "84",
+    "grades": {
+      "12": 4,
+      "10": 12,
+      "7": 30,
+      "4": 23,
+      "02": 15,
+      "00": 17,
+      "-3": 1,
+      "Ej mødt": 9
+    },
+    "reexam": true,
+    "registered_reexam": "23",
+    "attended_reexam": "22",
+    "passed_reexam": "21",
+    "grades_reexam": {
+      "12": 1,
+      "10": 4,
+      "7": 6,
+      "4": 4,
+      "02": 6,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB19000E-Winter-2021-B2": {
+    "title": "Arbejdsfysiologi 1 - kredsløb og energiomsætning",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "106",
+    "attended": "101",
+    "passed": "99",
+    "grades": {
+      "12": 2,
+      "10": 7,
+      "7": 33,
+      "4": 40,
+      "02": 17,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "1",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 3,
+      "-3": 0
+    }
+  },
+  "NIDB10003E-Winter-2021-B1": {
+    "title": "Arbejdsfysiologi 2 - bevægeapparatets fysiologi og funktionelle anatomi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB10003E-Summer-2021-B3": {
+    "title": "Arbejdsfysiologi 2 - bevægeapparatets fysiologi og funktionelle anatomi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEB19001E-Summer-2026-B3": {
+    "title": "Arbejdsfysiologi 2 - endokrinologi og metabolisme",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "92",
+    "attended": "82",
+    "passed": "58",
+    "grades": {
+      "12": 8,
+      "10": 8,
+      "7": 15,
+      "4": 12,
+      "02": 15,
+      "00": 23,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ej mødt": 10
+    },
+    "reexam": false
+  },
+  "NNEB19001E-Summer-2025-B3": {
+    "title": "Arbejdsfysiologi 2 - endokrinologi og metabolisme",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "78",
+    "attended": "73",
+    "passed": "56",
+    "grades": {
+      "12": 5,
+      "10": 8,
+      "7": 15,
+      "4": 13,
+      "02": 15,
+      "00": 15,
+      "-3": 1,
+      "Ej bedømt": 1,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "20",
+    "attended_reexam": "16",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 0,
+      "4": 3,
+      "02": 2,
+      "00": 8,
+      "-3": 2,
+      "Ej mødt": 4
+    }
+  },
+  "NNEB19001E-Summer-2024-B3": {
+    "title": "Arbejdsfysiologi 2 - endokrinologi og metabolisme",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "68",
+    "attended": "65",
+    "passed": "49",
+    "grades": {
+      "12": 7,
+      "10": 10,
+      "7": 8,
+      "4": 9,
+      "02": 15,
+      "00": 15,
+      "-3": 1,
+      "Ej mødt": 3
+    },
+    "reexam": true,
+    "registered_reexam": "16",
+    "attended_reexam": "14",
+    "passed_reexam": "10",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 4,
+      "4": 3,
+      "02": 2,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNEB19001E-Summer-2023-B3": {
+    "title": "Arbejdsfysiologi 2 - endokrinologi og metabolisme",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "80",
+    "attended": "71",
+    "passed": "57",
+    "grades": {
+      "12": 12,
+      "10": 17,
+      "7": 7,
+      "4": 13,
+      "02": 8,
+      "00": 9,
+      "-3": 5,
+      "Ej mødt": 9
+    },
+    "reexam": true,
+    "registered_reexam": "18",
+    "attended_reexam": "16",
+    "passed_reexam": "10",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 6,
+      "4": 3,
+      "02": 1,
+      "00": 6,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNEB19001E-Summer-2022-B3": {
+    "title": "Arbejdsfysiologi 2 - endokrinologi og metabolisme",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "69",
+    "attended": "62",
+    "passed": "38",
+    "grades": {
+      "12": 1,
+      "10": 5,
+      "7": 8,
+      "4": 9,
+      "02": 15,
+      "00": 23,
+      "-3": 1,
+      "Ej mødt": 7
+    },
+    "reexam": true,
+    "registered_reexam": "16",
+    "attended_reexam": "15",
+    "passed_reexam": "9",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 3,
+      "4": 1,
+      "02": 4,
+      "00": 6,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB19001E-Summer-2021-B3": {
+    "title": "Arbejdsfysiologi 2 - endokrinologi og metabolisme",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "77",
+    "attended": "74",
+    "passed": "62",
+    "grades": {
+      "12": 2,
+      "10": 16,
+      "7": 13,
+      "4": 20,
+      "02": 11,
+      "00": 11,
+      "-3": 1,
+      "Ej mødt": 3
+    },
+    "reexam": true,
+    "registered_reexam": "11",
+    "attended_reexam": "10",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 2,
+      "4": 1,
+      "02": 2,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB25000E-Winter-2025-B1": {
+    "title": "Atletik og fysisk træning",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "106",
+    "attended": "106",
+    "passed": "102",
+    "grades": {
+      "12": 8,
+      "10": 56,
+      "7": 36,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej bedømt": 3
+    },
+    "reexam": false
+  },
+  "NNEB19002E-Winter-2025-B1": {
+    "title": "Atletik, fysisk træning og friluftsaktiviteter",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEB19002E-Winter-2024-B1": {
+    "title": "Atletik, fysisk træning og friluftsaktiviteter",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "115",
+    "attended": "110",
+    "passed": "100",
+    "grades": {
+      "12": 3,
+      "10": 20,
+      "7": 54,
+      "4": 23,
+      "02": 0,
+      "00": 10,
+      "-3": 0,
+      "Ikke bestået": 5
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "7",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 0,
+      "10": 3,
+      "7": 1,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEB19002E-Winter-2023-B1": {
+    "title": "Atletik, fysisk træning og friluftsaktiviteter",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "109",
+    "attended": "105",
+    "passed": "94",
+    "grades": {
+      "12": 2,
+      "10": 31,
+      "7": 50,
+      "4": 11,
+      "02": 0,
+      "00": 11,
+      "-3": 0,
+      "Ej mødt": 3,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "11",
+    "attended_reexam": "11",
+    "passed_reexam": "11",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 6,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEB19002E-Winter-2022-B1": {
+    "title": "Atletik, fysisk træning og friluftsaktiviteter",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "103",
+    "attended": "102",
+    "passed": "94",
+    "grades": {
+      "12": 3,
+      "10": 34,
+      "7": 51,
+      "4": 6,
+      "02": 0,
+      "00": 8,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "7",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 5,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEB19002E-Winter-2021-B1": {
+    "title": "Atletik, fysisk træning og friluftsaktiviteter",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "99",
+    "attended": "97",
+    "passed": "93",
+    "grades": {
+      "12": 5,
+      "10": 40,
+      "7": 39,
+      "4": 8,
+      "02": 1,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK16001E-Winter-2022-B2": {
+    "title": "Basal ernærings-patofysiologi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK16001E-Winter-2021-B2": {
+    "title": "Basal ernærings-patofysiologi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "17",
+    "passed": "17",
+    "grades": {
+      "12": 8,
+      "10": 6,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEB19009E-Winter-2025-B2": {
+    "title": "Basal human fysiologi",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "19",
+    "passed": "19",
+    "grades": {
+      "12": 3,
+      "10": 2,
+      "7": 8,
+      "4": 4,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB19009E-Winter-2024-B2": {
+    "title": "Basal human fysiologi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "25",
+    "passed": "23",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 7,
+      "4": 8,
+      "02": 4,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB19009E-Winter-2023-B2": {
+    "title": "Basal human fysiologi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "24",
+    "passed": "22",
+    "grades": {
+      "12": 2,
+      "10": 3,
+      "7": 6,
+      "4": 7,
+      "02": 4,
+      "00": 0,
+      "-3": 2,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NNEB19009E-Winter-2022-B2": {
+    "title": "Basal human fysiologi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "35",
+    "attended": "32",
+    "passed": "30",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 15,
+      "4": 8,
+      "02": 3,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NNEB19009E-Winter-2021-B2": {
+    "title": "Basal human fysiologi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "25",
+    "attended": "24",
+    "passed": "24",
+    "grades": {
+      "12": 0,
+      "10": 4,
+      "7": 15,
+      "4": 4,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEB15001E-Summer-2026-B3": {
+    "title": "Basal statistik i idrætsvidenskab",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "73",
+    "attended": "68",
+    "passed": "40",
+    "grades": {
+      "12": 5,
+      "10": 10,
+      "7": 8,
+      "4": 8,
+      "02": 9,
+      "00": 13,
+      "-3": 12,
+      "Ej bedømt": 3,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NNEB15001E-Summer-2025-B3": {
+    "title": "Basal statistik i idrætsvidenskab",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "81",
+    "attended": "73",
+    "passed": "61",
+    "grades": {
+      "12": 3,
+      "10": 9,
+      "7": 19,
+      "4": 19,
+      "02": 11,
+      "00": 8,
+      "-3": 2,
+      "Ej bedømt": 2,
+      "Ej mødt": 8
+    },
+    "reexam": true,
+    "registered_reexam": "12",
+    "attended_reexam": "10",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 2,
+      "02": 2,
+      "00": 4,
+      "-3": 1,
+      "Ej mødt": 2
+    }
+  },
+  "NNEB15001E-Summer-2024-B3": {
+    "title": "Basal statistik i idrætsvidenskab",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "81",
+    "attended": "74",
+    "passed": "48",
+    "grades": {
+      "12": 5,
+      "10": 11,
+      "7": 16,
+      "4": 9,
+      "02": 7,
+      "00": 12,
+      "-3": 14,
+      "Ej mødt": 7
+    },
+    "reexam": true,
+    "registered_reexam": "25",
+    "attended_reexam": "21",
+    "passed_reexam": "12",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 8,
+      "4": 2,
+      "02": 2,
+      "00": 8,
+      "-3": 1,
+      "Ej mødt": 4
+    }
+  },
+  "NNEB15001E-Summer-2023-B3": {
+    "title": "Basal statistik i idrætsvidenskab",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "69",
+    "attended": "66",
+    "passed": "51",
+    "grades": {
+      "12": 2,
+      "10": 9,
+      "7": 18,
+      "4": 11,
+      "02": 11,
+      "00": 14,
+      "-3": 1,
+      "Ej mødt": 3
+    },
+    "reexam": true,
+    "registered_reexam": "13",
+    "attended_reexam": "12",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 4,
+      "4": 1,
+      "02": 2,
+      "00": 2,
+      "-3": 2,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB15001E-Summer-2022-B3": {
+    "title": "Basal statistik i idrætsvidenskab",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "63",
+    "attended": "58",
+    "passed": "46",
+    "grades": {
+      "12": 5,
+      "10": 15,
+      "7": 9,
+      "4": 7,
+      "02": 10,
+      "00": 6,
+      "-3": 6,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "9",
+    "attended_reexam": "9",
+    "passed_reexam": "9",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 5,
+      "4": 0,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEB15001E-Summer-2021-B3": {
+    "title": "Basal statistik i idrætsvidenskab",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "103",
+    "attended": "101",
+    "passed": "98",
+    "grades": {
+      "12": 6,
+      "10": 69,
+      "7": 21,
+      "4": 2,
+      "02": 0,
+      "00": 2,
+      "-3": 1,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEK22000E-Winter-2025-B1": {
+    "title": "Bevægelsespsykologi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "30",
+    "attended": "30",
+    "passed": "30",
+    "grades": {
+      "12": 14,
+      "10": 12,
+      "7": 3,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK22000E-Winter-2024-B1": {
+    "title": "Bevægelsespsykologi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "17",
+    "passed": "17",
+    "grades": {
+      "12": 11,
+      "10": 1,
+      "7": 4,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK22000E-Winter-2022-B1": {
+    "title": "Bevægelsespsykologi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "16",
+    "attended": "14",
+    "passed": "14",
+    "grades": {
+      "12": 9,
+      "10": 3,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NIDK10008E-Winter-2021-B1": {
+    "title": "Bevægelsespsykologi, sundhedspædagogik og praktikerforskning",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "18",
+    "passed": "17",
+    "grades": {
+      "12": 5,
+      "10": 8,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK16003E-Winter-2025-B2": {
+    "title": "Bioactive Food Components and Health",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "76",
+    "attended": "71",
+    "passed": "67",
+    "grades": {
+      "12": 18,
+      "10": 25,
+      "7": 17,
+      "4": 4,
+      "02": 3,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 3,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEK16003E-Winter-2024-B2": {
+    "title": "Bioactive Food Components and Health",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "70",
+    "attended": "61",
+    "passed": "57",
+    "grades": {
+      "12": 14,
+      "10": 13,
+      "7": 13,
+      "4": 11,
+      "02": 6,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 8,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNEK16003E-Winter-2023-B2": {
+    "title": "Bioactive Food Components and Health",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "69",
+    "attended": "60",
+    "passed": "58",
+    "grades": {
+      "12": 10,
+      "10": 18,
+      "7": 13,
+      "4": 11,
+      "02": 6,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 6,
+      "Ikke bestået": 3
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 1,
+      "10": 2,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEK16003E-Winter-2022-B2": {
+    "title": "Bioactive Food Components and Health",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "35",
+    "attended": "29",
+    "passed": "28",
+    "grades": {
+      "12": 7,
+      "10": 10,
+      "7": 7,
+      "4": 3,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ikke bestået": 6
+    },
+    "reexam": false
+  },
+  "NNEK16003E-Winter-2021-B2": {
+    "title": "Bioactive Food Components and Health",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "55",
+    "attended": "53",
+    "passed": "51",
+    "grades": {
+      "12": 11,
+      "10": 12,
+      "7": 12,
+      "4": 10,
+      "02": 6,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "Histogram-NNEK24800E-Summer-2025": {
+    "title": "Biology Thesis 45 ECTS, Department of Nutrition, Exercise and Sports",
+    "term": "s25",
+    "ects": "45",
+    "exam": false
+  },
+  "NNEB19003E-Winter-2025-B1": {
+    "title": "Boldspil - fra teknik til taktik",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "104",
+    "attended": "100",
+    "passed": "100",
+    "grades": {
+      "12": 19,
+      "10": 28,
+      "7": 32,
+      "4": 15,
+      "02": 6,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NNEB19003E-Winter-2024-B1": {
+    "title": "Boldspil - fra teknik til taktik",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "113",
+    "attended": "106",
+    "passed": "106",
+    "grades": {
+      "12": 25,
+      "10": 37,
+      "7": 33,
+      "4": 11,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 7
+    },
+    "reexam": false
+  },
+  "NNEB19003E-Winter-2023-B1": {
+    "title": "Boldspil - fra teknik til taktik",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "108",
+    "attended": "102",
+    "passed": "102",
+    "grades": {
+      "12": 16,
+      "10": 34,
+      "7": 29,
+      "4": 21,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 6
+    },
+    "reexam": false
+  },
+  "NNEB19003E-Winter-2022-B1": {
+    "title": "Boldspil - fra teknik til taktik",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "108",
+    "attended": "105",
+    "passed": "105",
+    "grades": {
+      "12": 17,
+      "10": 28,
+      "7": 44,
+      "4": 14,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEB19003E-Winter-2021-B1": {
+    "title": "Boldspil - fra teknik til taktik",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "100",
+    "attended": "91",
+    "passed": "90",
+    "grades": {
+      "12": 12,
+      "10": 31,
+      "7": 26,
+      "4": 17,
+      "02": 4,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3,
+      "Ikke bestået": 6
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEK24003E-Summer-2026-B3": {
+    "title": "Central and Peripheral Cardiovascular Adaptations to Exercise Training",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "17",
+    "attended": "16",
+    "passed": "15",
+    "grades": {
+      "12": 5,
+      "10": 2,
+      "7": 6,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK24003E-Summer-2025-B3": {
+    "title": "Central and Peripheral Cardiovascular Adaptations to Exercise Training",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "25",
+    "attended": "24",
+    "passed": "24",
+    "grades": {
+      "12": 7,
+      "10": 5,
+      "7": 8,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK23007E-Summer-2024-B4": {
+    "title": "Clinical Nutrition and Pathophysiology",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "22",
+    "attended": "22",
+    "passed": "22",
+    "grades": {
+      "12": 2,
+      "10": 10,
+      "7": 9,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK12008E-Winter-2024-B1": {
+    "title": "Coaching",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "31",
+    "attended": "31",
+    "passed": "31",
+    "grades": {
+      "12": 20,
+      "10": 8,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK12008E-Winter-2023-B1": {
+    "title": "Coaching",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "22",
+    "attended": "22",
+    "passed": "22",
+    "grades": {
+      "12": 0,
+      "10": 15,
+      "7": 4,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK12008E-Winter-2022-B1": {
+    "title": "Coaching",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "27",
+    "passed": "27",
+    "grades": {
+      "12": 16,
+      "10": 7,
+      "7": 4,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK12008E-Winter-2021-B1": {
+    "title": "Coaching",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "19",
+    "passed": "19",
+    "grades": {
+      "12": 7,
+      "10": 3,
+      "7": 6,
+      "4": 1,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDA04002E-Winter-2024-B1": {
+    "title": "Coaching og teamudvikling",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "37",
+    "passed": "37",
+    "grades": {
+      "12": 12,
+      "10": 10,
+      "7": 9,
+      "4": 5,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NIDA04002E-Winter-2023-B1": {
+    "title": "Coaching og teamudvikling",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "67",
+    "attended": "65",
+    "passed": "65",
+    "grades": {
+      "12": 32,
+      "10": 16,
+      "7": 13,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NIDA04002E-Winter-2022-B1": {
+    "title": "Coaching og teamudvikling",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "45",
+    "attended": "44",
+    "passed": "43",
+    "grades": {
+      "12": 9,
+      "10": 14,
+      "7": 13,
+      "4": 6,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NIDA04002E-Winter-2021-B1": {
+    "title": "Coaching og teamudvikling",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "51",
+    "attended": "48",
+    "passed": "48",
+    "grades": {
+      "12": 15,
+      "10": 17,
+      "7": 11,
+      "4": 3,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NIDB11007E-Winter-2025-B1": {
+    "title": "Den moderne idræts udviklingsproces",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "101",
+    "attended": "100",
+    "passed": "100",
+    "grades": {
+      "12": 16,
+      "10": 29,
+      "7": 31,
+      "4": 19,
+      "02": 5,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NIDB11007E-Winter-2024-B1": {
+    "title": "Den moderne idræts udviklingsproces",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "111",
+    "attended": "109",
+    "passed": "107",
+    "grades": {
+      "12": 2,
+      "10": 11,
+      "7": 24,
+      "4": 40,
+      "02": 30,
+      "00": 0,
+      "-3": 2,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NIDB11007E-Winter-2023-B1": {
+    "title": "Den moderne idræts udviklingsproces",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "103",
+    "attended": "102",
+    "passed": "101",
+    "grades": {
+      "12": 6,
+      "10": 24,
+      "7": 21,
+      "4": 30,
+      "02": 20,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NIDB11007E-Winter-2022-B1": {
+    "title": "Den moderne idræts udviklingsproces",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "109",
+    "attended": "109",
+    "passed": "105",
+    "grades": {
+      "12": 2,
+      "10": 31,
+      "7": 34,
+      "4": 32,
+      "02": 6,
+      "00": 1,
+      "-3": 3
+    },
+    "reexam": false
+  },
+  "NIDB11007E-Winter-2021-B1": {
+    "title": "Den moderne idræts udviklingsproces",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "112",
+    "attended": "111",
+    "passed": "106",
+    "grades": {
+      "12": 4,
+      "10": 32,
+      "7": 44,
+      "4": 24,
+      "02": 2,
+      "00": 1,
+      "-3": 4,
+      "Ej mødt": 1
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "5",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 3,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEK23005E-Summer-2024-B3": {
+    "title": "Diet and Physical Activity in Prevention and Treatment of Disease",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "46",
+    "attended": "45",
+    "passed": "43",
+    "grades": {
+      "12": 2,
+      "10": 12,
+      "7": 17,
+      "4": 11,
+      "02": 1,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK24010E-Winter-2025-B1": {
+    "title": "Eksperimentel fysiologi",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "58",
+    "attended": "57",
+    "passed": "57",
+    "grades": {
+      "12": 0,
+      "10": 33,
+      "7": 18,
+      "4": 6,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK24010E-Winter-2024-B1": {
+    "title": "Eksperimentel fysiologi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "58",
+    "attended": "58",
+    "passed": "56",
+    "grades": {
+      "12": 13,
+      "10": 16,
+      "7": 22,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej bedømt": 2
+    },
+    "reexam": false
+  },
+  "LLEK10249E-Winter-2025-B1": {
+    "title": "Evidence, Diet and Health",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "50",
+    "attended": "49",
+    "passed": "42",
+    "grades": {
+      "12": 11,
+      "10": 9,
+      "7": 11,
+      "4": 8,
+      "02": 3,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "6",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 1,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "LLEK10249E-Winter-2024-B1": {
+    "title": "Evidence, Diet and Health",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "33",
+    "attended": "33",
+    "passed": "33",
+    "grades": {
+      "12": 5,
+      "10": 7,
+      "7": 14,
+      "4": 6,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "LLEK10249E-Winter-2023-B1": {
+    "title": "Evidence, Diet and Health",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 2,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "LLEK10249E-Winter-2022-B1": {
+    "title": "Evidence, Diet and Health",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "39",
+    "passed": "33",
+    "grades": {
+      "12": 1,
+      "10": 5,
+      "7": 11,
+      "4": 10,
+      "02": 6,
+      "00": 6,
+      "-3": 0
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "5",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 0,
+      "02": 1,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "LLEK10249E-Winter-2021-B1": {
+    "title": "Evidence, Diet and Health",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "55",
+    "attended": "53",
+    "passed": "46",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 11,
+      "4": 16,
+      "02": 15,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "7",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 2,
+      "02": 1,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEK24004E-Summer-2026-B3": {
+    "title": "Exercise Metabolism and Regulation of Skeletal Muscle Adaptations",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "29",
+    "attended": "27",
+    "passed": "27",
+    "grades": {
+      "12": 5,
+      "10": 10,
+      "7": 10,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEK24004E-Summer-2025-B3": {
+    "title": "Exercise Metabolism and Regulation of Skeletal Muscle Adaptations",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "34",
+    "attended": "34",
+    "passed": "34",
+    "grades": {
+      "12": 8,
+      "10": 22,
+      "7": 4,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK14015E-Summer-2023-B3": {
+    "title": "Experimental Nutrition Physiology",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "28",
+    "attended": "28",
+    "passed": "28",
+    "grades": {
+      "12": 4,
+      "10": 10,
+      "7": 12,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK14015E-Summer-2022-B3": {
+    "title": "Experimental Nutrition Physiology",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "26",
+    "passed": "26",
+    "grades": {
+      "12": 4,
+      "10": 4,
+      "7": 10,
+      "4": 8,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK14015E-Summer-2021-B3": {
+    "title": "Experimental Nutrition Physiology",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "28",
+    "attended": "27",
+    "passed": "27",
+    "grades": {
+      "12": 11,
+      "10": 10,
+      "7": 6,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "Histogram-NNEK21800E-Summer-2025": {
+    "title": "Food Innovation and Health Thesis 45 ECTS, Department of Nutrition, Exercise and Sports",
+    "term": "s25",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NNEK21800E-Summer-2024": {
+    "title": "Food Innovation and Health Thesis 45 ECTS, Department of Nutrition, Exercise and Sports",
+    "term": "s24",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NNEK21800E-Winter-2023": {
+    "title": "Food Innovation and Health Thesis 45 ECTS, Department of Nutrition, Exercise and Sports",
+    "term": "v23",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NNEK21800E-Summer-2023": {
+    "title": "Food Innovation and Health Thesis 45 ECTS, Department of Nutrition, Exercise and Sports",
+    "term": "s23",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NNEK21800E-Summer-2022": {
+    "title": "Food Innovation and Health Thesis 45 ECTS, Department of Nutrition, Exercise and Sports",
+    "term": "s22",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NFOK12006E-Winter-2022": {
+    "title": "Food Science and Technology Thesis 45 ECTS, Department of Nutrition, Exercise and Sports",
+    "term": "v22",
+    "ects": "45",
+    "exam": false
+  },
+  "NNEB18001E-Winter-2025-B1": {
+    "title": "Fra boldbasis til boldspil",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "115",
+    "attended": "115",
+    "passed": "113",
+    "grades": {
+      "12": 28,
+      "10": 39,
+      "7": 28,
+      "4": 16,
+      "02": 2,
+      "00": 2,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB18001E-Winter-2024-B1": {
+    "title": "Fra boldbasis til boldspil",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "116",
+    "attended": "108",
+    "passed": "105",
+    "grades": {
+      "12": 11,
+      "10": 32,
+      "7": 35,
+      "4": 20,
+      "02": 7,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 6
+    },
+    "reexam": false
+  },
+  "NNEB18001E-Winter-2023-B1": {
+    "title": "Fra boldbasis til boldspil",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "124",
+    "attended": "113",
+    "passed": "110",
+    "grades": {
+      "12": 16,
+      "10": 31,
+      "7": 33,
+      "4": 22,
+      "02": 8,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 7,
+      "Ikke bestået": 4
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "7",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 1,
+      "10": 1,
+      "7": 4,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB18001E-Winter-2022-B1": {
+    "title": "Fra boldbasis til boldspil",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "125",
+    "attended": "116",
+    "passed": "114",
+    "grades": {
+      "12": 23,
+      "10": 29,
+      "7": 24,
+      "4": 28,
+      "02": 10,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 8
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "6",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 2,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB18001E-Winter-2021-B1": {
+    "title": "Fra boldbasis til boldspil",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "126",
+    "attended": "117",
+    "passed": "115",
+    "grades": {
+      "12": 27,
+      "10": 31,
+      "7": 36,
+      "4": 16,
+      "02": 5,
+      "00": 1,
+      "-3": 1,
+      "Ikke bestået": 9
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "5",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 1,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    }
+  },
+  "NNEB18001E-Summer-2021-B3": {
+    "title": "Fra boldbasis til boldspil",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEB18002E-Winter-2025-B1": {
+    "title": "Fra kropsbasis til dans",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "116",
+    "attended": "115",
+    "passed": "115",
+    "grades": {
+      "12": 16,
+      "10": 55,
+      "7": 41,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEB18002E-Winter-2024-B1": {
+    "title": "Fra kropsbasis til dans",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "114",
+    "attended": "109",
+    "passed": "109",
+    "grades": {
+      "12": 11,
+      "10": 60,
+      "7": 37,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 5
+    },
+    "reexam": false
+  },
+  "NNEB18002E-Winter-2023-B1": {
+    "title": "Fra kropsbasis til dans",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "125",
+    "attended": "123",
+    "passed": "123",
+    "grades": {
+      "12": 16,
+      "10": 71,
+      "7": 32,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEB18002E-Winter-2022-B1": {
+    "title": "Fra kropsbasis til dans",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "120",
+    "attended": "116",
+    "passed": "115",
+    "grades": {
+      "12": 13,
+      "10": 66,
+      "7": 33,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 1,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NNEB18002E-Winter-2021-B1": {
+    "title": "Fra kropsbasis til dans",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "126",
+    "attended": "125",
+    "passed": "125",
+    "grades": {
+      "12": 21,
+      "10": 53,
+      "7": 48,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEB18004E-Summer-2025-B3": {
+    "title": "Fra vandbasis til svømning",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "108",
+    "attended": "104",
+    "passed": "104",
+    "grades": {
+      "12": 19,
+      "10": 58,
+      "7": 26,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 4
+    },
+    "reexam": false
+  },
+  "NNEB18004E-Summer-2024-B3": {
+    "title": "Fra vandbasis til svømning",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "120",
+    "attended": "112",
+    "passed": "112",
+    "grades": {
+      "12": 23,
+      "10": 55,
+      "7": 32,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 8
+    },
+    "reexam": false
+  },
+  "NNEB18004E-Summer-2023-B3": {
+    "title": "Fra vandbasis til svømning",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "112",
+    "attended": "105",
+    "passed": "105",
+    "grades": {
+      "12": 25,
+      "10": 50,
+      "7": 29,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 7
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEB18004E-Summer-2022-B3": {
+    "title": "Fra vandbasis til svømning",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "121",
+    "attended": "110",
+    "passed": "109",
+    "grades": {
+      "12": 23,
+      "10": 49,
+      "7": 29,
+      "4": 8,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ikke bestået": 11
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "5",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEB18004E-Summer-2021-B3": {
+    "title": "Fra vandbasis til svømning",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "109",
+    "attended": "104",
+    "passed": "94",
+    "grades": {
+      "12": 12,
+      "10": 38,
+      "7": 39,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 10,
+      "Ej mødt": 1,
+      "Ikke bestået": 4
+    },
+    "reexam": false
+  },
+  "NNEB18004E-Summer-2021-B5": {
+    "title": "Fra vandbasis til svømning",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEB18000E-Summer-2025-B3": {
+    "title": "Funktionel anatomi, muskel- og neurofysiologi",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "109",
+    "attended": "101",
+    "passed": "79",
+    "grades": {
+      "12": 17,
+      "10": 14,
+      "7": 20,
+      "4": 17,
+      "02": 11,
+      "00": 22,
+      "-3": 0,
+      "Ej mødt": 7,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "25",
+    "attended_reexam": "23",
+    "passed_reexam": "21",
+    "grades_reexam": {
+      "12": 1,
+      "10": 3,
+      "7": 7,
+      "4": 7,
+      "02": 3,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNEB18000E-Summer-2024-B3": {
+    "title": "Funktionel anatomi, muskel- og neurofysiologi",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "138",
+    "attended": "112",
+    "passed": "97",
+    "grades": {
+      "12": 16,
+      "10": 23,
+      "7": 25,
+      "4": 18,
+      "02": 15,
+      "00": 15,
+      "-3": 0,
+      "Ej mødt": 9,
+      "Ikke bestået": 17
+    },
+    "reexam": true,
+    "registered_reexam": "18",
+    "attended_reexam": "16",
+    "passed_reexam": "15",
+    "grades_reexam": {
+      "12": 3,
+      "10": 4,
+      "7": 2,
+      "4": 5,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNEB18000E-Summer-2024-B4": {
+    "title": "Funktionel anatomi, muskel- og neurofysiologi",
+    "term": "s24/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEB18000E-Summer-2023-B3": {
+    "title": "Funktionel anatomi, muskel- og neurofysiologi",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "117",
+    "attended": "95",
+    "passed": "85",
+    "grades": {
+      "12": 11,
+      "10": 19,
+      "7": 20,
+      "4": 23,
+      "02": 12,
+      "00": 10,
+      "-3": 0,
+      "Ej mødt": 4,
+      "Ikke bestået": 18
+    },
+    "reexam": true,
+    "registered_reexam": "23",
+    "attended_reexam": "17",
+    "passed_reexam": "14",
+    "grades_reexam": {
+      "12": 1,
+      "10": 3,
+      "7": 4,
+      "4": 3,
+      "02": 3,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 3,
+      "Ikke bestået": 3
+    }
+  },
+  "NNEB18000E-Summer-2022-B3": {
+    "title": "Funktionel anatomi, muskel- og neurofysiologi",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "125",
+    "attended": "94",
+    "passed": "86",
+    "grades": {
+      "12": 16,
+      "10": 18,
+      "7": 24,
+      "4": 17,
+      "02": 11,
+      "00": 7,
+      "-3": 1,
+      "Ej mødt": 13,
+      "Ikke bestået": 18
+    },
+    "reexam": true,
+    "registered_reexam": "20",
+    "attended_reexam": "15",
+    "passed_reexam": "12",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 6,
+      "4": 4,
+      "02": 1,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 4,
+      "Ikke bestået": 1
+    }
+  },
+  "NNEB18000E-Summer-2021-B3": {
+    "title": "Funktionel anatomi, muskel- og neurofysiologi",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "119",
+    "attended": "107",
+    "passed": "99",
+    "grades": {
+      "12": 28,
+      "10": 25,
+      "7": 26,
+      "4": 14,
+      "02": 6,
+      "00": 2,
+      "-3": 6,
+      "Ej mødt": 3,
+      "Ikke bestået": 9
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "5",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3
+    }
+  },
+  "NNEK19001E-Summer-2022-B3": {
+    "title": "Fysiologisk forskningsfordybelse",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "28",
+    "attended": "28",
+    "passed": "28",
+    "grades": {
+      "12": 6,
+      "10": 12,
+      "7": 10,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK19001E-Summer-2021-B3": {
+    "title": "Fysiologisk forskningsfordybelse",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "26",
+    "attended": "25",
+    "passed": "25",
+    "grades": {
+      "12": 0,
+      "10": 12,
+      "7": 13,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK22007E-Winter-2023-B1": {
+    "title": "Fysisk aktivitet og ernæring",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK22007E-Summer-2023-B4": {
+    "title": "Fysisk aktivitet og ernæring",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "32",
+    "attended": "32",
+    "passed": "30",
+    "grades": {
+      "12": 16,
+      "10": 7,
+      "7": 3,
+      "4": 3,
+      "02": 1,
+      "00": 2,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK14008E-Summer-2021-B4": {
+    "title": "Fysisk aktivitet og sundhed",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "35",
+    "attended": "32",
+    "passed": "29",
+    "grades": {
+      "12": 5,
+      "10": 8,
+      "7": 12,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 3,
+      "Ej mødt": 3
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "6",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 3,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEK22005E-Summer-2023-B4": {
+    "title": "Fysisk aktivitet og sundhed - Hjerne og kredsløb",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "19",
+    "passed": "19",
+    "grades": {
+      "12": 8,
+      "10": 8,
+      "7": 1,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK23009E-Summer-2024-B4": {
+    "title": "Fysisk aktivitet og sundhed - Metabolisme",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "18",
+    "attended": "18",
+    "passed": "18",
+    "grades": {
+      "12": 3,
+      "10": 8,
+      "7": 6,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB16000E-Winter-2025-B2": {
+    "title": "Grundkursus i menneskets ernæring",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "28",
+    "attended": "27",
+    "passed": "27",
+    "grades": {
+      "12": 3,
+      "10": 10,
+      "7": 11,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEB16000E-Winter-2024-B2": {
+    "title": "Grundkursus i menneskets ernæring",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "30",
+    "attended": "30",
+    "passed": "29",
+    "grades": {
+      "12": 2,
+      "10": 9,
+      "7": 6,
+      "4": 9,
+      "02": 3,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB16000E-Winter-2023-B2": {
+    "title": "Grundkursus i menneskets ernæring",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "34",
+    "attended": "32",
+    "passed": "27",
+    "grades": {
+      "12": 0,
+      "10": 0,
+      "7": 10,
+      "4": 11,
+      "02": 6,
+      "00": 5,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 3,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB16000E-Winter-2022-B2": {
+    "title": "Grundkursus i menneskets ernæring",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "31",
+    "attended": "30",
+    "passed": "28",
+    "grades": {
+      "12": 0,
+      "10": 3,
+      "7": 10,
+      "4": 10,
+      "02": 5,
+      "00": 2,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEB16000E-Winter-2021-B2": {
+    "title": "Grundkursus i menneskets ernæring",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "25",
+    "passed": "22",
+    "grades": {
+      "12": 0,
+      "10": 2,
+      "7": 4,
+      "4": 10,
+      "02": 6,
+      "00": 3,
+      "-3": 0,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEK21003E-Summer-2026-B3": {
+    "title": "Gut Microbiome in Nutrition and Health",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "74",
+    "attended": "69",
+    "passed": "67",
+    "grades": {
+      "12": 8,
+      "10": 27,
+      "7": 18,
+      "4": 9,
+      "02": 5,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 4,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK21003E-Summer-2025-B3": {
+    "title": "Gut Microbiome in Nutrition and Health",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "46",
+    "attended": "42",
+    "passed": "41",
+    "grades": {
+      "12": 5,
+      "10": 14,
+      "7": 12,
+      "4": 6,
+      "02": 4,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK21003E-Summer-2024-B3": {
+    "title": "Gut Microbiome in Nutrition and Health",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "51",
+    "attended": "48",
+    "passed": "47",
+    "grades": {
+      "12": 8,
+      "10": 18,
+      "7": 11,
+      "4": 7,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK21003E-Summer-2023-B3": {
+    "title": "Gut Microbiome in Nutrition and Health",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "54",
+    "attended": "51",
+    "passed": "49",
+    "grades": {
+      "12": 14,
+      "10": 9,
+      "7": 14,
+      "4": 8,
+      "02": 4,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NNEK21003E-Summer-2022-B3": {
+    "title": "Gut Microbiome in Nutrition and Health",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "35",
+    "passed": "34",
+    "grades": {
+      "12": 7,
+      "10": 13,
+      "7": 12,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "Histogram-NFOK12011E-Winter-2025": {
+    "title": "Human Nutrition Thesis 45 ECTS, Department Nutrition, Exercise and Sports",
+    "term": "v25",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NFOK12011E-Summer-2025": {
+    "title": "Human Nutrition Thesis 45 ECTS, Department Nutrition, Exercise and Sports",
+    "term": "s25",
+    "ects": "45",
+    "exam": true,
+    "registered": "30",
+    "attended": "30",
+    "passed": "28",
+    "grades": {
+      "12": 14,
+      "10": 6,
+      "7": 8,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej bedømt": 2
+    },
+    "reexam": false
+  },
+  "Histogram-NFOK12011E-Winter-2024": {
+    "title": "Human Nutrition Thesis 45 ECTS, Department Nutrition, Exercise and Sports",
+    "term": "v24",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NFOK12011E-Summer-2024": {
+    "title": "Human Nutrition Thesis 45 ECTS, Department Nutrition, Exercise and Sports",
+    "term": "s24",
+    "ects": "45",
+    "exam": true,
+    "registered": "29",
+    "attended": "29",
+    "passed": "25",
+    "grades": {
+      "12": 12,
+      "10": 8,
+      "7": 4,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 4
+    },
+    "reexam": false
+  },
+  "Histogram-NFOK12011E-Winter-2023": {
+    "title": "Human Nutrition Thesis 45 ECTS, Department Nutrition, Exercise and Sports",
+    "term": "v23",
+    "ects": "45",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "6",
+    "grades": {
+      "12": 2,
+      "10": 4,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "Histogram-NFOK12011E-Summer-2023": {
+    "title": "Human Nutrition Thesis 45 ECTS, Department Nutrition, Exercise and Sports",
+    "term": "s23",
+    "ects": "45",
+    "exam": true,
+    "registered": "24",
+    "attended": "24",
+    "passed": "20",
+    "grades": {
+      "12": 6,
+      "10": 7,
+      "7": 4,
+      "4": 1,
+      "02": 2,
+      "00": 0,
+      "-3": 4
+    },
+    "reexam": false
+  },
+  "Histogram-NFOK12011E-Winter-2022": {
+    "title": "Human Nutrition Thesis 45 ECTS, Department Nutrition, Exercise and Sports",
+    "term": "v22",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NFOK12011E-Summer-2022": {
+    "title": "Human Nutrition Thesis 45 ECTS, Department Nutrition, Exercise and Sports",
+    "term": "s22",
+    "ects": "45",
+    "exam": true,
+    "registered": "19",
+    "attended": "19",
+    "passed": "17",
+    "grades": {
+      "12": 7,
+      "10": 6,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "Histogram-NFOK12011E-Winter-2021": {
+    "title": "Human Nutrition Thesis 45 ECTS, Department Nutrition, Exercise and Sports",
+    "term": "v21",
+    "ects": "45",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "4",
+    "grades": {
+      "12": 1,
+      "10": 1,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "Histogram-NFOK12011E-Summer-2021": {
+    "title": "Human Nutrition Thesis 45 ECTS, Department Nutrition, Exercise and Sports",
+    "term": "s21",
+    "ects": "45",
+    "exam": true,
+    "registered": "31",
+    "attended": "31",
+    "passed": "29",
+    "grades": {
+      "12": 6,
+      "10": 14,
+      "7": 5,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 2
+    },
+    "reexam": false
+  },
+  "NNEK24007E-Summer-2025-B4": {
+    "title": "Human Performance Optimization",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "26",
+    "attended": "21",
+    "passed": "21",
+    "grades": {
+      "12": 0,
+      "10": 12,
+      "7": 6,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NNEK24009E-Winter-2025-B1": {
+    "title": "Humanfysiologi",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "57",
+    "attended": "49",
+    "passed": "43",
+    "grades": {
+      "12": 12,
+      "10": 10,
+      "7": 12,
+      "4": 8,
+      "02": 1,
+      "00": 6,
+      "-3": 0,
+      "Ej mødt": 8
+    },
+    "reexam": true,
+    "registered_reexam": "12",
+    "attended_reexam": "11",
+    "passed_reexam": "10",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 4,
+      "02": 4,
+      "00": 0,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ej mødt": 1
+    }
+  },
+  "NNEK24009E-Winter-2024-B1": {
+    "title": "Humanfysiologi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "60",
+    "attended": "55",
+    "passed": "49",
+    "grades": {
+      "12": 11,
+      "10": 17,
+      "7": 9,
+      "4": 10,
+      "02": 2,
+      "00": 6,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "8",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 3,
+      "-3": 0
+    }
+  },
+  "NIDK12003E-Winter-2021-B2": {
+    "title": "Humanfysiologi - kredsløb og respiration",
+    "term": "v21/B2",
+    "ects": "15",
+    "exam": true,
+    "registered": "57",
+    "attended": "53",
+    "passed": "53",
+    "grades": {
+      "12": 2,
+      "10": 12,
+      "7": 24,
+      "4": 12,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NIDA05008E-Winter-2021-B1": {
+    "title": "Humanfysiologi 1",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "55",
+    "attended": "50",
+    "passed": "49",
+    "grades": {
+      "12": 20,
+      "10": 16,
+      "7": 7,
+      "4": 4,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": false
+  },
+  "NNEK22009E-Winter-2023-B1": {
+    "title": "Humanfysiologi 1 - Muskel- og neurofysiologi, endokrinologi og metabolisme",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "39",
+    "attended": "35",
+    "passed": "34",
+    "grades": {
+      "12": 10,
+      "10": 9,
+      "7": 5,
+      "4": 7,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NNEK22009E-Winter-2022-B1": {
+    "title": "Humanfysiologi 1 - Muskel- og neurofysiologi, endokrinologi og metabolisme",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "56",
+    "attended": "55",
+    "passed": "52",
+    "grades": {
+      "12": 15,
+      "10": 8,
+      "7": 16,
+      "4": 7,
+      "02": 6,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK23012E-Summer-2024-B2": {
+    "title": "Humanfysiologi 2 - kredsløb og respiration",
+    "term": "s24/B2",
+    "ects": "15",
+    "exam": true,
+    "registered": "34",
+    "attended": "34",
+    "passed": "34",
+    "grades": {
+      "12": 5,
+      "10": 15,
+      "7": 10,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK22010E-Summer-2023-B2": {
+    "title": "Humanfysiologi 2 - kredsløb og respiration",
+    "term": "s23/B2",
+    "ects": "15",
+    "exam": true,
+    "registered": "56",
+    "attended": "53",
+    "passed": "53",
+    "grades": {
+      "12": 1,
+      "10": 7,
+      "7": 24,
+      "4": 14,
+      "02": 7,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NIDB11010E-Summer-2026-B3": {
+    "title": "Humanistisk-samfundsvidenskabelige metoder for idræt",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "41",
+    "attended": "39",
+    "passed": "38",
+    "grades": {
+      "12": 0,
+      "10": 12,
+      "7": 24,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NIDB11010E-Summer-2025-B3": {
+    "title": "Humanistisk-samfundsvidenskabelige metoder for idræt",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "38",
+    "passed": "38",
+    "grades": {
+      "12": 0,
+      "10": 14,
+      "7": 17,
+      "4": 6,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NIDB11010E-Summer-2024-B3": {
+    "title": "Humanistisk-samfundsvidenskabelige metoder for idræt",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "34",
+    "passed": "34",
+    "grades": {
+      "12": 0,
+      "10": 14,
+      "7": 20,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NIDB11010E-Summer-2023-B4": {
+    "title": "Humanistisk-samfundsvidenskabelige metoder for idræt",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "52",
+    "attended": "52",
+    "passed": "49",
+    "grades": {
+      "12": 0,
+      "10": 21,
+      "7": 24,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 3
+    },
+    "reexam": false
+  },
+  "NIDB11010E-Summer-2022-B4": {
+    "title": "Humanistisk-samfundsvidenskabelige metoder for idræt",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "25",
+    "passed": "25",
+    "grades": {
+      "12": 0,
+      "10": 8,
+      "7": 15,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NIDB11010E-Summer-2021-B4": {
+    "title": "Humanistisk-samfundsvidenskabelige metoder for idræt",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "35",
+    "attended": "35",
+    "passed": "34",
+    "grades": {
+      "12": 0,
+      "10": 11,
+      "7": 19,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NNEB19004E-Summer-2025-B4": {
+    "title": "Idræt og bevægelse med udvalgte målgrupper",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "46",
+    "attended": "43",
+    "passed": "43",
+    "grades": {
+      "12": 11,
+      "10": 21,
+      "7": 11,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NNEB19004E-Summer-2024-B4": {
+    "title": "Idræt og bevægelse med udvalgte målgrupper",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "42",
+    "attended": "41",
+    "passed": "41",
+    "grades": {
+      "12": 11,
+      "10": 22,
+      "7": 7,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEB19004E-Summer-2023-B4": {
+    "title": "Idræt og bevægelse med udvalgte målgrupper",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "22",
+    "attended": "21",
+    "passed": "21",
+    "grades": {
+      "12": 10,
+      "10": 5,
+      "7": 5,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEB19004E-Summer-2022-B4": {
+    "title": "Idræt og bevægelse med udvalgte målgrupper",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "34",
+    "attended": "32",
+    "passed": "32",
+    "grades": {
+      "12": 9,
+      "10": 11,
+      "7": 9,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEB19004E-Summer-2021-B4": {
+    "title": "Idræt og bevægelse med udvalgte målgrupper",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "33",
+    "attended": "33",
+    "passed": "33",
+    "grades": {
+      "12": 9,
+      "10": 10,
+      "7": 11,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK10009E-Summer-2022-B3": {
+    "title": "Idræt og ernæring 2",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "30",
+    "attended": "30",
+    "passed": "30",
+    "grades": {
+      "12": 17,
+      "10": 8,
+      "7": 4,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDA04040E-Summer-2022-B5": {
+    "title": "Idræt og ernæring I",
+    "term": "s22/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDA04040E-Winter-2021-B1": {
+    "title": "Idræt og ernæring I",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "90",
+    "attended": "90",
+    "passed": "81",
+    "grades": {
+      "Bestået": 81,
+      "Ikke bestået": 9
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "Bestået": 3,
+      "Ikke bestået": 1,
+      "Ej mødt": 1
+    }
+  },
+  "NNEK21004E-Winter-2023-B1": {
+    "title": "Idræt og ungdomskultur",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK21004E-Winter-2022-B2": {
+    "title": "Idræt og ungdomskultur",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "21",
+    "passed": "20",
+    "grades": {
+      "12": 2,
+      "10": 7,
+      "7": 5,
+      "4": 5,
+      "02": 1,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NNEK21004E-Winter-2021-B2": {
+    "title": "Idræt og ungdomskultur",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "12": 3,
+      "10": 5,
+      "7": 6,
+      "4": 2,
+      "02": 4,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB19005E-Summer-2024-B3": {
+    "title": "Idræt, krop og medier",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEB19005E-Summer-2023-B4": {
+    "title": "Idræt, krop og medier",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "28",
+    "attended": "26",
+    "passed": "24",
+    "grades": {
+      "12": 0,
+      "10": 9,
+      "7": 7,
+      "4": 5,
+      "02": 3,
+      "00": 0,
+      "-3": 2,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB19005E-Summer-2022-B4": {
+    "title": "Idræt, krop og medier",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "10",
+    "grades": {
+      "12": 1,
+      "10": 2,
+      "7": 3,
+      "4": 2,
+      "02": 2,
+      "00": 0,
+      "-3": 2
+    },
+    "reexam": false
+  },
+  "NNEB19005E-Summer-2021-B3": {
+    "title": "Idræt, krop og medier",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "27",
+    "passed": "27",
+    "grades": {
+      "12": 1,
+      "10": 6,
+      "7": 12,
+      "4": 7,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK11003E-Winter-2023-B1": {
+    "title": "Idræt, politik og velfærd",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "17",
+    "attended": "16",
+    "passed": "15",
+    "grades": {
+      "12": 6,
+      "10": 5,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NIDK11003E-Winter-2022-B1": {
+    "title": "Idræt, politik og velfærd",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "18",
+    "attended": "18",
+    "passed": "17",
+    "grades": {
+      "12": 6,
+      "10": 5,
+      "7": 4,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NIDK11003E-Winter-2021-B1": {
+    "title": "Idræt, politik og velfærd",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "11",
+    "attended": "10",
+    "passed": "9",
+    "grades": {
+      "12": 1,
+      "10": 5,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NIDA04021E-Winter-2025-B1": {
+    "title": "Idræts- og bevægelseskultur",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "119",
+    "attended": "118",
+    "passed": "116",
+    "grades": {
+      "12": 8,
+      "10": 26,
+      "7": 49,
+      "4": 28,
+      "02": 5,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 0,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NIDA04021E-Winter-2024-B1": {
+    "title": "Idræts- og bevægelseskultur",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "123",
+    "attended": "120",
+    "passed": "118",
+    "grades": {
+      "12": 8,
+      "10": 25,
+      "7": 50,
+      "4": 27,
+      "02": 8,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NIDA04021E-Winter-2023-B1": {
+    "title": "Idræts- og bevægelseskultur",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "130",
+    "attended": "122",
+    "passed": "121",
+    "grades": {
+      "12": 4,
+      "10": 26,
+      "7": 54,
+      "4": 29,
+      "02": 8,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 6,
+      "Ikke bestået": 2
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    }
+  },
+  "NIDA04021E-Winter-2022-B1": {
+    "title": "Idræts- og bevægelseskultur",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "124",
+    "attended": "121",
+    "passed": "107",
+    "grades": {
+      "12": 14,
+      "10": 19,
+      "7": 29,
+      "4": 32,
+      "02": 13,
+      "00": 8,
+      "-3": 6,
+      "Ikke bestået": 3
+    },
+    "reexam": true,
+    "registered_reexam": "8",
+    "attended_reexam": "5",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 0,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 3
+    }
+  },
+  "NIDA04021E-Winter-2021-B1": {
+    "title": "Idræts- og bevægelseskultur",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "132",
+    "attended": "129",
+    "passed": "123",
+    "grades": {
+      "12": 11,
+      "10": 29,
+      "7": 38,
+      "4": 37,
+      "02": 8,
+      "00": 4,
+      "-3": 2,
+      "Ej mødt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NIDB10006E-Summer-2021-B4": {
+    "title": "Idrætspraksis og teori 2",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB10004E-Summer-2022-B4": {
+    "title": "Idrætspraksis og teori 3",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB10004E-Winter-2021-B1": {
+    "title": "Idrætspraksis og teori 3",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB10004E-Summer-2021-B4": {
+    "title": "Idrætspraksis og teori 3",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB10004E-Summer-2021-B5": {
+    "title": "Idrætspraksis og teori 3",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB10012E-Summer-2021-B3": {
+    "title": "Idrætspraksis og teori 4",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB11002E-Summer-2021-B3": {
+    "title": "Idrætspraksis og teori 5",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB11002E-Summer-2021-B4": {
+    "title": "Idrætspraksis og teori 5",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB11002E-Summer-2021-B5": {
+    "title": "Idrætspraksis og teori 5",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB11004E-Summer-2021-B4": {
+    "title": "Idrætspraksis og teori 6",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB11004E-Summer-2021-B5": {
+    "title": "Idrætspraksis og teori 6",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK24014E-Winter-2024-B1": {
+    "title": "Idrætten i kulturen",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "16",
+    "attended": "16",
+    "passed": "16",
+    "grades": {
+      "12": 2,
+      "10": 3,
+      "7": 4,
+      "4": 3,
+      "02": 4,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB16001E-Winter-2024-B2": {
+    "title": "Idrættens organisering i teori og praksis",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "34",
+    "passed": "32",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 18,
+      "4": 10,
+      "02": 0,
+      "00": 0,
+      "-3": 2,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB16001E-Winter-2023-B2": {
+    "title": "Idrættens organisering i teori og praksis",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "28",
+    "attended": "28",
+    "passed": "27",
+    "grades": {
+      "12": 1,
+      "10": 10,
+      "7": 12,
+      "4": 3,
+      "02": 1,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB16001E-Winter-2022-B2": {
+    "title": "Idrættens organisering i teori og praksis",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "18",
+    "attended": "18",
+    "passed": "17",
+    "grades": {
+      "12": 0,
+      "10": 5,
+      "7": 9,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NNEB16001E-Winter-2021-B2": {
+    "title": "Idrættens organisering i teori og praksis",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "26",
+    "passed": "26",
+    "grades": {
+      "12": 0,
+      "10": 7,
+      "7": 14,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEAIS030E-Winter-2023-B2": {
+    "title": "Individual Study",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK24011E-Summer-2025-B3": {
+    "title": "Innovation, projektledelse og anvendt idrætsanalyse",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "51",
+    "attended": "51",
+    "passed": "51",
+    "grades": {
+      "12": 8,
+      "10": 17,
+      "7": 19,
+      "4": 7,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "Histogram-NNEK22800E-Summer-2025": {
+    "title": "Integrated Food Studies Thesis 45 ECTS, Department of Nutrition, Exercise and Sports",
+    "term": "s25",
+    "ects": "45",
+    "exam": false
+  },
+  "Histogram-NNEK22800E-Summer-2023": {
+    "title": "Integrated Food Studies Thesis 45 ECTS, Department of Nutrition, Exercise and Sports",
+    "term": "s23",
+    "ects": "45",
+    "exam": false
+  },
+  "NNEK23003E-Winter-2025-B2": {
+    "title": "Integrative Human Metabolism",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "44",
+    "attended": "43",
+    "passed": "42",
+    "grades": {
+      "12": 3,
+      "10": 13,
+      "7": 16,
+      "4": 7,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK23003E-Winter-2024-B2": {
+    "title": "Integrative Human Metabolism",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "47",
+    "attended": "45",
+    "passed": "44",
+    "grades": {
+      "12": 4,
+      "10": 11,
+      "7": 14,
+      "4": 12,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEK23003E-Winter-2023-B2": {
+    "title": "Integrative Human Metabolism",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "42",
+    "attended": "39",
+    "passed": "38",
+    "grades": {
+      "12": 9,
+      "10": 11,
+      "7": 13,
+      "4": 4,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "LLEK10289E-Summer-2022-B4": {
+    "title": "Klinisk børneernæring",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "26",
+    "attended": "25",
+    "passed": "25",
+    "grades": {
+      "12": 3,
+      "10": 4,
+      "7": 15,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "LLEK10289E-Summer-2021-B4": {
+    "title": "Klinisk børneernæring",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 0,
+      "10": 6,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "LLEK10289E-Summer-2021-B5": {
+    "title": "Klinisk børneernæring",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "Histogram-NNEM23000E-Winter-2023": {
+    "title": "Krop, bevægelsespsykologi og pædagogik i professionel praksis",
+    "term": "v23",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 2,
+      "10": 3,
+      "7": 5,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK15011E-Winter-2025-B1": {
+    "title": "Kvalitative metoder",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "32",
+    "attended": "30",
+    "passed": "30",
+    "grades": {
+      "12": 6,
+      "10": 11,
+      "7": 13,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEK15011E-Winter-2024-B1": {
+    "title": "Kvalitative metoder",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "49",
+    "attended": "48",
+    "passed": "48",
+    "grades": {
+      "12": 4,
+      "10": 12,
+      "7": 19,
+      "4": 13,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK15011E-Summer-2024-B3": {
+    "title": "Kvalitative metoder",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "40",
+    "attended": "40",
+    "passed": "40",
+    "grades": {
+      "12": 0,
+      "10": 18,
+      "7": 22,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK15011E-Summer-2023-B3": {
+    "title": "Kvalitative metoder",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "24",
+    "attended": "23",
+    "passed": "23",
+    "grades": {
+      "12": 0,
+      "10": 10,
+      "7": 9,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK15011E-Summer-2022-B3": {
+    "title": "Kvalitative metoder",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "34",
+    "attended": "33",
+    "passed": "33",
+    "grades": {
+      "12": 9,
+      "10": 0,
+      "7": 19,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK15011E-Summer-2021-B3": {
+    "title": "Kvalitative metoder",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "28",
+    "attended": "28",
+    "passed": "28",
+    "grades": {
+      "12": 0,
+      "10": 12,
+      "7": 7,
+      "4": 9,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "LLEK10290E-Summer-2022-B4": {
+    "title": "Kvalitetssikring og ledelse",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "20",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "12": 1,
+      "10": 12,
+      "7": 7,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "LLEK10290E-Summer-2021-B4": {
+    "title": "Kvalitetssikring og ledelse",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 2,
+      "10": 5,
+      "7": 6,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK15010E-Summer-2025-B3": {
+    "title": "Kvantitative metoder",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "49",
+    "attended": "49",
+    "passed": "49",
+    "grades": {
+      "12": 8,
+      "10": 11,
+      "7": 25,
+      "4": 4,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK15010E-Winter-2023-B1": {
+    "title": "Kvantitative metoder",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "42",
+    "attended": "41",
+    "passed": "40",
+    "grades": {
+      "12": 7,
+      "10": 11,
+      "7": 13,
+      "4": 9,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK15010E-Winter-2022-B1": {
+    "title": "Kvantitative metoder",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "20",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "12": 0,
+      "10": 9,
+      "7": 8,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK15010E-Winter-2021-B1": {
+    "title": "Kvantitative metoder",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "34",
+    "attended": "32",
+    "passed": "32",
+    "grades": {
+      "12": 3,
+      "10": 6,
+      "7": 20,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEK23004E-Winter-2025-B1": {
+    "title": "Lifecourse Nutrition and Health",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK23004E-Winter-2025-B2": {
+    "title": "Lifecourse Nutrition and Health",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "57",
+    "attended": "48",
+    "passed": "45",
+    "grades": {
+      "12": 12,
+      "10": 9,
+      "7": 11,
+      "4": 11,
+      "02": 2,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 4,
+      "Ikke bestået": 5
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "5",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 2,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEK23004E-Winter-2024-B2": {
+    "title": "Lifecourse Nutrition and Health",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "47",
+    "attended": "45",
+    "passed": "41",
+    "grades": {
+      "12": 3,
+      "10": 11,
+      "7": 13,
+      "4": 9,
+      "02": 5,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK23004E-Winter-2023-B2": {
+    "title": "Lifecourse Nutrition and Health",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "48",
+    "attended": "41",
+    "passed": "38",
+    "grades": {
+      "12": 9,
+      "10": 11,
+      "7": 12,
+      "4": 5,
+      "02": 1,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 4,
+      "Ikke bestået": 3
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEB18005E-Winter-2025-B2": {
+    "title": "Læring i idræt",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "114",
+    "attended": "111",
+    "passed": "109",
+    "grades": {
+      "12": 5,
+      "10": 38,
+      "7": 42,
+      "4": 21,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NNEB18005E-Winter-2024-B2": {
+    "title": "Læring i idræt",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "123",
+    "attended": "115",
+    "passed": "113",
+    "grades": {
+      "12": 10,
+      "10": 20,
+      "7": 41,
+      "4": 29,
+      "02": 13,
+      "00": 2,
+      "-3": 0,
+      "Ikke bestået": 8
+    },
+    "reexam": false
+  },
+  "NNEB18005E-Winter-2023-B2": {
+    "title": "Læring i idræt",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "125",
+    "attended": "118",
+    "passed": "109",
+    "grades": {
+      "12": 14,
+      "10": 23,
+      "7": 38,
+      "4": 24,
+      "02": 10,
+      "00": 9,
+      "-3": 0,
+      "Ej mødt": 5,
+      "Ikke bestået": 2
+    },
+    "reexam": true,
+    "registered_reexam": "13",
+    "attended_reexam": "12",
+    "passed_reexam": "10",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 3,
+      "4": 4,
+      "02": 2,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB18005E-Winter-2022-B2": {
+    "title": "Læring i idræt",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "121",
+    "attended": "115",
+    "passed": "108",
+    "grades": {
+      "12": 10,
+      "10": 27,
+      "7": 30,
+      "4": 26,
+      "02": 15,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 5,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "6",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 2,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB18005E-Winter-2021-B2": {
+    "title": "Læring i idræt",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "130",
+    "attended": "125",
+    "passed": "123",
+    "grades": {
+      "12": 30,
+      "10": 21,
+      "7": 38,
+      "4": 22,
+      "02": 12,
+      "00": 2,
+      "-3": 0,
+      "Ikke bestået": 5
+    },
+    "reexam": false
+  },
+  "NIDA04047E-Summer-2021-B3": {
+    "title": "Metabolisme og aerob træning",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "39",
+    "passed": "39",
+    "grades": {
+      "12": 31,
+      "10": 6,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK22001E-Summer-2025-B4": {
+    "title": "Metabolomics",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "29",
+    "attended": "29",
+    "passed": "28",
+    "grades": {
+      "12": 7,
+      "10": 12,
+      "7": 7,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK22001E-Summer-2024-B4": {
+    "title": "Metabolomics",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "22",
+    "passed": "22",
+    "grades": {
+      "12": 6,
+      "10": 3,
+      "7": 9,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK22001E-Summer-2023-B4": {
+    "title": "Metabolomics",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "22",
+    "attended": "19",
+    "passed": "19",
+    "grades": {
+      "12": 3,
+      "10": 8,
+      "7": 4,
+      "4": 3,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "Histogram-NNEM21000E-Winter-2022": {
+    "title": "Modul 1: Idræt som sundhedsfremme",
+    "term": "v22",
+    "ects": "15",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "12": 0,
+      "10": 6,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "Histogram-NNEM21001E-Summer-2023": {
+    "title": "Modul 2: Idræt, velfærd og politik",
+    "term": "s23",
+    "ects": "15",
+    "exam": true,
+    "registered": "9",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 1,
+      "10": 1,
+      "7": 4,
+      "4": 0,
+      "02": 3,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "Histogram-NNEM15008E-Summer-2021": {
+    "title": "Modul 4: Projektstyring og projektledelse",
+    "term": "s21",
+    "ects": "5",
+    "exam": true,
+    "registered": "8",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "12": 0,
+      "10": 5,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEM15009E-Summer-2024-B3": {
+    "title": "Modul 5: Masterprojekt",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 2,
+      "10": 3,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "Histogram-NNEM15009E-Summer-2021": {
+    "title": "Modul 5: Masterprojekt",
+    "term": "s21",
+    "ects": "15",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "6",
+    "grades": {
+      "12": 3,
+      "10": 2,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK16002E-Winter-2021-B1": {
+    "title": "Monitoring and Evaluation of Interventions in Sport, Exercise and Health",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEB19007E-Summer-2025-B4": {
+    "title": "Motion som forebyggelse og behandling",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "88",
+    "attended": "83",
+    "passed": "77",
+    "grades": {
+      "12": 5,
+      "10": 22,
+      "7": 27,
+      "4": 18,
+      "02": 5,
+      "00": 5,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB19007E-Summer-2024-B3": {
+    "title": "Motion som forebyggelse og behandling",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "47",
+    "attended": "45",
+    "passed": "44",
+    "grades": {
+      "12": 2,
+      "10": 13,
+      "7": 18,
+      "4": 7,
+      "02": 4,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB19007E-Summer-2023-B3": {
+    "title": "Motion som forebyggelse og behandling",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "49",
+    "attended": "47",
+    "passed": "46",
+    "grades": {
+      "12": 6,
+      "10": 13,
+      "7": 18,
+      "4": 7,
+      "02": 2,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB19007E-Summer-2022-B3": {
+    "title": "Motion som forebyggelse og behandling",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "56",
+    "attended": "54",
+    "passed": "49",
+    "grades": {
+      "12": 4,
+      "10": 17,
+      "7": 10,
+      "4": 16,
+      "02": 2,
+      "00": 4,
+      "-3": 1,
+      "Ej mødt": 2
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "7",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 1,
+      "10": 3,
+      "7": 0,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEB19007E-Summer-2021-B3": {
+    "title": "Motion som forebyggelse og behandling",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "63",
+    "attended": "63",
+    "passed": "62",
+    "grades": {
+      "12": 7,
+      "10": 24,
+      "7": 25,
+      "4": 6,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NNEB14017E-Summer-2025-B4": {
+    "title": "Motorisk udvikling og indlæring",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "32",
+    "passed": "32",
+    "grades": {
+      "12": 8,
+      "10": 6,
+      "7": 10,
+      "4": 5,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEB14017E-Summer-2024-B4": {
+    "title": "Motorisk udvikling og indlæring",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "51",
+    "attended": "47",
+    "passed": "46",
+    "grades": {
+      "12": 8,
+      "10": 14,
+      "7": 17,
+      "4": 4,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NNEB14017E-Summer-2023-B4": {
+    "title": "Motorisk udvikling og indlæring",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "37",
+    "passed": "37",
+    "grades": {
+      "12": 5,
+      "10": 15,
+      "7": 12,
+      "4": 4,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB14017E-Summer-2022-B4": {
+    "title": "Motorisk udvikling og indlæring",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "32",
+    "attended": "28",
+    "passed": "28",
+    "grades": {
+      "12": 5,
+      "10": 12,
+      "7": 7,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 3
+    },
+    "reexam": false
+  },
+  "NNEB14017E-Summer-2021-B4": {
+    "title": "Motorisk udvikling og indlæring",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "44",
+    "attended": "37",
+    "passed": "37",
+    "grades": {
+      "12": 5,
+      "10": 13,
+      "7": 12,
+      "4": 6,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 5,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEAIS050E-Winter-2025-B1": {
+    "title": "MSc Research Project",
+    "term": "v25/B1",
+    "ects": "30",
+    "exam": false
+  },
+  "NNEAIS050E-Summer-2024-B3": {
+    "title": "MSc Research Project",
+    "term": "s24/B3",
+    "ects": "30",
+    "exam": false
+  },
+  "NNEK21005E-Winter-2022-B2": {
+    "title": "Neurobiologiens grundlag for bevægelse, kognition og læring",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK21005E-Summer-2022-B3": {
+    "title": "Neurobiologiens grundlag for bevægelse, kognition og læring",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "14",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 5,
+      "10": 5,
+      "7": 2,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NIDA06003E-Summer-2021-B4": {
+    "title": "Neuroplasticitet",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 4,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK20001E-Summer-2023-B4": {
+    "title": "Nutrition and Physical Activity for Healthy Ageing",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "19",
+    "passed": "19",
+    "grades": {
+      "12": 3,
+      "10": 6,
+      "7": 6,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK20001E-Summer-2021-B4": {
+    "title": "Nutrition and Physical Activity for Healthy Ageing",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 6,
+      "10": 0,
+      "7": 2,
+      "4": 2,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "LLEK10264E-Summer-2023-B5": {
+    "title": "Nutrition Physiology",
+    "term": "s23/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "LLEK10264E-Winter-2022-B1": {
+    "title": "Nutrition Physiology",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "59",
+    "attended": "57",
+    "passed": "48",
+    "grades": {
+      "12": 1,
+      "10": 6,
+      "7": 15,
+      "4": 11,
+      "02": 15,
+      "00": 9,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": true,
+    "registered_reexam": "9",
+    "attended_reexam": "8",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 2,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 4,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "LLEK10264E-Winter-2021-B1": {
+    "title": "Nutrition Physiology",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "81",
+    "attended": "77",
+    "passed": "63",
+    "grades": {
+      "12": 0,
+      "10": 5,
+      "7": 25,
+      "4": 19,
+      "02": 14,
+      "00": 14,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": true,
+    "registered_reexam": "16",
+    "attended_reexam": "15",
+    "passed_reexam": "11",
+    "grades_reexam": {
+      "12": 1,
+      "10": 0,
+      "7": 1,
+      "4": 3,
+      "02": 6,
+      "00": 4,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEK24016E-Winter-2025-B2": {
+    "title": "Nutrition Related Diseases",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK24016E-Summer-2025-B3": {
+    "title": "Nutrition Related Diseases",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "54",
+    "attended": "52",
+    "passed": "46",
+    "grades": {
+      "12": 2,
+      "10": 9,
+      "7": 25,
+      "4": 7,
+      "02": 3,
+      "00": 5,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "LLEK10263E-Winter-2022-B2": {
+    "title": "Nutrition Related Diseases",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "35",
+    "passed": "35",
+    "grades": {
+      "12": 3,
+      "10": 8,
+      "7": 11,
+      "4": 12,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "LLEK10263E-Summer-2022-B3": {
+    "title": "Nutrition Related Diseases",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "LLEK10263E-Winter-2021-B2": {
+    "title": "Nutrition Related Diseases",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "56",
+    "attended": "52",
+    "passed": "51",
+    "grades": {
+      "12": 3,
+      "10": 19,
+      "7": 19,
+      "4": 9,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NNEK25002E-Summer-2026-B3": {
+    "title": "Nutrition, Health, Diseases and Evidence",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "38",
+    "attended": "34",
+    "passed": "31",
+    "grades": {
+      "12": 2,
+      "10": 8,
+      "7": 11,
+      "4": 8,
+      "02": 2,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NNEK21002E-Summer-2023-B4": {
+    "title": "Nutrition, Public Health & Project Planning",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "18",
+    "attended": "18",
+    "passed": "17",
+    "grades": {
+      "12": 3,
+      "10": 8,
+      "7": 2,
+      "4": 3,
+      "02": 1,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK21002E-Summer-2022-B4": {
+    "title": "Nutrition, Public Health & Project Planning",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "21",
+    "passed": "20",
+    "grades": {
+      "12": 4,
+      "10": 6,
+      "7": 3,
+      "4": 5,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK24005E-Summer-2025-B3": {
+    "title": "Physical Activity and Health - Brain and Cardiovascular System",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "21",
+    "passed": "21",
+    "grades": {
+      "12": 9,
+      "10": 4,
+      "7": 7,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK24006E-Summer-2025-B4": {
+    "title": "Physical Activity and Metabolic Health",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "34",
+    "attended": "34",
+    "passed": "33",
+    "grades": {
+      "12": 11,
+      "10": 19,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej bedømt": 1
+    },
+    "reexam": false
+  },
+  "NNEK20002E-Winter-2022-B1": {
+    "title": "Planlægning af videnskabelige kliniske projekter",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "19",
+    "attended": "19",
+    "passed": "19",
+    "grades": {
+      "12": 1,
+      "10": 8,
+      "7": 9,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK20002E-Winter-2021-B1": {
+    "title": "Planlægning af videnskabelige kliniske projekter",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 0,
+      "10": 7,
+      "7": 3,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK24015E-Winter-2025-B1": {
+    "title": "Project Evaluations in Sport and Health",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 0,
+      "10": 2,
+      "7": 4,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK24015E-Winter-2024-B2": {
+    "title": "Project Evaluations in Sport and Health",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "9",
+    "passed": "9",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 3,
+      "4": 0,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK20008E-Winter-2024-B1": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK20008E-Winter-2024-B2": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "v24/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK20008E-Winter-2023-B1": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "18",
+    "attended": "17",
+    "passed": "17",
+    "grades": {
+      "12": 8,
+      "10": 8,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK20008E-Winter-2023-B2": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "v23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK20008E-Winter-2023-B5": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "v23/B5",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK20008E-Summer-2023-B3": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK20008E-Summer-2023-B4": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "s23/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 3,
+      "10": 1,
+      "7": 0,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK20008E-Winter-2022-B1": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "19",
+    "attended": "15",
+    "passed": "15",
+    "grades": {
+      "12": 4,
+      "10": 7,
+      "7": 4,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK20008E-Winter-2022-B2": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "v22/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK20008E-Summer-2022-B3": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 1,
+      "10": 0,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK20008E-Summer-2022-B4": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "s22/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "6",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 1,
+      "10": 2,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEK20008E-Winter-2021-B1": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "15",
+    "attended": "15",
+    "passed": "14",
+    "grades": {
+      "12": 4,
+      "10": 3,
+      "7": 4,
+      "4": 3,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK20008E-Summer-2021-B3": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK20008E-Summer-2021-B4": {
+    "title": "Project in Practice in Human Nutrition",
+    "term": "s21/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK20500E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "10",
+    "exam": false
+  },
+  "NNEK20500E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "10",
+    "exam": false
+  },
+  "NNEK20500E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "10",
+    "exam": false
+  },
+  "NNEK20500E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "10",
+    "exam": false
+  },
+  "NNEK14504E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK23500E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "Histogram-NIDB18500E-Winter-2026": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v26",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Summer-2026-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "28",
+    "attended": "28",
+    "passed": "27",
+    "grades": {
+      "12": 3,
+      "10": 17,
+      "7": 6,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej bedømt": 1
+    },
+    "reexam": false
+  },
+  "NIDB18500E-Winter-2025-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Summer-2025-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "15",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 1,
+      "10": 1,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDB18500E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 3,
+      "10": 3,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDB18500E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDB18500E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "10",
+    "attended": "10",
+    "passed": "10",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 5,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDB18500E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "15",
+    "attended": "13",
+    "passed": "12",
+    "grades": {
+      "12": 3,
+      "10": 7,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NIDB18500E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "4",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NIDB18500E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Summer-2022-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B5",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB18500E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "13",
+    "attended": "13",
+    "passed": "12",
+    "grades": {
+      "12": 2,
+      "10": 6,
+      "7": 3,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NIDB18500E-Winter-2021-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B5",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13507E-Summer-2026-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13507E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 3,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13507E-Winter-2025-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13507E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13507E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13507E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13507E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13507E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13507E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13507E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 3,
+      "10": 2,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13507E-Summer-2021-B5": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Summer-2026-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "7",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 0,
+      "10": 4,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NIDK13532E-Winter-2025-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "3",
+    "grades": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej bedømt": 1
+    },
+    "reexam": false
+  },
+  "NIDK13532E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 0,
+      "10": 3,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13532E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "11",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 5,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13532E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13532E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13532E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 1,
+      "10": 1,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13532E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 1,
+      "10": 0,
+      "7": 3,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13532E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13532E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13534E-Summer-2026-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s26/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13534E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "6",
+    "attended": "6",
+    "passed": "6",
+    "grades": {
+      "12": 4,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13534E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "12",
+    "grades": {
+      "12": 6,
+      "10": 6,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13534E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 3,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13534E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13534E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "15",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13534E-Summer-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13534E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 2,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13534E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13534E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13534E-Summer-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13534E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 0,
+      "10": 3,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13534E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13534E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 4,
+      "10": 1,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13534E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13534E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13534E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 3,
+      "10": 1,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13534E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB13502E-Winter-2025-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 0,
+      "10": 3,
+      "7": 2,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDB13502E-Winter-2025-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Summer-2025-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13502E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDK13509E-Summer-2025-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13509E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13509E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13509E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13509E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13509E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB13501E-Winter-2024-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B2",
+    "ects": "5",
+    "exam": false
+  },
+  "NIDB14507E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB14507E-Winter-2023-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB14507E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB14507E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB14507E-Winter-2021-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB14507E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB14508E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB16500E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "10",
+    "exam": false
+  },
+  "NIDK13530E-Winter-2024-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v24/B1",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NIDK13530E-Winter-2022-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B2",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NIDK13530E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NIDK13530E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NIDK13530E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NIDB13500E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NIDB13500E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "2,5",
+    "exam": false
+  },
+  "NIDK13502E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13502E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13508E-Summer-2024-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13508E-Summer-2021-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13533E-Summer-2024-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13533E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13533E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13533E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB14509E-Winter-2023-B2": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDB14509E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13531E-Summer-2023-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B4",
+    "ects": "5",
+    "exam": false
+  },
+  "NIDK13531E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "5",
+    "exam": false
+  },
+  "NNEB14504E-Summer-2023-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13529E-Winter-2022-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13529E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13529E-Summer-2021-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13504E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13504E-Summer-2022-B4": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NIDK13522E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDK13527E-Summer-2022-B3": {
+    "title": "Projekt uden for kursusregi",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDB13503E-Winter-2021-B1": {
+    "title": "Projekt uden for kursusregi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK23010E-Summer-2024-B4": {
+    "title": "Præstationsoptimering i eliteidræt",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 0,
+      "10": 11,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEK20000E-Winter-2023-B2": {
+    "title": "Psychology of Competitive Sports",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "9",
+    "attended": "8",
+    "passed": "8",
+    "grades": {
+      "12": 1,
+      "10": 2,
+      "7": 4,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK20000E-Winter-2022-B2": {
+    "title": "Psychology of Competitive Sports",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "11",
+    "grades": {
+      "12": 1,
+      "10": 2,
+      "7": 5,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "LLEK10298E-Summer-2021-B4": {
+    "title": "Public Health and Nutrition",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "6",
+    "passed": "5",
+    "grades": {
+      "12": 0,
+      "10": 3,
+      "7": 0,
+      "4": 1,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0
+    }
+  },
+  "NNEK24001E-Winter-2025-B1": {
+    "title": "Public Health Nutrition: National and International Perspectives",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "13",
+    "passed": "13",
+    "grades": {
+      "12": 6,
+      "10": 2,
+      "7": 3,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK24001E-Winter-2024-B1": {
+    "title": "Public Health Nutrition: National and International Perspectives",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "18",
+    "attended": "18",
+    "passed": "18",
+    "grades": {
+      "12": 4,
+      "10": 5,
+      "7": 3,
+      "4": 2,
+      "02": 4,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB18003E-Summer-2025-B3": {
+    "title": "Redskabsgymnastik og motoriske færdigheder",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "120",
+    "attended": "105",
+    "passed": "102",
+    "grades": {
+      "12": 8,
+      "10": 55,
+      "7": 33,
+      "4": 6,
+      "02": 0,
+      "00": 3,
+      "-3": 0,
+      "Ikke bestået": 15
+    },
+    "reexam": true,
+    "registered_reexam": "9",
+    "attended_reexam": "7",
+    "passed_reexam": "7",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 4,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNEB18003E-Summer-2024-B3": {
+    "title": "Redskabsgymnastik og motoriske færdigheder",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "125",
+    "attended": "112",
+    "passed": "107",
+    "grades": {
+      "12": 9,
+      "10": 35,
+      "7": 43,
+      "4": 18,
+      "02": 2,
+      "00": 5,
+      "-3": 0,
+      "Ikke bestået": 13
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "3",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 1,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB18003E-Summer-2023-B3": {
+    "title": "Redskabsgymnastik og motoriske færdigheder",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "114",
+    "attended": "104",
+    "passed": "95",
+    "grades": {
+      "12": 10,
+      "10": 27,
+      "7": 25,
+      "4": 28,
+      "02": 5,
+      "00": 9,
+      "-3": 0,
+      "Ej mødt": 2,
+      "Ikke bestået": 8
+    },
+    "reexam": true,
+    "registered_reexam": "15",
+    "attended_reexam": "12",
+    "passed_reexam": "10",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 2,
+      "4": 4,
+      "02": 2,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 2
+    }
+  },
+  "NNEB18003E-Summer-2022-B3": {
+    "title": "Redskabsgymnastik og motoriske færdigheder",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "121",
+    "attended": "106",
+    "passed": "98",
+    "grades": {
+      "12": 20,
+      "10": 43,
+      "7": 27,
+      "4": 8,
+      "02": 0,
+      "00": 8,
+      "-3": 0,
+      "Ikke bestået": 15
+    },
+    "reexam": true,
+    "registered_reexam": "9",
+    "attended_reexam": "8",
+    "passed_reexam": "8",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 1,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEB18003E-Summer-2021-B3": {
+    "title": "Redskabsgymnastik og motoriske færdigheder",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "114",
+    "attended": "94",
+    "passed": "91",
+    "grades": {
+      "12": 19,
+      "10": 35,
+      "7": 25,
+      "4": 11,
+      "02": 1,
+      "00": 3,
+      "-3": 0,
+      "Ej mødt": 4,
+      "Ikke bestået": 16
+    },
+    "reexam": false
+  },
+  "NNEB18003E-Summer-2021-B5": {
+    "title": "Redskabsgymnastik og motoriske færdigheder",
+    "term": "s21/B5",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK15002E-Summer-2024-B4": {
+    "title": "Selvvalgt projektmodul - anvendt idrætsanalyse",
+    "term": "s24/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "36",
+    "attended": "35",
+    "passed": "35",
+    "grades": {
+      "12": 5,
+      "10": 21,
+      "7": 9,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK15002E-Summer-2023-B4": {
+    "title": "Selvvalgt projektmodul - anvendt idrætsanalyse",
+    "term": "s23/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "22",
+    "attended": "21",
+    "passed": "21",
+    "grades": {
+      "12": 4,
+      "10": 6,
+      "7": 7,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK15002E-Summer-2022-B4": {
+    "title": "Selvvalgt projektmodul - anvendt idrætsanalyse",
+    "term": "s22/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "28",
+    "attended": "27",
+    "passed": "27",
+    "grades": {
+      "12": 3,
+      "10": 18,
+      "7": 3,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK15002E-Summer-2021-B4": {
+    "title": "Selvvalgt projektmodul - anvendt idrætsanalyse",
+    "term": "s21/B4",
+    "ects": "15",
+    "exam": true,
+    "registered": "24",
+    "attended": "24",
+    "passed": "24",
+    "grades": {
+      "12": 3,
+      "10": 10,
+      "7": 6,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB20000E-Winter-2025-B1": {
+    "title": "Sport Psychology and Identity",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "47",
+    "attended": "43",
+    "passed": "43",
+    "grades": {
+      "12": 3,
+      "10": 15,
+      "7": 12,
+      "4": 11,
+      "02": 2,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": false
+  },
+  "NNEB20000E-Summer-2025-B3": {
+    "title": "Sport Psychology and Identity",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "111",
+    "attended": "109",
+    "passed": "109",
+    "grades": {
+      "12": 14,
+      "10": 45,
+      "7": 41,
+      "4": 9,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB20000E-Summer-2024-B3": {
+    "title": "Sport Psychology and Identity",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "54",
+    "attended": "53",
+    "passed": "53",
+    "grades": {
+      "12": 8,
+      "10": 18,
+      "7": 20,
+      "4": 4,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEB20000E-Summer-2023-B3": {
+    "title": "Sport Psychology and Identity",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "63",
+    "attended": "60",
+    "passed": "60",
+    "grades": {
+      "12": 6,
+      "10": 10,
+      "7": 28,
+      "4": 12,
+      "02": 4,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEB20000E-Summer-2022-B3": {
+    "title": "Sport Psychology and Identity",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "43",
+    "attended": "43",
+    "passed": "43",
+    "grades": {
+      "12": 10,
+      "10": 5,
+      "7": 23,
+      "4": 4,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB20000E-Summer-2021-B3": {
+    "title": "Sport Psychology and Identity",
+    "term": "s21/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "49",
+    "attended": "49",
+    "passed": "45",
+    "grades": {
+      "12": 5,
+      "10": 11,
+      "7": 19,
+      "4": 8,
+      "02": 2,
+      "00": 4,
+      "-3": 0
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEB22003E-Winter-2025-B1": {
+    "title": "Sportsernæring",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "88",
+    "attended": "85",
+    "passed": "81",
+    "grades": {
+      "Bestået": 81,
+      "Ikke bestået": 4,
+      "Ej mødt": 3
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "5",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "Bestået": 5,
+      "Ikke bestået": 0
+    }
+  },
+  "NNEB22003E-Winter-2024-B1": {
+    "title": "Sportsernæring",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "97",
+    "attended": "95",
+    "passed": "65",
+    "grades": {
+      "Bestået": 65,
+      "Ikke bestået": 30,
+      "Ej mødt": 2
+    },
+    "reexam": true,
+    "registered_reexam": "22",
+    "attended_reexam": "20",
+    "passed_reexam": "20",
+    "grades_reexam": {
+      "Bestået": 20,
+      "Ikke bestået": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNEB22003E-Winter-2023-B1": {
+    "title": "Sportsernæring",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "70",
+    "attended": "68",
+    "passed": "67",
+    "grades": {
+      "Bestået": 67,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEB22003E-Winter-2022-B1": {
+    "title": "Sportsernæring",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "50",
+    "attended": "49",
+    "passed": "45",
+    "grades": {
+      "Bestået": 45,
+      "Ikke bestået": 4,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK24008E-Summer-2025-B4": {
+    "title": "Strength Training and Motor Control",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "29",
+    "attended": "27",
+    "passed": "26",
+    "grades": {
+      "12": 11,
+      "10": 8,
+      "7": 6,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEK23006E-Summer-2025-B4": {
+    "title": "Study Design in Human Nutrition",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "42",
+    "attended": "39",
+    "passed": "39",
+    "grades": {
+      "12": 7,
+      "10": 15,
+      "7": 10,
+      "4": 7,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEK23006E-Summer-2024-B4": {
+    "title": "Study Design in Human Nutrition",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "33",
+    "attended": "33",
+    "passed": "32",
+    "grades": {
+      "12": 6,
+      "10": 12,
+      "7": 9,
+      "4": 3,
+      "02": 2,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDB12001E-Winter-2025-B2": {
+    "title": "Styrketræning",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "73",
+    "attended": "68",
+    "passed": "67",
+    "grades": {
+      "12": 9,
+      "10": 19,
+      "7": 23,
+      "4": 16,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 5
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 3,
+      "4": 0,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NIDB12001E-Winter-2024-B2": {
+    "title": "Styrketræning",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "67",
+    "attended": "63",
+    "passed": "57",
+    "grades": {
+      "12": 3,
+      "10": 9,
+      "7": 21,
+      "4": 15,
+      "02": 9,
+      "00": 6,
+      "-3": 0,
+      "Ej mødt": 4
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "6",
+    "passed_reexam": "6",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 2,
+      "4": 4,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NIDB12001E-Winter-2023-B2": {
+    "title": "Styrketræning",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "51",
+    "attended": "51",
+    "passed": "51",
+    "grades": {
+      "12": 8,
+      "10": 13,
+      "7": 15,
+      "4": 13,
+      "02": 2,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDB12001E-Winter-2022-B2": {
+    "title": "Styrketræning",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "43",
+    "attended": "40",
+    "passed": "37",
+    "grades": {
+      "12": 8,
+      "10": 8,
+      "7": 12,
+      "4": 5,
+      "02": 4,
+      "00": 1,
+      "-3": 2,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NIDB12001E-Winter-2021-B2": {
+    "title": "Styrketræning",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "66",
+    "attended": "65",
+    "passed": "60",
+    "grades": {
+      "12": 6,
+      "10": 27,
+      "7": 16,
+      "4": 8,
+      "02": 3,
+      "00": 1,
+      "-3": 4,
+      "Ej mødt": 1
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 3,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    }
+  },
+  "NNEK22008E-Summer-2024-B4": {
+    "title": "Styrketræning og motorisk kontrol",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "13",
+    "attended": "12",
+    "passed": "11",
+    "grades": {
+      "12": 3,
+      "10": 6,
+      "7": 1,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK22008E-Summer-2023-B4": {
+    "title": "Styrketræning og motorisk kontrol",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "22",
+    "attended": "21",
+    "passed": "20",
+    "grades": {
+      "12": 9,
+      "10": 7,
+      "7": 4,
+      "4": 0,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEB21006E-Summer-2026-B3": {
+    "title": "Sundhed, ernæring og livskvalitet",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "47",
+    "attended": "41",
+    "passed": "39",
+    "grades": {
+      "12": 4,
+      "10": 8,
+      "7": 13,
+      "4": 10,
+      "02": 4,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 6
+    },
+    "reexam": false
+  },
+  "NNEB21006E-Summer-2025-B3": {
+    "title": "Sundhed, ernæring og livskvalitet",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "22",
+    "attended": "20",
+    "passed": "19",
+    "grades": {
+      "12": 4,
+      "10": 8,
+      "7": 5,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB21006E-Summer-2024-B3": {
+    "title": "Sundhed, ernæring og livskvalitet",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "17",
+    "attended": "17",
+    "passed": "15",
+    "grades": {
+      "12": 5,
+      "10": 7,
+      "7": 1,
+      "4": 2,
+      "02": 0,
+      "00": 2,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB21006E-Summer-2023-B3": {
+    "title": "Sundhed, ernæring og livskvalitet",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "20",
+    "passed": "20",
+    "grades": {
+      "12": 2,
+      "10": 10,
+      "7": 5,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NNEB21006E-Summer-2022-B3": {
+    "title": "Sundhed, ernæring og livskvalitet",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "28",
+    "attended": "27",
+    "passed": "26",
+    "grades": {
+      "12": 4,
+      "10": 10,
+      "7": 8,
+      "4": 2,
+      "02": 2,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEB21007E-Summer-2022-B4": {
+    "title": "Sundhed, ernæring og livskvalitet B",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NNEK14012E-Winter-2023-B2": {
+    "title": "Sundhedssociologi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "12",
+    "attended": "12",
+    "passed": "10",
+    "grades": {
+      "12": 0,
+      "10": 5,
+      "7": 3,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 2
+    },
+    "reexam": false
+  },
+  "NNEK20003E-Summer-2025-B4": {
+    "title": "Sustainable Food Systems and Diets",
+    "term": "s25/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "46",
+    "attended": "44",
+    "passed": "42",
+    "grades": {
+      "12": 7,
+      "10": 20,
+      "7": 13,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej bedømt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEK20003E-Summer-2024-B4": {
+    "title": "Sustainable Food Systems and Diets",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "51",
+    "attended": "50",
+    "passed": "44",
+    "grades": {
+      "12": 0,
+      "10": 15,
+      "7": 14,
+      "4": 9,
+      "02": 6,
+      "00": 0,
+      "-3": 6,
+      "Ikke bestået": 1
+    },
+    "reexam": true,
+    "registered_reexam": "6",
+    "attended_reexam": "6",
+    "passed_reexam": "5",
+    "grades_reexam": {
+      "12": 0,
+      "10": 2,
+      "7": 1,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 1
+    }
+  },
+  "NNEK20003E-Summer-2023-B4": {
+    "title": "Sustainable Food Systems and Diets",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "46",
+    "attended": "44",
+    "passed": "43",
+    "grades": {
+      "12": 3,
+      "10": 10,
+      "7": 25,
+      "4": 4,
+      "02": 1,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK20003E-Summer-2022-B4": {
+    "title": "Sustainable Food Systems and Diets",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "48",
+    "attended": "45",
+    "passed": "44",
+    "grades": {
+      "12": 5,
+      "10": 13,
+      "7": 16,
+      "4": 8,
+      "02": 2,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 1,
+      "Ikke bestået": 2
+    },
+    "reexam": false
+  },
+  "NNEK20003E-Summer-2021-B4": {
+    "title": "Sustainable Food Systems and Diets",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "35",
+    "attended": "34",
+    "passed": "34",
+    "grades": {
+      "12": 0,
+      "10": 11,
+      "7": 23,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "LLEK10200E-Winter-2022-B2": {
+    "title": "Sygdomslære, ernæringsfysiologi ved sygdom og ernæringsterapi",
+    "term": "v22/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "LLEK10200E-Summer-2022-B3": {
+    "title": "Sygdomslære, ernæringsfysiologi ved sygdom og ernæringsterapi",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "21",
+    "attended": "20",
+    "passed": "18",
+    "grades": {
+      "12": 0,
+      "10": 6,
+      "7": 6,
+      "4": 5,
+      "02": 1,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "LLEK10200E-Summer-2021-B3": {
+    "title": "Sygdomslære, ernæringsfysiologi ved sygdom og ernæringsterapi",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "12",
+    "attended": "11",
+    "passed": "11",
+    "grades": {
+      "12": 1,
+      "10": 1,
+      "7": 6,
+      "4": 0,
+      "02": 3,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK24012E-Winter-2025-B1": {
+    "title": "Teori 1: Bevægelse, kultur og uddannelse",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "34",
+    "passed": "34",
+    "grades": {
+      "12": 1,
+      "10": 10,
+      "7": 13,
+      "4": 9,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK24012E-Winter-2024-B1": {
+    "title": "Teori 1: Bevægelse, kultur og uddannelse",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "56",
+    "attended": "56",
+    "passed": "54",
+    "grades": {
+      "12": 4,
+      "10": 9,
+      "7": 22,
+      "4": 17,
+      "02": 2,
+      "00": 0,
+      "-3": 2
+    },
+    "reexam": false
+  },
+  "NNEK20005E-Winter-2023-B1": {
+    "title": "Teori 1: Idrætspædagogik og -psykologi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "49",
+    "attended": "48",
+    "passed": "46",
+    "grades": {
+      "12": 2,
+      "10": 8,
+      "7": 19,
+      "4": 11,
+      "02": 6,
+      "00": 1,
+      "-3": 1,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK20005E-Winter-2022-B1": {
+    "title": "Teori 1: Idrætspædagogik og -psykologi",
+    "term": "v22/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "24",
+    "attended": "24",
+    "passed": "23",
+    "grades": {
+      "12": 2,
+      "10": 12,
+      "7": 4,
+      "4": 5,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NNEK20005E-Winter-2021-B1": {
+    "title": "Teori 1: Idrætspædagogik og -psykologi",
+    "term": "v21/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "47",
+    "attended": "42",
+    "passed": "38",
+    "grades": {
+      "12": 2,
+      "10": 5,
+      "7": 11,
+      "4": 17,
+      "02": 3,
+      "00": 1,
+      "-3": 3,
+      "Ej mødt": 3,
+      "Ikke bestået": 2
+    },
+    "reexam": true,
+    "registered_reexam": "5",
+    "attended_reexam": "4",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 0,
+      "7": 1,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    }
+  },
+  "NNEK24013E-Winter-2025-B2": {
+    "title": "Teori 2: Idræt, politik og velfærd",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "33",
+    "attended": "32",
+    "passed": "32",
+    "grades": {
+      "12": 6,
+      "10": 13,
+      "7": 10,
+      "4": 2,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK24013E-Winter-2024-B2": {
+    "title": "Teori 2: Idræt, politik og velfærd",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "57",
+    "attended": "57",
+    "passed": "54",
+    "grades": {
+      "12": 12,
+      "10": 16,
+      "7": 20,
+      "4": 4,
+      "02": 2,
+      "00": 0,
+      "-3": 3
+    },
+    "reexam": false
+  },
+  "NNEK20006E-Winter-2023-B2": {
+    "title": "Teori 2: Idrætssociologi og -politik",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "51",
+    "attended": "49",
+    "passed": "48",
+    "grades": {
+      "12": 1,
+      "10": 13,
+      "7": 23,
+      "4": 9,
+      "02": 2,
+      "00": 0,
+      "-3": 1,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEK20006E-Winter-2022-B2": {
+    "title": "Teori 2: Idrætssociologi og -politik",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "23",
+    "attended": "23",
+    "passed": "22",
+    "grades": {
+      "12": 2,
+      "10": 3,
+      "7": 11,
+      "4": 6,
+      "02": 0,
+      "00": 0,
+      "-3": 1
+    },
+    "reexam": false
+  },
+  "NNEK20006E-Winter-2021-B2": {
+    "title": "Teori 2: Idrætssociologi og -politik",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "40",
+    "attended": "37",
+    "passed": "37",
+    "grades": {
+      "12": 2,
+      "10": 9,
+      "7": 18,
+      "4": 7,
+      "02": 1,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NNEK24002E-Winter-2025-B2": {
+    "title": "The Scandinavian Sport Model - Past, Present and Future",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "22",
+    "attended": "22",
+    "passed": "22",
+    "grades": {
+      "12": 1,
+      "10": 6,
+      "7": 13,
+      "4": 2,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK24002E-Summer-2024-B5": {
+    "title": "The Scandinavian Sport Model - Past, Present and Future",
+    "term": "s24/B5",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "8",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 0,
+      "10": 4,
+      "7": 2,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEK23002E-Winter-2025-B1": {
+    "title": "Tools and Techniques in Nutrition Research",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "35",
+    "passed": "33",
+    "grades": {
+      "12": 7,
+      "10": 14,
+      "7": 6,
+      "4": 4,
+      "02": 2,
+      "00": 2,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NNEK23002E-Winter-2024-B1": {
+    "title": "Tools and Techniques in Nutrition Research",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "45",
+    "attended": "43",
+    "passed": "42",
+    "grades": {
+      "12": 13,
+      "10": 13,
+      "7": 12,
+      "4": 3,
+      "02": 1,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEK23002E-Winter-2023-B1": {
+    "title": "Tools and Techniques in Nutrition Research",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "43",
+    "attended": "42",
+    "passed": "35",
+    "grades": {
+      "12": 5,
+      "10": 5,
+      "7": 11,
+      "4": 8,
+      "02": 6,
+      "00": 7,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": true,
+    "registered_reexam": "7",
+    "attended_reexam": "5",
+    "passed_reexam": "4",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 2,
+      "02": 0,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    }
+  },
+  "NNEK20007E-Winter-2022-B2": {
+    "title": "Trial Methodology",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "34",
+    "attended": "34",
+    "passed": "33",
+    "grades": {
+      "12": 9,
+      "10": 9,
+      "7": 7,
+      "4": 7,
+      "02": 1,
+      "00": 1,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK20007E-Winter-2021-B2": {
+    "title": "Trial Methodology",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "29",
+    "attended": "27",
+    "passed": "26",
+    "grades": {
+      "12": 0,
+      "10": 6,
+      "7": 13,
+      "4": 4,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB23013E-Winter-2025-B1": {
+    "title": "Træningsfysiologi",
+    "term": "v25/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "63",
+    "attended": "61",
+    "passed": "61",
+    "grades": {
+      "12": 7,
+      "10": 18,
+      "7": 16,
+      "4": 11,
+      "02": 9,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NNEB23013E-Winter-2024-B1": {
+    "title": "Træningsfysiologi",
+    "term": "v24/B1",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "44",
+    "attended": "41",
+    "passed": "40",
+    "grades": {
+      "12": 3,
+      "10": 9,
+      "7": 16,
+      "4": 9,
+      "02": 3,
+      "00": 1,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NNEB23013E-Winter-2023-B2": {
+    "title": "Træningsfysiologi",
+    "term": "v23/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "54",
+    "attended": "54",
+    "passed": "54",
+    "grades": {
+      "12": 5,
+      "10": 15,
+      "7": 23,
+      "4": 10,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDA05016E-Winter-2023-B1": {
+    "title": "Træningsfysiologi",
+    "term": "v23/B1",
+    "ects": "7,5",
+    "exam": false
+  },
+  "NIDA05016E-Winter-2022-B2": {
+    "title": "Træningsfysiologi",
+    "term": "v22/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "39",
+    "attended": "36",
+    "passed": "36",
+    "grades": {
+      "12": 3,
+      "10": 11,
+      "7": 13,
+      "4": 3,
+      "02": 6,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NIDA05016E-Winter-2021-B2": {
+    "title": "Træningsfysiologi",
+    "term": "v21/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "60",
+    "attended": "60",
+    "passed": "55",
+    "grades": {
+      "12": 2,
+      "10": 8,
+      "7": 25,
+      "4": 16,
+      "02": 4,
+      "00": 4,
+      "-3": 1
+    },
+    "reexam": true,
+    "registered_reexam": "4",
+    "attended_reexam": "4",
+    "passed_reexam": "2",
+    "grades_reexam": {
+      "12": 0,
+      "10": 1,
+      "7": 1,
+      "4": 0,
+      "02": 0,
+      "00": 2,
+      "-3": 0
+    }
+  },
+  "NIDB11015E-Winter-2025-B2": {
+    "title": "Træningsplanlægning",
+    "term": "v25/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "62",
+    "attended": "60",
+    "passed": "60",
+    "grades": {
+      "12": 15,
+      "10": 19,
+      "7": 14,
+      "4": 12,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 2
+    },
+    "reexam": false
+  },
+  "NIDB11015E-Winter-2024-B2": {
+    "title": "Træningsplanlægning",
+    "term": "v24/B2",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "27",
+    "attended": "26",
+    "passed": "26",
+    "grades": {
+      "12": 0,
+      "10": 7,
+      "7": 3,
+      "4": 12,
+      "02": 4,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NIDB11015E-Summer-2024-B4": {
+    "title": "Træningsplanlægning",
+    "term": "s24/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "63",
+    "attended": "60",
+    "passed": "60",
+    "grades": {
+      "12": 4,
+      "10": 28,
+      "7": 21,
+      "4": 7,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 3
+    },
+    "reexam": false
+  },
+  "NIDB11015E-Summer-2023-B4": {
+    "title": "Træningsplanlægning",
+    "term": "s23/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "36",
+    "attended": "35",
+    "passed": "35",
+    "grades": {
+      "12": 2,
+      "10": 2,
+      "7": 21,
+      "4": 6,
+      "02": 4,
+      "00": 0,
+      "-3": 0,
+      "Ej mødt": 1
+    },
+    "reexam": false
+  },
+  "NIDB11015E-Summer-2022-B4": {
+    "title": "Træningsplanlægning",
+    "term": "s22/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "55",
+    "attended": "55",
+    "passed": "55",
+    "grades": {
+      "12": 10,
+      "10": 14,
+      "7": 17,
+      "4": 9,
+      "02": 5,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NIDB11015E-Summer-2021-B4": {
+    "title": "Træningsplanlægning",
+    "term": "s21/B4",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "69",
+    "attended": "69",
+    "passed": "69",
+    "grades": {
+      "12": 20,
+      "10": 23,
+      "7": 20,
+      "4": 3,
+      "02": 3,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB19008E-Summer-2026-B3": {
+    "title": "Ungdom og idræt",
+    "term": "s26/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "45",
+    "attended": "44",
+    "passed": "44",
+    "grades": {
+      "12": 9,
+      "10": 21,
+      "7": 14,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0,
+      "Ikke bestået": 1
+    },
+    "reexam": false
+  },
+  "NNEB19008E-Summer-2025-B3": {
+    "title": "Ungdom og idræt",
+    "term": "s25/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "21",
+    "attended": "21",
+    "passed": "21",
+    "grades": {
+      "12": 1,
+      "10": 6,
+      "7": 7,
+      "4": 4,
+      "02": 3,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB19008E-Summer-2024-B3": {
+    "title": "Ungdom og idræt",
+    "term": "s24/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "16",
+    "attended": "16",
+    "passed": "16",
+    "grades": {
+      "12": 0,
+      "10": 5,
+      "7": 5,
+      "4": 5,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB19008E-Summer-2023-B3": {
+    "title": "Ungdom og idræt",
+    "term": "s23/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "33",
+    "attended": "33",
+    "passed": "33",
+    "grades": {
+      "12": 6,
+      "10": 10,
+      "7": 10,
+      "4": 7,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEB19008E-Summer-2022-B3": {
+    "title": "Ungdom og idræt",
+    "term": "s22/B3",
+    "ects": "7,5",
+    "exam": true,
+    "registered": "31",
+    "attended": "31",
+    "passed": "31",
+    "grades": {
+      "12": 3,
+      "10": 9,
+      "7": 16,
+      "4": 3,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK14615E-Winter-2025-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "v25/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14615E-Summer-2025-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "Bestået": 5,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NNEK14615E-Summer-2025-B4": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "s25/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14615E-Summer-2025-B5": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "s25/B5",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14615E-Summer-2024-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14615E-Summer-2024-B4": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "s24/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14615E-Summer-2024-B5": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "s24/B5",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14615E-Winter-2022-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14615E-Winter-2021-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14615E-Winter-2021-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "v21/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14616E-Summer-2022-B5": {
+    "title": "Virksomhedsprojekt på kandidatniveau i human ernæring",
+    "term": "s22/B5",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14612E-Summer-2024-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanfysiologi",
+    "term": "s24/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14612E-Summer-2024-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanfysiologi",
+    "term": "s24/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 0,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK14612E-Summer-2024-B4": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanfysiologi",
+    "term": "s24/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14612E-Winter-2023-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanfysiologi",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14612E-Summer-2023-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanfysiologi",
+    "term": "s23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14612E-Summer-2023-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanfysiologi",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": true,
+    "registered": "5",
+    "attended": "5",
+    "passed": "5",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 0,
+      "4": 1,
+      "02": 1,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK14612E-Summer-2022-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanfysiologi",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14612E-Summer-2021-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanfysiologi",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14612E-Summer-2021-B4": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanfysiologi",
+    "term": "s21/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Summer-2026-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "s26/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Winter-2025-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "v25/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "9",
+    "attended": "9",
+    "passed": "8",
+    "grades": {
+      "Bestået": 8,
+      "Ikke bestået": 0,
+      "Ej bedømt": 1
+    },
+    "reexam": false
+  },
+  "NNEK14618E-Summer-2025-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "s25/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Summer-2025-B4": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "s25/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Winter-2024-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "v24/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Winter-2024-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "v24/B2",
+    "ects": "15",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "Bestået": 4,
+      "Ikke bestået": 0
+    },
+    "reexam": false
+  },
+  "NNEK14618E-Summer-2024-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "s24/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Winter-2023-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "v23/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Winter-2023-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "v23/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Summer-2023-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "s23/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Summer-2023-B4": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "s23/B4",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Winter-2022-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Winter-2022-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "v22/B2",
+    "ects": "15",
+    "exam": true,
+    "registered": "4",
+    "attended": "4",
+    "passed": "4",
+    "grades": {
+      "12": 2,
+      "10": 1,
+      "7": 0,
+      "4": 1,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK14618E-Summer-2022-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "s22/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Winter-2021-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "v21/B1",
+    "ects": "15",
+    "exam": true,
+    "registered": "7",
+    "attended": "7",
+    "passed": "7",
+    "grades": {
+      "12": 1,
+      "10": 3,
+      "7": 3,
+      "4": 0,
+      "02": 0,
+      "00": 0,
+      "-3": 0
+    },
+    "reexam": false
+  },
+  "NNEK14618E-Winter-2021-B2": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "v21/B2",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK14618E-Summer-2021-B3": {
+    "title": "Virksomhedsprojekt på kandidatniveau i humanistisk-samfundsvidenskabelig idrætsvidenskab",
+    "term": "s21/B3",
+    "ects": "15",
+    "exam": false
+  },
+  "NNEK23600E-Winter-2022-B1": {
+    "title": "Virksomhedsprojekt på kandidatniveau i molekylær biomedicin",
+    "term": "v22/B1",
+    "ects": "15",
+    "exam": false
+  }
+}
