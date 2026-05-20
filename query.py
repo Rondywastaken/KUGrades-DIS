@@ -47,3 +47,11 @@ def get_term_for_course (course_id):
     result = cur.fetchall()
     cur.close()
     return result
+
+def get_avg_grade (course_id):
+    query = load_query("get_avg_grade.sql")
+    cur = connect_db()
+    cur.execute(query, (course_id,))
+    result = cur.fetchall()
+    cur.close
+    return result
