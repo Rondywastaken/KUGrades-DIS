@@ -1,5 +1,7 @@
 import query
 
+EXAM_TYPE_ORDINARY = "o"
+EXAM_TYPE_REEXAM = "r"
 
 # Mirrors the institutions dict from setup.py
 INSTITUTIONS = {
@@ -24,8 +26,7 @@ def search_suggestions(search_term):
 def search_courses(search_term):
     results = []
     for course_row in query.get_courses(search_term):
-        latest = query.get_latest_exam(course_row[0])
-        exam = _build_exam(latest[0]) if latest else None
+        exam = _get_latest_display_exam(course_row[0])
         results.append({
             "id": course_row[0],
             "name": course_row[2],
@@ -78,14 +79,29 @@ def _get_terms(course_id):
     for term_row in query.get_term_for_course(course_id):
         term = term_row[0]
         exam_rows = query.get_exam_by_term(course_id, term)
-        exam_row = next((row for row in exam_rows if row[2] == "o"), None)
-        reexam_row = next((row for row in exam_rows if row[2] == "r"), None)
+        exam_row = next((row for row in exam_rows if row[2] == EXAM_TYPE_ORDINARY), None)
+        reexam_row = next((row for row in exam_rows if row[2] == EXAM_TYPE_REEXAM), None)
         terms.append({
             "term": term,
             "exam": _build_exam(exam_row) if exam_row else None,
             "reexam": _build_exam(reexam_row) if reexam_row else None,
         })
     return terms
+
+
+def _get_latest_display_exam(course_id):
+    rows = query.get_latest_exam(course_id)
+    if not rows:
+        return None
+    row = rows[0]
+    exam = _build_exam(row)
+    exam["is_reexam"] = row[2] == EXAM_TYPE_REEXAM
+    return exam
+
+
+def _display_exam(term):
+    """Prefer ordinary exam for a term; fall back to re-exam when only that exists."""
+    return term["exam"] or term["reexam"]
 
 
 # exam row column indices (SELECT * FROM exam):
@@ -134,21 +150,30 @@ def _build_exam(exam_row):
 
 
 def _build_stats(terms):
-    exam_avgs = [
+    ordinary_avgs = [
         term["exam"]["avg"]
         for term in terms
         if term["exam"] and term["exam"]["avg"] is not None
     ]
-    latest_avg = exam_avgs[0] if exam_avgs else None
-    all_time_avg = round(sum(exam_avgs) / len(exam_avgs), 1) if exam_avgs else None
-    latest_pass = terms[0]["exam"]["pass_rate"] if terms and terms[0]["exam"] else None
+    display_avgs = [
+        exam["avg"]
+        for term in terms
+        if (exam := _display_exam(term)) and exam["avg"] is not None
+    ]
+
+    latest_display = _display_exam(terms[0]) if terms else None
 
     return {
-        "latest_avg": latest_avg,
-        "all_time_avg": all_time_avg,
-        "pass_rate": latest_pass,
+        "latest_avg": latest_display["avg"] if latest_display else None,
+        "latest_is_reexam": bool(
+            latest_display and terms[0]["exam"] is None and terms[0]["reexam"]
+        ),
+        "all_time_avg": round(sum(ordinary_avgs) / len(ordinary_avgs), 1)
+        if ordinary_avgs
+        else None,
+        "pass_rate": latest_display["pass_rate"] if latest_display else None,
         "term_count": len(terms),
-        "trend": _grade_trend(exam_avgs),
+        "trend": _grade_trend(display_avgs),
     }
 
 
@@ -182,7 +207,7 @@ def _build_chart(chart_id, exam):
 
 def _build_trend_points(terms):
     return [
-        {"label": term["term"], "avg": term["exam"]["avg"]}
+        {"label": term["term"], "avg": exam["avg"]}
         for term in reversed(terms)
-        if term["exam"] and term["exam"]["avg"] is not None
+        if (exam := _display_exam(term)) and exam["avg"] is not None
     ]

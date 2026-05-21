@@ -30,11 +30,13 @@
 
       {% for term in terms %}
       <div class="tab-panel {% if not loop.first %}hidden{% endif %}" id="panel-{{ loop.index0 }}">
+        {% if term.exam or term.reexam %}
         {% if term.exam %}
         <div class="detail-chart-container">
           <canvas id="chart-{{ loop.index0 }}"></canvas>
         </div>
         {{ exam_stats(term.exam) }}
+        {% endif %}
         {% if term.reexam %}
         <div class="reexam-section">
           <div class="reexam-divider">
@@ -67,15 +69,15 @@
               {% else %}&rarr;{% endif %}
             </span>
           </strong>
-          Latest average
+          Latest average{% if stats.latest_is_reexam %} <span class="summary-reexam-tag">(re-exam)</span>{% endif %}
         </div>
         <div class="summary-stat">
           <strong>{{ stats.all_time_avg if stats.all_time_avg is not none else '—' }}</strong>
-          All-time average
+          All-time average <span class="summary-note">(ordinary exams)</span>
         </div>
         <div class="summary-stat">
-          <strong>{{ stats.pass_rate }}%</strong>
-          Latest pass rate
+          <strong>{{ stats.pass_rate if stats.pass_rate is not none else '—' }}{% if stats.pass_rate is not none %}%{% endif %}</strong>
+          Latest pass rate{% if stats.latest_is_reexam %} <span class="summary-reexam-tag">(re-exam)</span>{% endif %}
         </div>
         <div class="summary-stat">
           <strong>{{ stats.term_count }}</strong>

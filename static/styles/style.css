@@ -361,6 +361,13 @@ footer a:hover { text-decoration: underline; }
   line-height: 1.2;
 }
 
+.summary-note,
+.summary-reexam-tag {
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--muted);
+}
+
 .term-tabs {
   display: flex;
   gap: 0.4rem;

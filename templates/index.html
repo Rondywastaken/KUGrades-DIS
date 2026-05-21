@@ -48,7 +48,9 @@
           <i class="fa-solid fa-percent"></i>
           Pass <strong>{{ course.exam.pass_rate }}%</strong>
         </span>
-        <span class="result-stat result-stat--term">{{ course.exam.term | term_label }}</span>
+        <span class="result-stat result-stat--term">
+          {% if course.exam.is_reexam %}Re-exam · {% endif %}{{ course.exam.term | term_label }}
+        </span>
       </div>
       {% else %}
       <div class="result-no-data">No exam data</div>

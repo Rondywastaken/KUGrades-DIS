@@ -61,5 +61,5 @@ def get_avg_grade (course_id):
     cur = connect_db()
     cur.execute(query, (course_id,))
     result = cur.fetchall()
-    cur.close
+    cur.close()
     return result
