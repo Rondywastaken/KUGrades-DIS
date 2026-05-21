@@ -43,12 +43,21 @@ body {
 
 .logo img { height: 48px; width: auto; }
 
+.logo::after {
+  content: '';
+  width: 1px;
+  height: 32px;
+  background: var(--border);
+  order: 1;
+}
+
 .logo-name {
   font-family: 'Bricolage Grotesque', sans-serif;
   font-size: 0.95rem;
   font-weight: 800;
   color: var(--ku-red);
   letter-spacing: -0.01em;
+  order: 2;
 }
 
 nav a {
