@@ -1,11 +1,13 @@
 from flask import Flask, render_template, request, abort, jsonify
 from livereload import Server
 
+import query
 from utils.course_service import get_course_detail, search_courses, search_suggestions
 from utils.template_filters import term_label
 
 app = Flask(__name__)
 app.template_filter("term_label")(term_label)
+query.init_app(app)
 
 
 @app.route("/api/search")
