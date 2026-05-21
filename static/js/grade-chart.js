@@ -40,9 +40,52 @@ const GRADE_COLORS = [
   'rgba(184,176,168,0.55)', 'rgba(100,116,139,0.40)',
 ];
 
-function makeChart(canvasId, gradesObj, absent) {
+function makeChart(canvasId, gradesObj, absent, isPassFail) {
   const el = document.getElementById(canvasId);
   if (!el) return;
+
+  if (isPassFail) {
+    const pass = gradesObj['pass'] ?? 0;
+    const fail = gradesObj['fail'] ?? 0;
+    const na = absent ?? 0;
+    const total = pass + fail + na;
+    const pcts = [pass, fail, na].map(v => total ? +(v / total * 100).toFixed(1) : 0);
+    new Chart(el, {
+      type: 'bar',
+      data: {
+        labels: ['Pass', 'Fail', 'N/A'],
+        datasets: [{
+          data: pcts,
+          backgroundColor: ['rgba(144,26,30,0.80)', 'rgba(184,176,168,0.55)', 'rgba(100,116,139,0.40)'],
+          borderRadius: 4,
+          borderSkipped: false,
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: { callbacks: { label: c => ` ${c.parsed.y}% of attended students` } }
+        },
+        scales: {
+          y: {
+            grid: { color: '#f1efec' },
+            border: { display: false },
+            ticks: { callback: v => v + '%', font: { family: 'Outfit', size: 10 }, color: '#667085' }
+          },
+          x: {
+            grid: { display: false },
+            border: { display: false },
+            ticks: { font: { family: 'Outfit', size: 12, weight: '600' }, color: '#667085' }
+          }
+        },
+        animation: { duration: 500, easing: 'easeOutQuart' }
+      }
+    });
+    return;
+  }
+
   const raw = [
     ...['12', '10', '7', '4', '02', '00', '-3'].map(k => gradesObj[k] ?? 0),
     absent ?? 0,
@@ -94,12 +137,17 @@ function makeChart(canvasId, gradesObj, absent) {
 function makeTrendChart(canvasId, points) {
   const el = document.getElementById(canvasId);
   if (!el || !points.length) return;
+
+  const isPassFail = points.every(p => p.avg === null);
+  const data = points.map(p => isPassFail ? p.pass_rate : p.avg);
+  const yLabel = isPassFail ? 'Pass rate' : 'Avg';
+
   new Chart(el, {
     type: 'line',
     data: {
-      labels: points.map((d) => d.label),
+      labels: points.map(d => d.label),
       datasets: [{
-        data: points.map((d) => d.avg),
+        data: data,
         borderColor: 'rgba(144,26,30,0.75)',
         backgroundColor: 'rgba(144,26,30,0.07)',
         borderWidth: 2,
@@ -114,15 +162,20 @@ function makeTrendChart(canvasId, points) {
       maintainAspectRatio: false,
       plugins: {
         legend: { display: false },
-        tooltip: { callbacks: { label: (c) => ` Avg: ${c.parsed.y}` } },
+        tooltip: { callbacks: { label: c => ` ${yLabel}: ${c.parsed.y}${isPassFail ? '%' : ''}` } },
       },
       scales: {
         y: {
           min: 0,
-          max: 12,
+          max: isPassFail ? 100 : 12,
           grid: { color: '#f1efec' },
           border: { display: false },
-          ticks: { font: { family: 'Outfit', size: 10 }, color: '#667085', stepSize: 4 },
+          ticks: {
+            font: { family: 'Outfit', size: 10 },
+            color: '#667085',
+            stepSize: isPassFail ? 20 : 4,
+            callback: v => isPassFail ? v + '%' : v,
+          },
         },
         x: {
           grid: { display: false },

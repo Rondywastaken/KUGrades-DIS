@@ -129,24 +129,41 @@ def _build_exam(exam_row):
     registered = exam_row[4] or 0
     passed = exam_row[5] or 0
     pass_rate = round(passed / attended * 100, 1) if attended > 0 else 0.0
+    is_pass_fail = exam_row[6] is None
 
-    return {
-        "term": exam_row[1],
-        "registered": registered,
-        "attended": attended,
-        "passed": passed,
-        "avg": _calculate_average(exam_row),
-        "pass_rate": pass_rate,
-        "grades": {
-            "-3": exam_row[12],
-            "00": exam_row[11],
-            "02": exam_row[10],
-            "4": exam_row[9],
-            "7": exam_row[8],
-            "10": exam_row[7],
-            "12": exam_row[6],
-        },
-    }
+    if not is_pass_fail:
+        return {
+            "term": exam_row[1],
+            "registered": registered,
+            "attended": attended,
+            "passed": passed,
+            "avg": _calculate_average(exam_row),
+            "pass_rate": pass_rate,
+            "is_pass_fail": is_pass_fail,
+            "grades": {
+                "-3": exam_row[12],
+                "00": exam_row[11],
+                "02": exam_row[10],
+                "4": exam_row[9],
+                "7": exam_row[8],
+                "10": exam_row[7],
+                "12": exam_row[6],
+            },
+        }
+    else: 
+        return {
+            "term": exam_row[1],
+            "registered": registered,
+            "attended": attended,
+            "passed": passed,
+            "avg": None,
+            "pass_rate": pass_rate,
+            "is_pass_fail": is_pass_fail,
+            "grades": {
+                "fail": attended - passed,
+                "pass": passed
+            },
+        }
 
 
 def _build_stats(terms):
@@ -198,16 +215,22 @@ def _build_charts(terms):
 
 
 def _build_chart(chart_id, exam):
+    print(f"_build_chart: {chart_id}, is_pass_fail={exam['is_pass_fail']}, grades={exam['grades']}")
     return {
         "id": chart_id,
+        "is_pass_fail": exam["is_pass_fail"],
         "grades": exam["grades"],
         "absent": exam["registered"] - exam["attended"],
     }
 
-
 def _build_trend_points(terms):
-    return [
-        {"label": term["term"], "avg": exam["avg"]}
-        for term in reversed(terms)
-        if (exam := _display_exam(term)) and exam["avg"] is not None
-    ]
+    points = []
+    for term in reversed(terms):
+        exam = _display_exam(term)
+        if not exam:
+            continue
+        if exam["is_pass_fail"]:
+            points.append({"label": term["term"], "avg": None, "pass_rate": exam["pass_rate"]})
+        elif exam["avg"] is not None:
+            points.append({"label": term["term"], "avg": exam["avg"], "pass_rate": None})
+    return points

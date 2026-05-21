@@ -1,5 +1,5 @@
 function initCoursePage({ charts, trend }) {
-  charts.forEach((c) => makeChart(c.id, c.grades, c.absent));
+  charts.forEach((c) => makeChart(c.id, c.grades, c.absent, c.is_pass_fail));
   if (trend.length) makeTrendChart('trendChart', trend);
 
   document.querySelectorAll('.tab-btn').forEach((btn) => {

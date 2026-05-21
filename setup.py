@@ -26,6 +26,7 @@ if not os.path.isdir(directory):
   exit()
 
 def insert_exam(cur, course_id, term, exam_type, attended, registered, passed, grades):
+  is_pass_fail = "Bestået" in grades
   cur.execute(
     """
     INSERT INTO exam (
@@ -37,13 +38,13 @@ def insert_exam(cur, course_id, term, exam_type, attended, registered, passed, g
     """,
     (
       course_id, term, exam_type, attended, registered, passed,
-      grades.get("12", 0),
-      grades.get("10", 0),
-      grades.get("7", 0),
-      grades.get("4", 0),
-      grades.get("02", 0),
-      grades.get("00", 0),
-      grades.get("-3", 0),
+      None if is_pass_fail else grades.get("12", 0),
+      None if is_pass_fail else grades.get("10", 0),
+      None if is_pass_fail else grades.get("7", 0),
+      None if is_pass_fail else grades.get("4", 0),
+      None if is_pass_fail else grades.get("02", 0),
+      None if is_pass_fail else grades.get("00", 0),
+      None if is_pass_fail else grades.get("-3", 0),
       grades.get("Ej mødt", 0),
       grades.get("Ej bedømt", 0)
     )
@@ -55,11 +56,11 @@ try:
     conn = psycopg2.connect(database_url)
   else:
     conn = psycopg2.connect(
-      database="kugrades",
-      user="jack",
+      database="",
+      user="postgres",
       password="",
-      host="localhost",
-      port="5432"
+      host="",
+      port=""
     )
   cur = conn.cursor()
 
