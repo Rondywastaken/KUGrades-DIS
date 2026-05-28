@@ -13,9 +13,9 @@ psycopg2        (2.9.12)    # To connect and interact with postgres database
 Additionally, if you would like to try the scraper you also need the following dependencies:
 
 ```
-beautifulsoup4 (4.14.3)     # To parse html  
-requests       (2.32.5)     # To make http requests
-tqdm           (4.67.1)     # Provides a progress bar
+beautifulsoup4  (4.14.3)    # To parse html  
+requests        (2.32.5)    # To make http requests
+tqdm            (4.67.1)    # Provides a progress bar
 ```
 
 To make it easier, you can install all dependencies using the `requirements.txt` file by running:
