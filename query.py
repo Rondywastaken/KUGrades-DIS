@@ -1,15 +1,8 @@
-import os
-
 import psycopg2
-from dotenv import load_dotenv
 from flask import g, has_request_context
 
-load_dotenv()
 
 def _create_connection():
-    database_url = os.environ.get("DATABASE_URL")
-    if database_url:
-        return psycopg2.connect(database_url)
     return psycopg2.connect(
         database="KUGrades",
         user="postgres",
