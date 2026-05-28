@@ -59,3 +59,8 @@ This starts a local development server at http://localhost:7070.
 
 ## E/R Diagram
 ![E/R Diagram](er-diagram.png)
+
+## Authors
+- Roni Temizsoy (rpg993)
+- Albert Kuhlman Mogensen (chs235)
+- Jack Bjerregaard (ldh587)
