@@ -3,9 +3,6 @@
 import psycopg2
 import json
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
 
 institutions = {
     65718: "Biologisk Institut",

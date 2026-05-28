@@ -1,5 +1,7 @@
 .venv/
 __pycache__/
 .pgdata/
+.postgres/
+.postgres.log
 logfile
 .env

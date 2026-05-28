@@ -1,3 +1,5 @@
+import os
+
 import psycopg2
 from flask import g, has_request_context
 
