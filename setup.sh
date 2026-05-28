@@ -1,9 +1,29 @@
 #!/bin/bash
+set -e
+
+command -v psql >/dev/null 2>&1 || {
+  echo "Error: psql not found. Install PostgreSQL and make sure it is on PATH."
+  exit 1
+}
+
+command -v python >/dev/null 2>&1 || {
+  echo "Error: python not found. Activate your virtual environment first."
+  exit 1
+}
+
+python -c "import psycopg2" >/dev/null 2>&1 || {
+  echo "Error: psycopg2 not installed. Run: pip install -r requirements.txt"
+  exit 1
+}
 
 # 1. Creates the database with the name KUGrades:
 echo "[1/3] Creating database 'kugrades'..."
-psql -U postgres -c "CREATE DATABASE kugrades OWNER postgres;"
-echo "Database created"
+if psql -U postgres -d postgres -tAc "SELECT 1 FROM pg_database WHERE datname = 'kugrades'" | grep -q 1; then
+  echo "Database already exists"
+else
+  psql -U postgres -c "CREATE DATABASE kugrades OWNER postgres;"
+  echo "Database created"
+fi
 echo ""
 
 # 2. Constructs the database structure using the defined schema, which follows the E/R diagram:

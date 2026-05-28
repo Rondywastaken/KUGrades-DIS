@@ -18,14 +18,21 @@ requests        (2.32.5)    # To make http requests
 tqdm            (4.67.1)    # Provides a progress bar
 ```
 
-To make it easier, you can install all dependencies using the `requirements.txt` file by running:
+We recommend using a Python virtual environment. On most systems, Python 3 is available as `python3`:
+
+```
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+Inside an activated virtual environment, `python` should point to the virtual environment's Python 3 interpreter. You can then install all dependencies using the `requirements.txt` file by running:
 
 ```
 pip install -r requirements.txt
 ```
 
 ## Setup
-NOTE: Before building the database, make sure PostgreSQL is running. Since starting it differs per operating system, we leave this step to the user. To build and populate the database, execute the `setup.sh` script, which performs the following steps:
+NOTE: Before building the database, make sure PostgreSQL is running. Since starting it differs per operating system, we leave this step to the user. Also make sure your virtual environment is activated before running the setup script. To build and populate the database, execute the `setup.sh` script, which performs the following steps:
 
 1. Creates the database with the name KUGrades:
 ```
