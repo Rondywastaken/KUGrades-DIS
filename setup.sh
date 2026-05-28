@@ -1,41 +1,52 @@
 #!/bin/bash
-set -e
 
-command -v psql >/dev/null 2>&1 || {
-  echo "Error: psql not found. Install PostgreSQL and make sure it is on PATH."
-  exit 1
-}
-
-command -v python >/dev/null 2>&1 || {
-  echo "Error: python not found. Activate your virtual environment first."
-  exit 1
-}
-
-python -c "import psycopg2" >/dev/null 2>&1 || {
-  echo "Error: psycopg2 not installed. Run: pip install -r requirements.txt"
-  exit 1
-}
-
-# 1. Creates the database with the name KUGrades:
-echo "[1/3] Creating database 'kugrades'..."
-if psql -U postgres -d postgres -tAc "SELECT 1 FROM pg_database WHERE datname = 'kugrades'" | grep -q 1; then
-  echo "Database already exists"
+# check dependencies
+if command -v python &>/dev/null; then
+    PYTHON=python
+elif command -v python3 &>/dev/null; then
+    PYTHON=python3
 else
-  psql -U postgres -c "CREATE DATABASE kugrades OWNER postgres;"
-  echo "Database created"
+    echo "Python not found. Please install Python and try again"
+    exit 1
+fi
+
+if ! command -v psql &>/dev/null; then
+  echo "psql not found. Please install PostgreSQL and try again"
+fi
+
+if ! python -c "import psycopg2" &>/dev/null; then
+    echo "psycopg2 not found. Please install psycopg2 or run 'pip install -r requirements.txt' and try again"
+    exit 1
+fi
+
+# 1. Creates the database with the name kugrades:
+echo "[1/3] Creating database 'kugrades'..."
+if psql -U postgres -c "CREATE DATABASE kugrades OWNER postgres;"; then
+    echo "Database created"
+else
+    echo "Failed to create database. Please make sure that PostgreSQL is running"
+    exit 1
 fi
 echo ""
 
-# 2. Constructs the database structure using the defined schema, which follows the E/R diagram:
+# 2. Constructs the database structure using the defined schema:
 echo "[2/3] Building database schema..."
-psql -U postgres -d kugrades < schema.sql
-echo "Schema applied"
+if psql -U postgres -d kugrades < schema.sql; then
+    echo "Schema applied"
+else
+    echo "Failed to apply schema"
+    exit 1
+fi
 echo ""
 
-# 3. Populates the database with data from the `data/` folder, which has been scraped using the scraper (see `scrape.py`):
+# 3. Populates the database with data from the data/ folder:
 echo "[3/3] Populating database with data..."
-python setup.py
-echo "Database has been populated"
+if $PYTHON setup.py; then
+    echo "Database populated"
+else
+    echo "Failed to populate database"
+    exit 1
+fi
 echo ""
 
-echo "Setup complete! Run 'python app.py' to start the application"
+echo "Setup complete! Run '$PYTHON app.py' to start the application"
