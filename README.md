@@ -25,16 +25,16 @@ pip install -r requirements.txt
 ```
 
 ## Setup
-To build and populate the database, execute the `setup.sh` script, which performs the following steps:
+NOTE: Before building the database, make sure PostgreSQL is running. Since starting it differs per operating system, we leave this step to the user. To build and populate the database, execute the `setup.sh` script, which performs the following steps:
 
 1. Creates the database with the name KUGrades:
 ```
-psql -U postgres -c "CREATE DATABASE KUGrades OWNER postgres;"
+psql -U postgres -c "CREATE DATABASE kugrades OWNER postgres;"
 ```
 
 2. Constructs the database structure using the defined schema, which follows the E/R diagram:
 ```
-psql < schema.sql
+psql -U postgres -d kugrades < schema.sql 
 ```
 
 3. Populates the database with data from the `data/` folder, which has been scraped using the scraper (see `scrape.py`):

@@ -6,7 +6,7 @@ from flask import g, has_request_context
 
 def _create_connection():
     return psycopg2.connect(
-        database="KUGrades",
+        database="kugrades",
         user="postgres",
         password="",
         host="localhost",

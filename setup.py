@@ -53,7 +53,7 @@ try:
     conn = psycopg2.connect(database_url)
   else:
     conn = psycopg2.connect(
-      database="KUGrades",
+      database="kugrades",
       user="postgres",
       password="",
       host="localhost",
