@@ -56,11 +56,11 @@ try:
     conn = psycopg2.connect(database_url)
   else:
     conn = psycopg2.connect(
-      database="",
+      database="KUGrades",
       user="postgres",
       password="",
-      host="",
-      port=""
+      host="localhost",
+      port="5432"
     )
   cur = conn.cursor()
 

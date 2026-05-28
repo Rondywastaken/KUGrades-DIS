@@ -11,11 +11,11 @@ def _create_connection():
     if database_url:
         return psycopg2.connect(database_url)
     return psycopg2.connect(
-        database="",
+        database="KUGrades",
         user="postgres",
         password="",
-        host="",
-        port="",
+        host="localhost",
+        port="5432"
     )
 
 
