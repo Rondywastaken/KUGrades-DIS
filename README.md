@@ -73,4 +73,4 @@ This starts a local development server at http://localhost:7070.
 - Jack Bjerregaard (ldh587)
 
 ## AI declaration
-[AI Declaration](AI for DIS PDF.pdf)
+[AI Declaration](AI%20for%20DIS%20PDF.pdf)
