@@ -71,3 +71,6 @@ This starts a local development server at http://localhost:7070.
 - Roni Temizsoy (rpg993)
 - Albert Kuhlman Mogensen (chs235)
 - Jack Bjerregaard (ldh587)
+
+## AI declaration
+![AI Declaration](AI-for-DIS-pdf.pdf)
