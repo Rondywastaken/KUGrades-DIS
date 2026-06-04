@@ -215,7 +215,6 @@ def _build_charts(terms):
 
 
 def _build_chart(chart_id, exam):
-    print(f"_build_chart: {chart_id}, is_pass_fail={exam['is_pass_fail']}, grades={exam['grades']}")
     return {
         "id": chart_id,
         "is_pass_fail": exam["is_pass_fail"],

@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # check dependencies
-if command -v python &>/dev/null; then
-    PYTHON=python
-elif command -v python3 &>/dev/null; then
+if command -v python3 &>/dev/null; then
     PYTHON=python3
+elif command -v python &>/dev/null; then
+    PYTHON=python
 else
     echo "Python not found. Please install Python and try again"
     exit 1
@@ -21,7 +21,7 @@ fi
 
 # 1. Creates the database with the name kugrades:
 echo "[1/3] Creating database 'kugrades'..."
-if psql -U postgres -c "CREATE DATABASE kugrades OWNER postgres;"; then
+if psql -U postgres -c "CREATE DATABASE kugrades;"; then
     echo "Database created"
 else
     echo "Failed to create database. Please make sure that PostgreSQL is running"

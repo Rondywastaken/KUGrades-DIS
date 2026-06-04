@@ -5,13 +5,7 @@ from flask import g, has_request_context
 
 
 def _create_connection():
-    return psycopg2.connect(
-        database="kugrades",
-        user="postgres",
-        password="",
-        host="localhost",
-        port="5432"
-    )
+    return psycopg2.connect(database="kugrades")
 
 
 def _get_connection():

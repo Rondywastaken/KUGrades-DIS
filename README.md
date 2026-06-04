@@ -32,11 +32,13 @@ pip install -r requirements.txt
 ```
 
 ## Setup
-NOTE: Before building the database, make sure PostgreSQL is running. Since starting it differs per operating system, we leave this step to the user. Also make sure your virtual environment is activated before running the setup script. To build and populate the database, execute the `setup.sh` script, which performs the following steps:
+NOTE: Before building the database, make sure PostgreSQL is running. Since starting it differs per operating system, we leave this step to the user. Also make sure your virtual environment is activated before running the setup script.
+
+To build and populate the database, execute the `setup.sh` script, which performs the following steps:
 
 1. Creates the database with the name KUGrades:
 ```
-psql -U postgres -c "CREATE DATABASE kugrades OWNER postgres;"
+psql -U postgres -c "CREATE DATABASE kugrades;"
 ```
 
 2. Constructs the database structure using the defined schema, which follows the E/R diagram:
@@ -46,13 +48,13 @@ psql -U postgres -d kugrades < schema.sql
 
 3. Populates the database with data from the `data/` folder, which has been scraped using the scraper (see `scrape.py`):
 ```
-python setup.py
+python3 setup.py
 ```
 
 ## Usage
 Starting the application is straightforward, simply run:
 ```
-python app.py
+python3 app.py
 ```
 This starts a local development server at http://localhost:7070.
 
