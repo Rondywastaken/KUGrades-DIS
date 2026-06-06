@@ -21,7 +21,7 @@ fi
 
 # 1. Creates the database with the name kugrades:
 echo "[1/3] Creating database 'kugrades'..."
-if psql -U postgres -c "CREATE DATABASE kugrades;"; then
+if psql -d postgres -c "CREATE DATABASE kugrades;"; then
     echo "Database created"
 else
     echo "Failed to create database. Please make sure that PostgreSQL is running"
