@@ -58,6 +58,28 @@ python3 app.py
 ```
 This starts a local development server at http://localhost:7070.
 
+## Interaction Instructions
+Once you have started the application, you can open it on http://localhost:7070 in a browser.
+
+Users can interact with KU grades by searching for a course using the search bar on the front page. The search works similar to a Google style search field; users begin typing a course name or code and the application searches for matching courses. Unfortunately a current limitation to our implementation is that it only supports exact or partial spelling, but does not correct typos, thus misspelled course names will not return results.
+
+When users begin typing, the application shows a dropdown list of possible matching courses. Selecting one of those results opens up the individual course page.
+
+On this page, users can view grade statistics such as number of registered students, attendance, passed students, pass rate, average grade, and the grade distribution. Users can also switch between different terms for the course to compare statistics across semesters.
+
+## Screenshots
+The landing page contains the main search bar. This is where users start by typing a course name or course code.
+
+![Landing page](docs/landing-page.png)
+
+When a user begins searching, KU-Grades shows a dropdown list of possible course results.
+
+![Search results dropdown](docs/search-results.png)
+
+The individual course page shows the grade distribution, summary statistics, and term navigation for the selected course.
+
+![Individual course page](docs/course-page.png)
+
 ## Architecture
 `app.py` serves as the main entry point, handling routing and rendering of HTML templates. When a user submits a search request, Flask routes it to the appropriate handler, which:
 
